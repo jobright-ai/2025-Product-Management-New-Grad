@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Product%20Management by Jobright.ai
+# Daily Intern Jobs in Product Management by Jobright.ai
 
 
 
