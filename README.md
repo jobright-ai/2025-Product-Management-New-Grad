@@ -1,12 +1,12 @@
 
-# Daily Intern Jobs in Product Management by Jobright.ai
+# Daily New Grad Jobs in Product Management by Jobright.ai
 
 
 
-**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:**  and Product Design.
+**This job repository is your go-to resource for discovering and sharing the latest new grad opportunities in:**  and Product Design.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Product%20Management&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available new grad positions, for a comprehensive list of new grad jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Product%20Management&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
@@ -85,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66c7cae184ea9b4f4515691d?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | Hybrid | Aug 22 |
 | **[Kate Spade](https://www.katespade.com/)** | **[Coordinator, Product Development](https://jobright-internal.com/jobs/info/66c7b2e6749f595db9b2f0d9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
 | **[Seismic](http://seismic.com)** | **[Product Manager (Knowledge)](https://jobright-internal.com/jobs/info/66c7bcf2d08dca3ef67eda55?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Aug 22 |
-| ↳ | **[Product Manager (Knowledge)](https://jobright-internal.com/jobs/info/66c7bcf2d08dca3ef67eda60?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Aug 22 |
 | ↳ | **[Product Manager (Knowledge)](https://jobright-internal.com/jobs/info/66c7bcf2d08dca3ef67eda61?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 22 |
+| ↳ | **[Product Manager (Knowledge)](https://jobright-internal.com/jobs/info/66c7bcf2d08dca3ef67eda60?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Aug 22 |
 | ↳ | **[Product Manager (Knowledge)](https://jobright-internal.com/jobs/info/66c7a8b82e8ce1fb3cd8f3a1?utm_campaign=Product%20Management&utm_source=1103)** | Indianapolis, IN | Hybrid | Aug 22 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager - Redmond](https://jobright-internal.com/jobs/info/66c7ae4f584c75fe0dc3365f?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Aug 22 |
 | **[3Z Brands](https://www.3zbrands.com)** | **[Associate Digital Product Manager](https://jobright-internal.com/jobs/info/66c7a68ecd3147420dc2c4ee?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Aug 22 |
@@ -131,9 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Actuarial Product Assistant](https://jobright-internal.com/jobs/info/66c3b3dd21c150ca6e7e3e5b?utm_campaign=Product%20Management&utm_source=1103)** | Rock Island, IL | Hybrid | Aug 20 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright-internal.com/jobs/info/66c49182d705c62859cbc298?utm_campaign=Product%20Management&utm_source=1103)** | Greenville, NC | On Site | Aug 20 |
 | ↳ | **[Product Specialist Advisor](https://jobright-internal.com/jobs/info/66c4948cc6520d492a7f6a84?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Aug 20 |
-| **[Adobe](http://www.adobe.com)** | **[MBA University Graduate - Product Manager](https://jobright-internal.com/jobs/info/66c47af8f085fd653ccdd350?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 20 |
-| ↳ | **[MBA University Graduate - Product Manager](https://jobright-internal.com/jobs/info/66c473f8935c81a29c82e81e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 20 |
+| **[Adobe](http://www.adobe.com)** | **[MBA University Graduate - Product Manager](https://jobright-internal.com/jobs/info/66c473f8935c81a29c82e81e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 20 |
 | **[Confluent](https://confluent.io/)** | **[Product Manager, ISV Partnerships](https://jobright-internal.com/jobs/info/668ff37ae195ae74be92e115?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[RSM](http://www.rsmus.com/)** | **[Tax Technology Associate](https://jobright-internal.com/jobs/info/66a85f2402427a5cedacb42a?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Aug 20 |
-| **[Lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright-internal.com/jobs/info/66c3fa8360e6aa6c11d71a43?utm_campaign=Product%20Management&utm_source=1103)** | Metairie, LA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
