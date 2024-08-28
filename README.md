@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Senior Associate-Digital Product Management](https://jobright-internal.com/jobs/info/66ce5b53dbf8d52fd6552076?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 27 |
+| ↳ | **[Associate-Digital Product Management](https://jobright-internal.com/jobs/info/66ce4ad19dd32603c916007d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 27 |
+| **[Macy's](http://www.macysjobs.com)** | **[Product Development Assistant](https://jobright-internal.com/jobs/info/66ce34ce19cb0574dd403351?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 27 |
 | **[PIMCO](http://www.pimco.com)** | **[Product Strategy Associate - Equity/Asset Allocation](https://jobright-internal.com/jobs/info/667f51ec783e54dc254e7824?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Aug 27 |
+| **[SpaceX](https://www.spacex.com)** | **[Product Growth Analyst](https://jobright-internal.com/jobs/info/66b1943bd3b2130e13e5d6ba?utm_campaign=Product%20Management&utm_source=1103)** | Hawthorne, CA | On Site | Aug 27 |
 | **[YipitData](https://yipitdata.com)** | **[Product Associate](https://jobright-internal.com/jobs/info/663c0ea3a7823ee22404b486?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate](https://jobright-internal.com/jobs/info/66b1a72defe25d4df98869ea?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 27 |
 | **[iXL](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright-internal.com/jobs/info/66955a19fbfbadbf06b6470d?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Aug 27 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66cd61b04d155dac6d1a6d86?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 26 |
 | ↳ | **[MBA University Graduate - Product Manager](https://jobright-internal.com/jobs/info/66cd61b04d155dac6d1a6d85?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 26 |
 | **[Dine Brands Global](https://www.dinebrands.com)** | **[Menu Publishing Analyst](https://jobright-internal.com/jobs/info/66cd2b933183177678432cb0?utm_campaign=Product%20Management&utm_source=1103)** | Pasadena, CA | On Site | Aug 26 |
-| **[Adobe](http://www.adobe.com)** | **[Technology Compliance Product Owner](https://jobright-internal.com/jobs/info/66cd0e2261c9071241b25daf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 26 |
 | **[East West Bank](http://eastwestbank.com)** | **[Technical Product Owner](https://jobright-internal.com/jobs/info/66cd0833f27d383d2da4240b?utm_campaign=Product%20Management&utm_source=1103)** | El Monte, CA | On Site | Aug 26 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[Early Careers Associate Product Manager](https://jobright-internal.com/jobs/info/66cd0833f27d383d2da4247e?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | On Site | Aug 26 |
 | ↳ | **[Early Careers Associate Product Manager](https://jobright-internal.com/jobs/info/66ccfc251e79a91c3d4e8780?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | On Site | Aug 26 |
@@ -92,10 +95,10 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright-internal.com/jobs/info/66c847f74a0e6bd4d55cec80?utm_campaign=Product%20Management&utm_source=1103)** | Spring, TX | On Site | Aug 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate](https://jobright-internal.com/jobs/info/66c845214640d0cc4f99f3f7?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Aug 23 |
 | **[Ammunition2go](http://www.ammunition2go.com)** | **[Product Expert](https://jobright-internal.com/jobs/info/66c841ebba6e8feaefc23c57?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Aug 23 |
-| **[Yes Energy](https://www.yesenergy.com/)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66c7eb9c7f9fd0b637de7265?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Aug 22 |
+| **[Yes Energy](https://www.yesenergy.com/)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66c7eb9c7f9fd0b637de76c7?utm_campaign=Product%20Management&utm_source=1103)** | Dedham, MA | Hybrid | Aug 22 |
+| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66c7eb9c7f9fd0b637de7265?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Aug 22 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66c7eb9c7f9fd0b637de76c5?utm_campaign=Product%20Management&utm_source=1103)** | Boulder, CO | Hybrid | Aug 22 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66c7eb9c7f9fd0b637de76c6?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | Aug 22 |
-| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66c7eb9c7f9fd0b637de76c7?utm_campaign=Product%20Management&utm_source=1103)** | Dedham, MA | Hybrid | Aug 22 |
 | **[Kate Spade](https://www.katespade.com/)** | **[Coordinator, Product Development](https://jobright-internal.com/jobs/info/66c7b2e6749f595db9b2f0d9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
 | **[Seismic](http://seismic.com)** | **[Product Manager (Knowledge)](https://jobright-internal.com/jobs/info/66c7bcf2d08dca3ef67eda55?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Aug 22 |
 | ↳ | **[Product Manager (Knowledge)](https://jobright-internal.com/jobs/info/66c7bcf2d08dca3ef67eda60?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Aug 22 |
