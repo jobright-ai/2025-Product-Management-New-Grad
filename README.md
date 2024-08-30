@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CriticalRiver](https://www.criticalriver.com/)** | **[Junior Salesforce Product Manager](https://jobright-internal.com/jobs/info/66d0fc4d6e4f50456a641de8?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | On Site | Aug 29 |
+| **[Lightpath](https://lightpathfiber.com/)** | **[Product Analyst](https://jobright-internal.com/jobs/info/66d0e9cc87bba50c7655758c?utm_campaign=Product%20Management&utm_source=1103)** | Golden, CO | On Site | Aug 29 |
+| **[Rainbow Shops](https://www.rainbowshops.com)** | **[eCommerce Operations Specialist](https://jobright-internal.com/jobs/info/66d0d44b861759d914b6394e?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | On Site | Aug 29 |
+| **[West Elm](https://www.westelm.com/)** | **[Product Coordinator](https://jobright-internal.com/jobs/info/66d0ef615f2297e13a7981af?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | Hybrid | Aug 29 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Microsoft AI Development Acceleration Program](https://jobright-internal.com/jobs/info/66d0cc706df78098fa17ab8a?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | Hybrid | Aug 29 |
 | **[Scale AI](https://scale.com)** | **[Associate Product Manager - New Grad](https://jobright-internal.com/jobs/info/66d0c435bc94c66ad983b417?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | Hybrid | Aug 29 |
+| **[Accenture Federal Services](https://www.accenture.com)** | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66d0d44b861759d914b63d34?utm_campaign=Product%20Management&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Aug 29 |
 | **[United States Postal Service (USPS)](http://www.usps.com)** | **[Product Management Solutions Analyst I](https://jobright-internal.com/jobs/info/66d0c435bc94c66ad983b767?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | On Site | Aug 29 |
 | **[Condé Nast](http://www.condenast.com)** | **[Product Writer](https://jobright-internal.com/jobs/info/6697a125faafd78eea23c258?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 29 |
 | **[Aristocrat](http://www.aristocrat.com)** | **[Graduate Product Manager](https://jobright-internal.com/jobs/info/66d061b59c7a696117908fd1?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | Hybrid | Aug 29 |
@@ -71,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Associate](https://jobright-internal.com/jobs/info/6696f4218fdcab953eb0a74c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 29 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright-internal.com/jobs/info/66d0289e8f0b88dc6fb04c95?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Aug 29 |
 | **[Walmart](http://www.walmart.com)** | **[Product Manager II](https://jobright-internal.com/jobs/info/66d026fa84e0a1722f22f65d?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Aug 29 |
-| **[Safeway](http://www.safeway.com)** | **[Technical Product Analyst](https://jobright-internal.com/jobs/info/66cfebf83ed5fc89c0a3f1e1?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | Hybrid | Aug 28 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Enterprise Payments](https://jobright-internal.com/jobs/info/66d05818f48e3c6e98b4a534?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 28 |
 | ↳ | **[Senior Associate, Product Manager - Enterprise Payments](https://jobright-internal.com/jobs/info/66d05818f48e3c6e98b4a58d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 28 |
 | ↳ | **[Senior Associate, Product Manager - Enterprise Payments](https://jobright-internal.com/jobs/info/66d05818f48e3c6e98b4a5ad?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 28 |
@@ -127,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](http://www.cintas.com)** | **[Production Associate](https://jobright-internal.com/jobs/info/66c866ca65b6b07d782f8637?utm_campaign=Product%20Management&utm_source=1103)** | Gahanna, OH | On Site | Aug 23 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright-internal.com/jobs/info/66c847f74a0e6bd4d55cec80?utm_campaign=Product%20Management&utm_source=1103)** | Spring, TX | On Site | Aug 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate](https://jobright-internal.com/jobs/info/66c845214640d0cc4f99f3f7?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Aug 23 |
-| **[Ammunition2go](http://www.ammunition2go.com)** | **[Product Expert](https://jobright-internal.com/jobs/info/66c841ebba6e8feaefc23c57?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
