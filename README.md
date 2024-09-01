@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oddity](https://www.oddity.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66d434322833829d5eb30dcc?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Sep 01 |
+| **[Blackstone Group](http://blackstone.com)** | **[Private Equity Investor Product Strategy, Analyst](https://jobright-internal.com/jobs/info/66b7e926d35c7c24e368de58?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Sep 01 |
 | **[Seek Thermal](http://thermal.com/)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66d415f71673f5d29b027a8e?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | On Site | Aug 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate](https://jobright-internal.com/jobs/info/66b613c9b6a41cebf81af4df?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 31 |
 | ↳ | **[Product Manager Graduate (TikTok-PGC)](https://jobright-internal.com/jobs/info/66b613c9b6a41cebf81af4f2?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 31 |
@@ -77,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Annalect](http://www.annalect.com)** | **[Product Analyst](https://jobright-internal.com/jobs/info/667c47763a9f6591e8a5f501?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 30 |
 | **[Ottawa Senators Hockey Club](http://senators.nhl.com)** | **[Product Manager, Digital Platforms](https://jobright-internal.com/jobs/info/66b4f673f01a82bf616022f7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 30 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Graduate](https://jobright-internal.com/jobs/info/66cc0a3d82e7abe6b1b4a25b?utm_campaign=Product%20Management&utm_source=1103)** | Spring, TX | On Site | Aug 29 |
-| **[Viant](http://viantinc.com/)** | **[Product Analyst](https://jobright-internal.com/jobs/info/66d1423b07bf1ac5d4027bc8?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | Hybrid | Aug 29 |
+| **[Viant](http://viantinc.com/)** | **[Product Analyst](https://jobright-internal.com/jobs/info/66d12ce830ad6bf60b371ac2?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | Hybrid | Aug 29 |
 | **[Rainbow Shops](https://www.rainbowshops.com)** | **[eCommerce Operations Specialist](https://jobright-internal.com/jobs/info/66d0d44b861759d914b6394e?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | On Site | Aug 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Microsoft AI Development Acceleration Program](https://jobright-internal.com/jobs/info/66d0cc706df78098fa17ab8a?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | Hybrid | Aug 29 |
 | **[Scale AI](https://scale.com)** | **[Associate Product Manager - New Grad](https://jobright-internal.com/jobs/info/66d0c435bc94c66ad983b417?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | Hybrid | Aug 29 |
