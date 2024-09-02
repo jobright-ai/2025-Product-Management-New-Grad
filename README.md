@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seek Thermal](http://thermal.com/)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66d56f5d910eb47098b80cb5?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | On Site | Sep 01 |
+| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66d533da3bab13c1979dd7b4?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | On Site | Sep 01 |
 | **[Oddity](https://www.oddity.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66d434322833829d5eb30dcc?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Sep 01 |
 | **[Blackstone Group](http://blackstone.com)** | **[Private Equity Investor Product Strategy, Analyst](https://jobright-internal.com/jobs/info/66b7e926d35c7c24e368de58?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Sep 01 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright-internal.com/jobs/info/66d0289e8f0b88dc6fb04c95?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Sep 01 |
