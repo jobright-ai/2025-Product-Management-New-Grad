@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright-internal.com/jobs/info/66d60d6eccfb1c1c5a6466a8?utm_campaign=Product%20Management&utm_source=1103)** | Tampa, FL | On Site | Sep 02 |
 | **[Seek Thermal](http://thermal.com/)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66d5de48b99b8dbd70314641?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | On Site | Sep 02 |
-| **[Seek Thermal](http://thermal.com/)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66d533da3bab13c1979dd7b4?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | On Site | Sep 01 |
 | **[Oddity](https://www.oddity.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66d434322833829d5eb30dcc?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Sep 01 |
 | **[Blackstone Group](http://blackstone.com)** | **[Private Equity Investor Product Strategy, Analyst](https://jobright-internal.com/jobs/info/66b7e926d35c7c24e368de58?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Sep 01 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright-internal.com/jobs/info/66d0289e8f0b88dc6fb04c95?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Sep 01 |
@@ -132,6 +131,4 @@ For a complete list, click the following sortable link below:
 | **[iXL](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright-internal.com/jobs/info/66955a19fbfbadbf06b6470d?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Aug 27 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Access Management Product Manager](https://jobright-internal.com/jobs/info/66b18b144e9dfe63207e234a?utm_campaign=Product%20Management&utm_source=1103)** | White Plains, NY | On Site | Aug 27 |
 | **[iXL](https://www.ixl.com/)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66955dacb24bf2f353035f20?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Aug 27 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright-internal.com/jobs/info/66cd8527e74049fef7e1ed8a?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Aug 27 |
-| **[Adobe](http://www.adobe.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66cd61b04d155dac6d1a6d86?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
