@@ -57,18 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nationwide Mutual Insurance](http://nationwide.com)** | **[Associate Product Manager - Personal Lines](https://jobright-internal.com/jobs/info/66da89014de1e6691530cb18?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Sep 05 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 1 - Loyalty](https://jobright-internal.com/jobs/info/66da7bceaa116a8d5da45595?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Sep 05 |
 | **[Amazon Web Services](http://aws.amazon.com)** | **[Product Operations Analyst](https://jobright-internal.com/jobs/info/66da6709fb538750c3cddcfa?utm_campaign=Product%20Management&utm_source=1103)** | Arlington, VA | On Site | Sep 05 |
 | ↳ | **[Product Operations Analyst](https://jobright-internal.com/jobs/info/66da64d1d6f517e70cbd9bf9?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Sep 05 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 1 - Loyalty](https://jobright-internal.com/jobs/info/66da6bf3d8393e2a0fe61c5f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Sep 05 |
 | **[Stio](http://www.stio.com/)** | **[Product Line Coordinator](https://jobright-internal.com/jobs/info/66da64d1d6f517e70cbd9d11?utm_campaign=Product%20Management&utm_source=1103)** | Jackson, WY | On Site | Sep 05 |
 | **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8bc?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8bb?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | On Site | Sep 05 |
-| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8c2?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8c0?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | On Site | Sep 05 |
+| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8c2?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8be?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8c4?utm_campaign=Product%20Management&utm_source=1103)** | Indianapolis, IN | On Site | Sep 05 |
-| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8cd?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8ce?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Sep 05 |
+| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8cd?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8d8?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8d9?utm_campaign=Product%20Management&utm_source=1103)** | Philadelphia, PA | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da64d1d6f517e70cbd9d83?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Sep 05 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da39f4272d39a37621f002?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da39f4272d39a37621f420?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a22?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Sep 05 |
-| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a23?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a24?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 05 |
+| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a23?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a25?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a26?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a27?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Sep 05 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff16d?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff16e?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff16f?utm_campaign=Product%20Management&utm_source=1103)** | Charlottesville, VA | Hybrid | Sep 05 |
-| ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff171?utm_campaign=Product%20Management&utm_source=1103)** | Montgomery, AL | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff170?utm_campaign=Product%20Management&utm_source=1103)** | Little Rock, AR | Hybrid | Sep 05 |
+| ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff171?utm_campaign=Product%20Management&utm_source=1103)** | Montgomery, AL | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff172?utm_campaign=Product%20Management&utm_source=1103)** | Antioch, TN | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9fe0202f5c1a3d86de6bb?utm_campaign=Product%20Management&utm_source=1103)** | Eastover, SC | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9d25a5f6a75c2d8a2c25f?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Sep 05 |
@@ -105,13 +107,11 @@ For a complete list, click the following sortable link below:
 | **[EarnIn](https://www.earnin.com)** | **[FinTech Product Entrepreneur in Residence](https://jobright-internal.com/jobs/info/6677b8809c2d9fa5bf088efd?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Sep 05 |
 | **[UGG Boots 24/7](http://www.ugg.com/)** | **[Product Coordinator - UGG Apparel, Accessories, & Home](https://jobright-internal.com/jobs/info/66bcd100ab58b1e17d77c3ef?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | On Site | Sep 05 |
 | **[Deckers Outdoor Corporation](http://deckers.com)** | **[Product Coordinator - Men's Footwear](https://jobright-internal.com/jobs/info/66bcd6acbe43c30898709776?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | On Site | Sep 05 |
-| **[Baebies](http://baebies.com)** | **[Senior Product Solutions Engineer](https://jobright-internal.com/jobs/info/66d9971899d29b647f64213e?utm_campaign=Product%20Management&utm_source=1103)** | Durham, NC | On Site | Sep 05 |
 | **[Adobe](http://www.adobe.com)** | **[MBA University Graduate - Product Manager](https://jobright-internal.com/jobs/info/66d9470b07b817c440ff17f8?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Sep 04 |
 | **[Owner](https://owner.com)** | **[Launch Specialist](https://jobright-internal.com/jobs/info/66d9246882c09f0b2f533bfd?utm_campaign=Product%20Management&utm_source=1103)** | Bogota, NJ | On Site | Sep 04 |
 | **[Belcan Corp.](http://belcan.com/)** | **[Product Researcher](https://jobright-internal.com/jobs/info/66da36bbddd0a16996dfa20e?utm_campaign=Product%20Management&utm_source=1103)** | Mason, OH | On Site | Sep 04 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 1 - Loyalty](https://jobright-internal.com/jobs/info/66da4d388e222557fd2ef3b8?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Sep 04 |
 | **[U.S. News & World Report](http://www.usnews.com/)** | **[Product & Data Analyst](https://jobright-internal.com/jobs/info/66d8b8bda5f47757efe9d4d4?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 04 |
-| **[Seek Thermal](http://thermal.com/)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66d8af5734fad4d29b794339?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | On Site | Sep 04 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Business Cards & Payments](https://jobright-internal.com/jobs/info/66d883742afb62747fbe6c9a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Sep 04 |
 | ↳ | **[Senior Associate, Product Management - Business Cards & Payments](https://jobright-internal.com/jobs/info/66d883742afb62747fbe6d0e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Sep 04 |
 | ↳ | **[Senior Associate, Product Management - Business Cards & Payments](https://jobright-internal.com/jobs/info/66d883742afb62747fbe6d31?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 04 |
@@ -138,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Lightpath](https://lightpathfiber.com/)** | **[Product Analyst](https://jobright-internal.com/jobs/info/66d76591a62ced1312e87947?utm_campaign=Product%20Management&utm_source=1103)** | Golden, CO | On Site | Sep 03 |
 | **[Regional Income Tax Agency](https://www.ritaohio.com/)** | **[Business Analyst/Quality Assurance](https://jobright-internal.com/jobs/info/66d755f2251964ac52f4dfc7?utm_campaign=Product%20Management&utm_source=1103)** | Brecksville, OH | Hybrid | Sep 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok Search)](https://jobright-internal.com/jobs/info/66bace13ceebe88512f6d900?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Sep 03 |
-| **[State Street Corporation](http://www.statestreet.com)** | **[AIS Business Strategy and Planning, Associate 2](https://jobright-internal.com/jobs/info/66cebf407e186c81760172d4?utm_campaign=Product%20Management&utm_source=1103)** | Princeton, NJ | On Site | Sep 02 |
 | **[Poshmark](http://poshmark.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66d75e702a7147cf2cd3f463?utm_campaign=Product%20Management&utm_source=1103)** | Redwood City, California, USA | On Site | Sep 02 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Coordinator, Product Strategy and Business Affairs](https://jobright-internal.com/jobs/info/66d7b3b74aa452f6342865ba?utm_campaign=Product%20Management&utm_source=1103)** | Beverly Hills, California | On Site | Sep 02 |
 | **[OpenEye](http://openeye.net)** | **[Technical Product Manager](https://jobright-internal.com/jobs/info/66d78ea441ede662646688de?utm_campaign=Product%20Management&utm_source=1103)** | Liberty Lake, WA | Hybrid | Sep 02 |
@@ -153,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager- Microsoft Software and Systems Academy (MSSA)](https://jobright-internal.com/jobs/info/66d27a243714fb2276e1fd7f?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Aug 30 |
 | **[Complex](https://www.complex.com)** | **[Product Development Coordinator](https://jobright-internal.com/jobs/info/66d273b76be7de6b06aff0b3?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Aug 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager: Microsoft AI Development Acceleration Program](https://jobright-internal.com/jobs/info/66d221bd701833b9f85f0339?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | Hybrid | Aug 30 |
-| **[West Elm](https://www.westelm.com/)** | **[Product Coordinator](https://jobright-internal.com/jobs/info/66d4865b813c10fc5985bdbd?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
