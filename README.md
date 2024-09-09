@@ -109,10 +109,10 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 1 - Loyalty](https://jobright-internal.com/jobs/info/66da6bf3d8393e2a0fe61c5f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Sep 05 |
 | **[Huron Consulting Group](http://www.huronconsultinggroup.com)** | **[Application Specialist Analyst - Grants & Award Management](https://jobright-internal.com/jobs/info/66db0161d74d6b3fe3da2ad4?utm_campaign=Product%20Management&utm_source=1103)** | Chicago - 550 Van Buren | On Site | Sep 05 |
 | **[Stio](http://www.stio.com/)** | **[Product Line Coordinator](https://jobright-internal.com/jobs/info/66da64d1d6f517e70cbd9d11?utm_campaign=Product%20Management&utm_source=1103)** | Jackson, WY | On Site | Sep 05 |
-| **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8bb?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Remote | Sep 05 |
-| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8bc?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | Remote | Sep 05 |
-| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8be?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | Remote | Sep 05 |
+| **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8bc?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | Remote | Sep 05 |
+| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8bb?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8c0?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | Remote | Sep 05 |
+| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8be?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8c2?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8c4?utm_campaign=Product%20Management&utm_source=1103)** | Indianapolis, IN | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8ce?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Remote | Sep 05 |
@@ -123,9 +123,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da64d1d6f517e70cbd9d86?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da39f4272d39a37621f002?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da39f4272d39a37621f420?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | Remote | Sep 05 |
-| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a24?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a22?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a23?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | Remote | Sep 05 |
+| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a24?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a25?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a26?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Remote | Sep 05 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a27?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Remote | Sep 05 |
@@ -139,9 +139,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff16d?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff16e?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff16f?utm_campaign=Product%20Management&utm_source=1103)** | Charlottesville, VA | Hybrid | Sep 05 |
-| ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff170?utm_campaign=Product%20Management&utm_source=1103)** | Little Rock, AR | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff171?utm_campaign=Product%20Management&utm_source=1103)** | Montgomery, AL | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff172?utm_campaign=Product%20Management&utm_source=1103)** | Antioch, TN | Hybrid | Sep 05 |
+| ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff170?utm_campaign=Product%20Management&utm_source=1103)** | Little Rock, AR | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9fe0202f5c1a3d86de6bb?utm_campaign=Product%20Management&utm_source=1103)** | Eastover, SC | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9d25a5f6a75c2d8a2c25f?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Sep 05 |
 | ↳ | **[Product Analyst - Platforms and Tools](https://jobright-internal.com/jobs/info/66d9cf16fe8348c323578b03?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | Hybrid | Sep 05 |
