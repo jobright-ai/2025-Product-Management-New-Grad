@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlackRock](http://www.blackrock.com)** | **[USWA Product Commercialization and Distribution Analyst/Associate](https://jobright-internal.com/jobs/info/66e61ca0eb7fa93fe37e3f53?utm_campaign=Product%20Management&utm_source=1103)** | Princeton, NJ | Hybrid | Sep 14 |
 | **[Enfusion](https://www.enfusion.com)** | **[Electronic Trading, Product Specialist](https://jobright-internal.com/jobs/info/66e57129297f1419c7aba783?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (Business Risk Integrated Control)](https://jobright-internal.com/jobs/info/66acb8e8f21cf708e2b4cf44?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Sep 14 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Metric Insights Product Manager](https://jobright-internal.com/jobs/info/66af5b9d163d1237763df2b5?utm_campaign=Product%20Management&utm_source=1103)** | White Plains, NY | Remote | Sep 14 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Arthrex](https://www.arthrex.com/)** | **[Associate Product Manager - Embedded and Enterprise Software](https://jobright-internal.com/jobs/info/66c6bee05e33b7f6fd1e36af?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | Hybrid | Sep 12 |
 | **[Gecko Robotics](https://www.geckorobotics.com)** | **[Product Strategist](https://jobright-internal.com/jobs/info/66c60d8392254c1f6281b3b5?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 12 |
 | **[Million Dollar Baby](https://www.milliondollarbabyco.com)** | **[Product Development Coordinator](https://jobright-internal.com/jobs/info/66e2a7aa8673683ec100b5b1?utm_campaign=Product%20Management&utm_source=1103)** | Pico Rivera, CA | On Site | Sep 12 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Product Manager/Associate](https://jobright-internal.com/jobs/info/66e27d28f25a474d063bfc45?utm_campaign=Product%20Management&utm_source=1103)** | Pensacola, FL | Hybrid | Sep 11 |
-| ↳ | **[Product Manager/Associate](https://jobright-internal.com/jobs/info/66e27d28f25a474d063bfb9d?utm_campaign=Product%20Management&utm_source=1103)** | Vienna, VA | Hybrid | Sep 11 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Product Manager/Associate](https://jobright-internal.com/jobs/info/66e27d28f25a474d063bfb9d?utm_campaign=Product%20Management&utm_source=1103)** | Vienna, VA | Hybrid | Sep 11 |
+| ↳ | **[Product Manager/Associate](https://jobright-internal.com/jobs/info/66e27d28f25a474d063bfc45?utm_campaign=Product%20Management&utm_source=1103)** | Pensacola, FL | Hybrid | Sep 11 |
 | **[Salesforce](https://www.salesforce.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66e31e792bc46463b49f2694?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 11 |
 | **[2020 Companies](http://www.2020companies.com)** | **[Samsung Product Specialist](https://jobright-internal.com/jobs/info/66e22984459bde939dcb0a8c?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Sep 11 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66e1d801d1ca7ab8e738087a?utm_campaign=Product%20Management&utm_source=1103)** | Waltham, MA | On Site | Sep 11 |
