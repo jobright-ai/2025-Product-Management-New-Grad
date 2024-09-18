@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Condé Nast](http://www.condenast.com)** | **[Product Writer and Reviewer](https://jobright-internal.com/jobs/info/66e9e15079f8d3d756a8d782?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 17 |
 | **[Deckers Outdoor Corporation](http://deckers.com)** | **[Adventurer Product Coordinator](https://jobright-internal.com/jobs/info/66e9c913f27ce0c1bc57658c?utm_campaign=Product%20Management&utm_source=1103)** | Goleta, CA | On Site | Sep 17 |
 | **[School Specialty](http://www.schoolspecialty.com)** | **[Learning Environment Product Specialist](https://jobright-internal.com/jobs/info/66e9b65364d560c366115f6e?utm_campaign=Product%20Management&utm_source=1103)** | Greenville, WI | On Site | Sep 17 |
 | **[Procore](http://www.procore.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66e9a5a67f6ed901fb08c65e?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Sep 17 |
@@ -70,6 +71,14 @@ For a complete list, click the following sortable link below:
 | **[iXL](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright-internal.com/jobs/info/66955dacb24bf2f353035f20?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Sep 17 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Product Flow Specialist](https://jobright-internal.com/jobs/info/66e91de48667fa1d77126e32?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Sep 16 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Manager II](https://jobright-internal.com/jobs/info/66e9c76281852960ad2ad440?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 16 |
+| **[Evernorth](https://www.evernorth.com)** | **[Agile Product Management Advisor](https://jobright-internal.com/jobs/info/66e9cd9d3b7ac2226246d723?utm_campaign=Product%20Management&utm_source=1103)** | Scottsdale, AZ | Hybrid | Sep 16 |
+| ↳ | **[Agile Product Management Advisor](https://jobright-internal.com/jobs/info/66e9cd9d3b7ac2226246d9ac?utm_campaign=Product%20Management&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 16 |
+| ↳ | **[Agile Product Management Advisor](https://jobright-internal.com/jobs/info/66e9cd9d3b7ac2226246d9ad?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Sep 16 |
+| ↳ | **[Agile Product Management Advisor](https://jobright-internal.com/jobs/info/66e9d96b83c2e7d86a7b11a0?utm_campaign=Product%20Management&utm_source=1103)** | Nashville, TN | Hybrid | Sep 16 |
+| ↳ | **[Agile Product Management Advisor](https://jobright-internal.com/jobs/info/66e9d96b83c2e7d86a7b11a1?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Sep 16 |
+| ↳ | **[Agile Product Management Advisor](https://jobright-internal.com/jobs/info/66e9d6b66cb26be691a10d04?utm_campaign=Product%20Management&utm_source=1103)** | Birmingham, AL | Hybrid | Sep 16 |
+| ↳ | **[Agile Product Management Advisor](https://jobright-internal.com/jobs/info/66e9d6b66cb26be691a10d03?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | Hybrid | Sep 16 |
+| ↳ | **[Agile Product Management Advisor](https://jobright-internal.com/jobs/info/66e9d6b66cb26be691a10d05?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | Hybrid | Sep 16 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Product Flow Specialist](https://jobright-internal.com/jobs/info/66e8c3552527991c16c16ac8?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Sep 16 |
 | **[ANN INC.](http://anninc.com/)** | **[Product Development Coordinator](https://jobright-internal.com/jobs/info/66df2f37a4e6a062e29aa258?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 16 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Product Flow Specialist](https://jobright-internal.com/jobs/info/66e6adf198496f98624f5b9d?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Sep 15 |
