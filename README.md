@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Victoria's Secret](https://www.victoriassecret.com/)** | **[Associate Specialist Product Coordination](https://jobright-internal.com/jobs/info/66f22f426d0f5e1328e9a222?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 23 |
 | **[Red Ventures](http://www.redventures.com)** | **[Consumer Experience Analyst](https://jobright-internal.com/jobs/info/66f1e0f95aaa74ae292c02a3?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 23 |
 | **[ANN INC.](http://anninc.com/)** | **[Product Development Coordinator](https://jobright-internal.com/jobs/info/66ede8c2957b94277b73637f?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 23 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Manager - Technical](https://jobright-internal.com/jobs/info/66f149a58f8bc35a5f6ebea4?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Sep 23 |
@@ -128,9 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Procore](http://www.procore.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66e9a5a67f6ed901fb08c656?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Sep 17 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Product Owner, Digital Experiences](https://jobright-internal.com/jobs/info/66e99391e2d0f6e9484d017e?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | Hybrid | Sep 17 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Manager II (NPI)](https://jobright-internal.com/jobs/info/66e9c76281852960ad2ad440?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 17 |
-| **[CooperSurgical](http://www.coopersurgical.com)** | **[Associate Product Manager, Surgical Business Unit](https://jobright-internal.com/jobs/info/66ccf8dea6ef2809088f7659?utm_campaign=Product%20Management&utm_source=1103)** | Trumbull, CT | Hybrid | Sep 17 |
-| **[Adobe](http://www.adobe.com)** | **[Product Manager, DVA](https://jobright-internal.com/jobs/info/66cd61b04d155dac6d1a6d86?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 17 |
-| **[iXL](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright-internal.com/jobs/info/66955a19fbfbadbf06b6470d?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Sep 17 |
-| **[East West Bank](http://eastwestbank.com)** | **[Technical Product Owner](https://jobright-internal.com/jobs/info/66cd0833f27d383d2da4240b?utm_campaign=Product%20Management&utm_source=1103)** | El Monte, CA | On Site | Sep 17 |
-| **[iXL](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright-internal.com/jobs/info/66955dacb24bf2f353035f20?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
