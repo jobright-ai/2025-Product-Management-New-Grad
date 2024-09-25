@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ER2](https://www.er2.com/)** | **[Warehouse Team Member](https://jobright-internal.com/jobs/info/66f3f66268598d417fcd4d83?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Sep 25 |
+| **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Consumer Experience](https://jobright-internal.com/jobs/info/66b38bcff7c45715f477ed64?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
+| **[Alarm.com](http://www.alarm.com)** | **[Associate Technical Product Manager](https://jobright-internal.com/jobs/info/66d79d923d13f8e6fe2ec43a?utm_campaign=Product%20Management&utm_source=1103)** | Spokane-CdA Area | Hybrid | Sep 25 |
+| **[OpenEye](http://openeye.net)** | **[Associate Technical Product Manager](https://jobright-internal.com/jobs/info/66d7911c027561575fbc76c8?utm_campaign=Product%20Management&utm_source=1103)** | Spokane-CdA Area | Hybrid | Sep 25 |
+| **[Evolent Health](http://evolenthealth.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66f3dba01c523e03b0f69153?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 25 |
 | **[Gap](https://www.gapinc.com/en-us/)** | **[Product Manager I](https://jobright-internal.com/jobs/info/66f3c4840acf12452b71829f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Sep 25 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate - Product Development Content Strategy](https://jobright-internal.com/jobs/info/66f386721acfb494a20587a4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 24 |
 | **[Red Ventures](http://www.redventures.com)** | **[Analyst, Consumer Experience](https://jobright-internal.com/jobs/info/66f351a5c8d38a81718e3c7d?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 24 |
@@ -117,8 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Kiss Products](https://www.kissusa.com)** | **[Assistant Product Manager, Appliance & Accessory](https://jobright-internal.com/jobs/info/66cf554276c7eb1195250208?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Sep 19 |
 | ↳ | **[Business Planner](https://jobright-internal.com/jobs/info/66cf771864786e060cc42122?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Sep 19 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant](https://jobright-internal.com/jobs/info/6696f4148fdcab953eb0a6fa?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 19 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card](https://jobright-internal.com/jobs/info/66eb37b3ff6d6392ca0c3bc2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 18 |
-| ↳ | **[Sr. Associate, Product Management - Card](https://jobright-internal.com/jobs/info/66eb3149f36879a4c61fe4e7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Sep 18 |
-| ↳ | **[Sr. Associate, Product Management - Card](https://jobright-internal.com/jobs/info/66eb3149f36879a4c61fe52e?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Sep 18 |
-| **[Schwazze](https://www.schwazze.com/home)** | **[Packaging Associate](https://jobright-internal.com/jobs/info/66eb26221e4d11fce0ee4038?utm_campaign=Product%20Management&utm_source=1103)** | Pueblo, CO | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
