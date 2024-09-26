@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright-internal.com/jobs/info/66f478bff7f9c83b935ed151?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 | **[Tiffany & Co](http://www.tiffany.com)** | **[Analyst, Global Product Collaborations](https://jobright-internal.com/jobs/info/66f45c29bf4aeb0145ee1d97?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 25 |
-| ↳ | **[Analyst, Global Product Collaborations](https://jobright-internal.com/jobs/info/66f45b29632e575d99d0254c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 25 |
+| **[ANN INC.](http://anninc.com/)** | **[Product Development Coordinator](https://jobright-internal.com/jobs/info/66ede8c2957b94277b73637f?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 25 |
+| **[Tiffany & Co](http://www.tiffany.com)** | **[Analyst, Global Product Collaborations](https://jobright-internal.com/jobs/info/66f45b29632e575d99d0254c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 25 |
 | **[OKX](https://www.okx.com)** | **[Product Manager, New Grad](https://jobright-internal.com/jobs/info/66d7c5b17d3d59280d82046f?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Sep 25 |
 | **[ER2](https://www.er2.com/)** | **[Warehouse Team Member](https://jobright-internal.com/jobs/info/66f3f66268598d417fcd4d83?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Sep 25 |
+| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Associate](https://jobright-internal.com/jobs/info/66d79d05bc12cc2da01ff931?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 25 |
 | **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Consumer Experience](https://jobright-internal.com/jobs/info/66b38bcff7c45715f477ed64?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 | **[Alarm.com](http://www.alarm.com)** | **[Associate Technical Product Manager](https://jobright-internal.com/jobs/info/66d79d923d13f8e6fe2ec43a?utm_campaign=Product%20Management&utm_source=1103)** | Spokane-CdA Area | Hybrid | Sep 25 |
 | **[OpenEye](http://openeye.net)** | **[Associate Technical Product Manager](https://jobright-internal.com/jobs/info/66d7911c027561575fbc76c8?utm_campaign=Product%20Management&utm_source=1103)** | Spokane-CdA Area | Hybrid | Sep 25 |
@@ -72,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[ServiceTitan](http://www.servicetitan.com/)** | **[Pro Product Implementation Analyst](https://jobright-internal.com/jobs/info/66f327672d3fe8ed2a95d478?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 24 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Development Program Associate](https://jobright-internal.com/jobs/info/66f31c063683ec45acad41dc?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | Sep 24 |
 | ↳ | **[Product Development Program Associate](https://jobright-internal.com/jobs/info/66f31c063683ec45acad4263?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Sep 24 |
-| ↳ | **[Product Development Program Associate](https://jobright-internal.com/jobs/info/66f31c063683ec45acad4264?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 24 |
 | ↳ | **[Product Development Program Associate](https://jobright-internal.com/jobs/info/66f31c063683ec45acad4265?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Sep 24 |
+| ↳ | **[Product Development Program Associate](https://jobright-internal.com/jobs/info/66f31c063683ec45acad4264?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 24 |
 | ↳ | **[Product Development Program Associate](https://jobright-internal.com/jobs/info/66f31c063683ec45acad426c?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | Hybrid | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[Product Manager, Real-Time CDP](https://jobright-internal.com/jobs/info/66f307c47250d4e0ff55eaf3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 24 |
 | **[DailyPay](https://www.dailypay.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/66f30ab2050525e7cceb1126?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 24 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[New Era Cap](https://www.neweracap.com/)** | **[Coordinator, Product Line](https://jobright-internal.com/jobs/info/66f258005b9df3efacbe678a?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Sep 23 |
 | **[The Home Depot](https://corporate.homedepot.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66f309ed4d3a4e0e02d5a839?utm_campaign=Product%20Management&utm_source=1103)** | GEORGIA - VIRTUAL - GA01 | Remote | Sep 23 |
 | **[Red Ventures](http://www.redventures.com)** | **[Consumer Experience Analyst](https://jobright-internal.com/jobs/info/66f1e0f95aaa74ae292c02a3?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 23 |
-| **[ANN INC.](http://anninc.com/)** | **[Product Development Coordinator](https://jobright-internal.com/jobs/info/66ede8c2957b94277b73637f?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 23 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Manager - Technical](https://jobright-internal.com/jobs/info/66f149a58f8bc35a5f6ebea4?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Sep 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate](https://jobright-internal.com/jobs/info/66e1a4b3a19bee7abd912b69?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Sep 22 |
 | **[Sam's Club](http://www.samsclub.com)** | **[Specialist, Product Coordinator](https://jobright-internal.com/jobs/info/66efcac410d2be818ca2b707?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Sep 22 |
