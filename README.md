@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sam's Club](http://www.samsclub.com)** | **[Product Manager II](https://jobright-internal.com/jobs/info/66f6033232e41d156dd416f9?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Sep 26 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant](https://jobright-internal.com/jobs/info/66f5dc6f8ddcc08364df0b2d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 26 |
 | ↳ | **[Product Management Assistant](https://jobright-internal.com/jobs/info/66f5c83d14ac24db95102316?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 26 |
 | ↳ | **[Product Management Assistant](https://jobright-internal.com/jobs/info/66f5cc2d4c470b3ad547bd89?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 26 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Software Product Manager](https://jobright-internal.com/jobs/info/66f52577f2e1c48414b56205?utm_campaign=Product%20Management&utm_source=1103)** | Fremont, CA | On Site | Sep 26 |
 | **[Lululemon](http://shop.lululemon.com)** | **[Assistant Product Developer](https://jobright-internal.com/jobs/info/66f50db328171b8765c92a8b?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Sep 26 |
 | **[GungHo](http://gunghoonline.com)** | **[Product Coordinator (Japanese Bilingual)](https://jobright-internal.com/jobs/info/66f52577f2e1c48414b56275?utm_campaign=Product%20Management&utm_source=1103)** | Redondo Beach, CA | Hybrid | Sep 25 |
-| **[ER2](https://www.er2.com/)** | **[Warehouse Team Member](https://jobright-internal.com/jobs/info/66f4fcfcd34c11304496d09c?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Sep 25 |
-| ↳ | **[Warehouse Team Member](https://jobright-internal.com/jobs/info/66f4f037c869536bd70cfb8c?utm_campaign=Product%20Management&utm_source=1103)** | West Sacramento, CA | On Site | Sep 25 |
+| **[ER2](https://www.er2.com/)** | **[Warehouse Team Member](https://jobright-internal.com/jobs/info/66f4f037c869536bd70cfb8c?utm_campaign=Product%20Management&utm_source=1103)** | West Sacramento, CA | On Site | Sep 25 |
+| ↳ | **[Warehouse Team Member](https://jobright-internal.com/jobs/info/66f4fcfcd34c11304496d09c?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Sep 25 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Product Line Analyst](https://jobright-internal.com/jobs/info/66f4dcb26f6081e4d74f3061?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Sep 25 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate/Senior Associate-Digital Product Management](https://jobright-internal.com/jobs/info/66f4c2d28f295d60a286b847?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Sep 25 |
 | **[Sam's Club](http://www.samsclub.com)** | **[Specialist, Product Coordinator](https://jobright-internal.com/jobs/info/66f4bbad422176ea4150925a?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Sep 25 |
@@ -116,9 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Specialist, Product Coordinator](https://jobright-internal.com/jobs/info/66ef67efbbf0cdd7ae9ecb69?utm_campaign=Product%20Management&utm_source=1103)** | Bentonville, AR | On Site | Sep 20 |
 | **[Holman Automotive](http://www.holmanauto.com)** | **[Product Genius](https://jobright-internal.com/jobs/info/66edf14c2e01da2121943866?utm_campaign=Product%20Management&utm_source=1103)** | Tigard, OR | On Site | Sep 20 |
 | **[Lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright-internal.com/jobs/info/66eda9393910acde9f0053f7?utm_campaign=Product%20Management&utm_source=1103)** | East Lansing, MI | On Site | Sep 20 |
-| **[Ottawa Senators Hockey Club](http://senators.nhl.com)** | **[Product Manager, Digital Platforms](https://jobright-internal.com/jobs/info/66b4f673f01a82bf616022f7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 20 |
-| **[West Elm](https://www.westelm.com/)** | **[Product Coordinator](https://jobright-internal.com/jobs/info/66d4865b813c10fc5985bdbd?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | On Site | Sep 20 |
-| **[Customers Bank](https://www.customersbank.com/)** | **[Funding Product Operations Associate](https://jobright-internal.com/jobs/info/66d0ecfd59cd58d7488ba8dd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 20 |
-| **[Brown Brothers Harriman](http://www.bbh.com)** | **[Fixed Income Product Associate](https://jobright-internal.com/jobs/info/66a23c275c14cdf3ee23e0ba?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Sep 20 |
-| **[Scale AI](https://scale.com)** | **[Associate Product Manager - New Grad](https://jobright-internal.com/jobs/info/66d0c435bc94c66ad983b417?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
