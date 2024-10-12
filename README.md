@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlackRock](http://www.blackrock.com)** | **[Associate, Product Strategist - Event Driven team](https://jobright-internal.com/jobs/info/670a8c19125fadefbdf7d43c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Oct 12 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright-internal.com/jobs/info/670a6c14855de65c16ca30ad?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Oct 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Graduate (Platform Promotion) - 2025 Start (MBA)](https://jobright-internal.com/jobs/info/66e18ef1a9f4481bee467e5a?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 12 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright-internal.com/jobs/info/670a4fbd3449ef88db7cd503?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Oct 12 |
+| **[Ferguson](http://www.ferguson.com/)** | **[Product Data Coordinator](https://jobright-internal.com/jobs/info/670a85d555a50c8247e6461f?utm_campaign=Product%20Management&utm_source=1103)** | Newport News, VA | Hybrid | Oct 11 |
+| ↳ | **[Product Data Coordinator](https://jobright-internal.com/jobs/info/670a8c74e4d3f52c613e3a68?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright-internal.com/jobs/info/670a12649c761499dfc00b8a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright-internal.com/jobs/info/670a12649c761499dfc00b8f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 11 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Platform Analyst - Specialized Finance](https://jobright-internal.com/jobs/info/670a2a5bb23fab7ee2df078f?utm_campaign=Product%20Management&utm_source=1103)** | Gresham, OR | On Site | Oct 11 |
@@ -129,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright-internal.com/jobs/info/66955dacb24bf2f353035f20?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Oct 08 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright-internal.com/jobs/info/66e91de48667fa1d77126e32?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Oct 08 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright-internal.com/jobs/info/66ffd4b65961f832f6b0d528?utm_campaign=Product%20Management&utm_source=1103)** | West Coxsackie, NY | On Site | Oct 08 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Product Handler](https://jobright-internal.com/jobs/info/670589d86c43edb37eba831f?utm_campaign=Product%20Management&utm_source=1103)** | 2525 McGaw Avenue, Irvine, CA, US | On Site | Oct 07 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Product Handler](https://jobright-internal.com/jobs/info/670589d86c43edb37eba8299?utm_campaign=Product%20Management&utm_source=1103)** | 2525 McGaw Avenue, Irvine, CA, US | On Site | Oct 07 |
 | **[Skechers](http://www.skechers.com)** | **[Licensing Product Development - Coordinator](https://jobright-internal.com/jobs/info/6704b5999860709ccb4d3fdb?utm_campaign=Product%20Management&utm_source=1103)** | Manhattan Beach, CA | On Site | Oct 07 |
 | **[Adobe](http://www.adobe.com)** | **[2025 MBA University Graduate - Product Manager](https://jobright-internal.com/jobs/info/6704a7a7439d9aec0dc09f96?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Oct 07 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright-internal.com/jobs/info/6704ad3f29f40e016cb13dc8?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 07 |
