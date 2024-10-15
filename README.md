@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KeyBank](https://www.key.com)** | **[Associate Design Strategist](https://jobright-internal.com/jobs/info/670d9bc473d55f9b40dd17c4?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 14 |
-| ↳ | **[Associate Design Strategist](https://jobright-internal.com/jobs/info/670d9e60ce47ac3c055fa29f?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 14 |
+| **[KeyBank](https://www.key.com)** | **[Associate Design Strategist](https://jobright-internal.com/jobs/info/670d9e60ce47ac3c055fa29f?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Coordinator, Product & Packaging Sustainability](https://jobright-internal.com/jobs/info/670d8096be4b95b88af8fadf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Oct 14 |
 | **[Epoca International LLC](http://epoca.com)** | **[Amazon Content Manager](https://jobright-internal.com/jobs/info/670d756636db60c3194e5f3f?utm_campaign=Product%20Management&utm_source=1103)** | Boca Raton, FL | On Site | Oct 14 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[New Graduate 2025 - Community Operation Specialist](https://jobright-internal.com/jobs/info/6706cbaee68d2cf06c49dfe9?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Oct 14 |
@@ -106,7 +105,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright-internal.com/jobs/info/6708a8118794e073fa8e8bca?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 10 |
 | ↳ | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright-internal.com/jobs/info/67085f0db3c5e4baceb102c1?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Oct 10 |
 | **[Leidos](https://www.leidos.com/)** | **[Junior Product Owner](https://jobright-internal.com/jobs/info/670994e1bcb306fe7eeb1691?utm_campaign=Product%20Management&utm_source=1103)** | Arlington, VA | On Site | Oct 10 |
-| **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Pricing Analyst](https://jobright-internal.com/jobs/info/6709dba24a8d2910f7a7c720?utm_campaign=Product%20Management&utm_source=1103)** | CT - Hartford | On Site | Oct 10 |
 | **[American Express](http://www.americanexpress.com)** | **[Senior Analyst-Cash Back Product Management](https://jobright-internal.com/jobs/info/67084c3dbf3cb0b015cffc71?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Leidos](https://www.leidos.com/)** | **[Junior Product Owner](https://jobright-internal.com/jobs/info/670848acaae7e99a3c86d964?utm_campaign=Product%20Management&utm_source=1103)** | Arlington, VA | On Site | Oct 10 |
 | **[Zayo Group](https://www.zayo.com)** | **[Product Pricing Specialist, CPQ](https://jobright-internal.com/jobs/info/66bed448baf25a4071640706?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Oct 10 |
@@ -131,7 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Underdog Fantasy](https://underdogfantasy.com/)** | **[Product Operations Associate - Grading (Esports)](https://jobright-internal.com/jobs/info/6705aaea2b9400fd03064aa4?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/6705b3dbf4f8d547b12f85fe?utm_campaign=Product%20Management&utm_source=1103)** | Towson, MD | On Site | Oct 08 |
 | **[NYC Alliance](https://www.nycalliance.com)** | **[Product Development Coordinator](https://jobright-internal.com/jobs/info/67057974b2c7a704fe5fc8c0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Oct 08 |
-| **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright-internal.com/jobs/info/66955dacb24bf2f353035f20?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Oct 08 |
-| **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright-internal.com/jobs/info/66e91de48667fa1d77126e32?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Oct 08 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright-internal.com/jobs/info/66ffd4b65961f832f6b0d528?utm_campaign=Product%20Management&utm_source=1103)** | West Coxsackie, NY | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
