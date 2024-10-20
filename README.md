@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8c2?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | Remote | Oct 19 |
+| **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a23?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | Remote | Oct 19 |
+| ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8c2?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | Remote | Oct 19 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a22?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | Remote | Oct 19 |
 | **[Aon](http://www.aon.com)** | **[Strategy & Execution Analyst - Global Product](https://jobright-internal.com/jobs/info/66f7b5d8e40b5efd69261013?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Oct 19 |
+| **[UGG](http://www.ugg.com/)** | **[Product Coordinator - UGG Apparel, Accessories, & Home](https://jobright-internal.com/jobs/info/66bcd100ab58b1e17d77c3ef?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | On Site | Oct 19 |
 | **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da547d6aeb0d5c24cbd8cd?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Remote | Oct 19 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da400e91f4892792bb9a28?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Remote | Oct 19 |
 | ↳ | **[Associate Product Manager](https://jobright-internal.com/jobs/info/66da64d1d6f517e70cbd9d83?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Remote | Oct 19 |
@@ -138,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[New Graduate 2025 - Community Operation Specialist](https://jobright-internal.com/jobs/info/6706cbaee68d2cf06c49dfe9?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Oct 14 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Fund Services – Technical Associate – Client Computing Solutions Team - NY](https://jobright-internal.com/jobs/info/670d234703f5f52ca916af3c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Graduate (TikTok Shop - Search) - 2025 Start (MBA)](https://jobright-internal.com/jobs/info/66e2fecad3df2cf8909fe2db?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 13 |
-| ↳ | **[Product Manager Graduate (TikTok-Product-Social and Creation) - 2025 Start (BS/MS)](https://jobright-internal.com/jobs/info/66e18ef1a9f4481bee467e4e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
