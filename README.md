@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ION](https://iongroup.com)** | **[Product Manager, New York](https://jobright-internal.com/jobs/info/67255a0f41d5afddea2fa9d5?utm_campaign=Product%20Management&utm_source=1103)** | New York | Hybrid | Nov 01 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672566931ffb4bf12a318099?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 01 |
+| ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672566931ffb4bf12a3180a7?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 01 |
+| ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672549326c2eb07bb7603181?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 01 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Coordinator, Product Development Operations](https://jobright-internal.com/jobs/info/67254cd5c01d4c5ef88b6eb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 01 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Manager II - Fully Remote](https://jobright-internal.com/jobs/info/6724074b4abfffbd2d3b4239?utm_campaign=Product%20Management&utm_source=1103)** | Montgomery County, PA | Remote | Oct 31 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright-internal.com/jobs/info/6723fe39cec79283fbcbd634?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Oct 31 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/6723e6100dd7f414c90ff2b3?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 31 |
@@ -94,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Cintas](http://www.cintas.com)** | **[Product Development Specialist](https://jobright-internal.com/jobs/info/672199e7b71396c49fd8afa5?utm_campaign=Product%20Management&utm_source=1103)** | Bedford Park, IL | On Site | Oct 29 |
 | **[Procore Technologies](http://www.procore.com)** | **[Product Manager, Resource Tracking](https://jobright-internal.com/jobs/info/67216567591292fc33b82194?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Oct 29 |
 | **[Scale AI](https://scale.com)** | **[Associate Product Manager - New Grad](https://jobright-internal.com/jobs/info/672166a1c862284b99507143?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | Hybrid | Oct 29 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebec8c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 29 |
-| ↳ | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebec8d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 29 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebec8d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 29 |
+| ↳ | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebec8c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 | ↳ | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebebea?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 29 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Product Owner](https://jobright-internal.com/jobs/info/6721609a953d297dc6fa58d8?utm_campaign=Product%20Management&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 29 |
 | **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[Fixed Income Digital Markets Product](https://jobright-internal.com/jobs/info/672145a60e6a5f2d890404ac?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 29 |
@@ -116,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Associate - Product Management, Inbound Payments](https://jobright-internal.com/jobs/info/671d5fcf82782b9226164d0f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 26 |
 | **[Broadridge](http://www.broadridge.com)** | **[Product Analyst (Hybrid)](https://jobright-internal.com/jobs/info/670011a0930f34f3f4bbd13d?utm_campaign=Product%20Management&utm_source=1103)** | Edgewood, NY | Hybrid | Oct 26 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Shred SAP Coordinator/Product Creation DOR 3rd Shift](https://jobright-internal.com/jobs/info/671cc2751ac1051e039c4707?utm_campaign=Product%20Management&utm_source=1103)** | Tulare, CA | On Site | Oct 26 |
-| **[Tata Consultancy Services](http://www.tcs.com)** | **[MDM Product Analyst](https://jobright-internal.com/jobs/info/671c7f4df63e22186c56eae2?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
