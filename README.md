@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cengage Group](https://www.cengagegroup.com/)** | **[Product Assistant (Hybrid)](https://jobright-internal.com/jobs/info/67258c8c14f307c11b30cb75?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Nov 01 |
+| **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[Product Manager, Payment Gateway](https://jobright-internal.com/jobs/info/6725c20f6a63d176d304a70d?utm_campaign=Product%20Management&utm_source=1103)** | Arlington, VA | On Site | Nov 01 |
+| **[Cengage Group](https://www.cengagegroup.com/)** | **[Product Assistant (Hybrid)](https://jobright-internal.com/jobs/info/6725a19a4ca64ed6770645b1?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Nov 01 |
+| ↳ | **[Product Assistant (Hybrid)](https://jobright-internal.com/jobs/info/67258c8c14f307c11b30cb75?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Nov 01 |
 | ↳ | **[Product Assistant (Hybrid)](https://jobright-internal.com/jobs/info/67258c8c14f307c11b30cc12?utm_campaign=Product%20Management&utm_source=1103)** | Mason, OH | Hybrid | Nov 01 |
 | **[Oregon Tool](https://www.oregontool.com)** | **[Associate Product Manager (Hybrid)](https://jobright-internal.com/jobs/info/67258a6787f3e47d3a9a2042?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Nov 01 |
 | ↳ | **[Associate Product Manager (Hybrid)](https://jobright-internal.com/jobs/info/67257b60f0682ac45139f1dc?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Nov 01 |
@@ -104,9 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Cintas](http://www.cintas.com)** | **[Product Development Specialist](https://jobright-internal.com/jobs/info/672199e7b71396c49fd8afa5?utm_campaign=Product%20Management&utm_source=1103)** | Bedford Park, IL | On Site | Oct 29 |
 | **[Procore Technologies](http://www.procore.com)** | **[Product Manager, Resource Tracking](https://jobright-internal.com/jobs/info/67216567591292fc33b82194?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Oct 29 |
 | **[Scale AI](https://scale.com)** | **[Associate Product Manager - New Grad](https://jobright-internal.com/jobs/info/672166a1c862284b99507143?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | Hybrid | Oct 29 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebec8d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 29 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebebea?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 29 |
 | ↳ | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebec8c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 29 |
-| ↳ | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebebea?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 29 |
+| ↳ | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672169287987123849ebec8d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 29 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Product Owner](https://jobright-internal.com/jobs/info/6721609a953d297dc6fa58d8?utm_campaign=Product%20Management&utm_source=1103)** | Sacramento, CA | Hybrid | Oct 29 |
 | **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[Fixed Income Digital Markets Product](https://jobright-internal.com/jobs/info/672145a60e6a5f2d890404ac?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Product Analyst I](https://jobright-internal.com/jobs/info/67213fefac0ad0bc65bb6993?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Oct 29 |
