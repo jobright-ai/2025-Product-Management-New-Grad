@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EarnIn](https://www.earnin.com)** | **[FinTech Product Entrepreneur in Residence](https://jobright-internal.com/jobs/info/6677b8809c2d9fa5bf088efd?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Nov 08 |
 | **[NYC Alliance](https://www.nycalliance.com)** | **[Product Development Coordinator - Private Label Apparel](https://jobright-internal.com/jobs/info/672d917eab629eeb6a4420d2?utm_campaign=Product%20Management&utm_source=1103)** | New York County, NY | Hybrid | Nov 07 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Associate Product Manager - Risk](https://jobright-internal.com/jobs/info/672d5181fb9857d62972f764?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 07 |
 | **[Farmer's Business Network, Inc.](https://www.fbn.com/)** | **[Structured Product Trading Associate](https://jobright-internal.com/jobs/info/672d56b5b799b34f0e10fa3b?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Nov 07 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Specialist](https://jobright-internal.com/jobs/info/672bd0f1272dfef88974ab06?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Nov 06 |
 | **[Axios HQ](https://www.axioshq.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/672bbce63703b361a25a6256?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 06 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, RRL Men’s and Women’s Woven Shirts](https://jobright-internal.com/jobs/info/672b9f07ca95167292ef1863?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 06 |
-| **[SeatGeek](https://seatgeek.com)** | **[Associate Product Manager - New Grad](https://jobright-internal.com/jobs/info/672b7f522bc383134367db55?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672b6973b42347866912ecb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 06 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Product Implementation Specialist](https://jobright-internal.com/jobs/info/672b66b223d491c0e24db973?utm_campaign=Product%20Management&utm_source=1103)** | Naperville, IL | On Site | Nov 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok Search)- 2025 Start (BS/MS)](https://jobright-internal.com/jobs/info/66e3092214cda9fc1f832c17?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Nov 06 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Associate, Product Management (Rochester, NY)](https://jobright-internal.com/jobs/info/670ad1ba6f0a505ee36f485f?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Nov 04 |
 | **[Google](https://www.google.com)** | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/6728b0a19c293428138943f9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 04 |
 | ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/6728b0a19c293428138943fa?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA | On Site | Nov 04 |
-| ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/67288822fdb9a1d4dc875966?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Nov 04 |
 | ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/67288822fdb9a1d4dc875886?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Nov 04 |
+| ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/67288822fdb9a1d4dc875966?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Nov 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Graduate (TikTok Shop - Search) - 2025 Start (MBA)](https://jobright-internal.com/jobs/info/66e2fecad3df2cf8909fe2db?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Nov 03 |
 | ↳ | **[Product Manager MBA Graduate (TikTok Shop - Platform Promotion) - 2025 Start (MBA)](https://jobright-internal.com/jobs/info/66e18ef1a9f4481bee467e5a?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Nov 03 |
 | **[Reef](http://www.reef.com)** | **[Product Coordinator](https://jobright-internal.com/jobs/info/6709af9429d5de0212ea4a58?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | Hybrid | Nov 02 |
@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672566931ffb4bf12a318099?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 01 |
 | ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672566931ffb4bf12a3180a7?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 01 |
 | ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672549326c2eb07bb7603181?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 01 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Coordinator, Product Development Operations](https://jobright-internal.com/jobs/info/67254cd5c01d4c5ef88b6eb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
