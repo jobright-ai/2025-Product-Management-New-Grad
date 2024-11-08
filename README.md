@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright-internal.com/jobs/info/672e54abfef80d45c0dfce44?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Nov 08 |
+| **[Lucet](https://lucethealth.com)** | **[Associate, Product Manager](https://jobright-internal.com/jobs/info/672e5765afcc86eeff8b3848?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 08 |
 | **[EarnIn](https://www.earnin.com)** | **[FinTech Product Entrepreneur in Residence](https://jobright-internal.com/jobs/info/6677b8809c2d9fa5bf088efd?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Nov 08 |
 | **[NYC Alliance](https://www.nycalliance.com)** | **[Product Development Coordinator - Private Label Apparel](https://jobright-internal.com/jobs/info/672d917eab629eeb6a4420d2?utm_campaign=Product%20Management&utm_source=1103)** | New York County, NY | Hybrid | Nov 07 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Associate Product Manager - Risk](https://jobright-internal.com/jobs/info/672d5181fb9857d62972f764?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 07 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Associate, Product Management (Rochester, NY)](https://jobright-internal.com/jobs/info/670ad1ba6f0a505ee36f485f?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Nov 04 |
 | **[Google](https://www.google.com)** | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/6728b0a19c293428138943f9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 04 |
 | ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/6728b0a19c293428138943fa?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA | On Site | Nov 04 |
-| ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/67288822fdb9a1d4dc875886?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Nov 04 |
 | ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/67288822fdb9a1d4dc875966?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Nov 04 |
+| ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/67288822fdb9a1d4dc875886?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Nov 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Graduate (TikTok Shop - Search) - 2025 Start (MBA)](https://jobright-internal.com/jobs/info/66e2fecad3df2cf8909fe2db?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Nov 03 |
 | ↳ | **[Product Manager MBA Graduate (TikTok Shop - Platform Promotion) - 2025 Start (MBA)](https://jobright-internal.com/jobs/info/66e18ef1a9f4481bee467e5a?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Nov 03 |
 | **[Reef](http://www.reef.com)** | **[Product Coordinator](https://jobright-internal.com/jobs/info/6709af9429d5de0212ea4a58?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | Hybrid | Nov 02 |
@@ -120,14 +122,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Associate, Product Management](https://jobright-internal.com/jobs/info/670a12649c761499dfc00b8a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 02 |
 | **[Inovalon](http://www.inovalon.com)** | **[Product Owner (Workforce Management)](https://jobright-internal.com/jobs/info/67093d975b9f9c6e1a9c2d8f?utm_campaign=Product%20Management&utm_source=1103)** | Bowie, MD | On Site | Nov 02 |
 | **[HackerOne](https://hackerone.com)** | **[Product Security Analyst (Weekday)](https://jobright-internal.com/jobs/info/66eccbae2d57de56990e152e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 02 |
-| **[Cengage Group](https://www.cengagegroup.com/)** | **[Product Assistant (Hybrid)](https://jobright-internal.com/jobs/info/67258c8c14f307c11b30cb75?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Nov 01 |
-| ↳ | **[Product Assistant (Hybrid)](https://jobright-internal.com/jobs/info/67258c8c14f307c11b30cc12?utm_campaign=Product%20Management&utm_source=1103)** | Mason, OH | Hybrid | Nov 01 |
-| **[Oregon Tool](https://www.oregontool.com)** | **[Associate Product Manager (Hybrid)](https://jobright-internal.com/jobs/info/67258a6787f3e47d3a9a2042?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Nov 01 |
-| ↳ | **[Associate Product Manager (Hybrid)](https://jobright-internal.com/jobs/info/67257b60f0682ac45139f1dc?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Nov 01 |
-| **[ION](https://iongroup.com)** | **[Product Manager, New York](https://jobright-internal.com/jobs/info/672572b731dbe433a415c1ed?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Nov 01 |
-| ↳ | **[Product Manager, New York](https://jobright-internal.com/jobs/info/67255a0f41d5afddea2fa9d5?utm_campaign=Product%20Management&utm_source=1103)** | New York | Hybrid | Nov 01 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/67256fb9c272bb60bfd9f143?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 01 |
-| ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672566931ffb4bf12a318099?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 01 |
-| ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672566931ffb4bf12a3180a7?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 01 |
-| ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672549326c2eb07bb7603181?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
