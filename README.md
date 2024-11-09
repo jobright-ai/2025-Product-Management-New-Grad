@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AIG](https://www.aig.com/)** | **[Product Analyst - Accident & Health](https://jobright-internal.com/jobs/info/672f5593fc9e6efa1060661c?utm_campaign=Product%20Management&utm_source=1103)** | Wilmington, DE | Hybrid | Nov 09 |
+| **[AMETEK](http://www.ametek.com)** | **[Integrated Product Services Manager](https://jobright-internal.com/jobs/info/6712e741463d84f75fa97169?utm_campaign=Product%20Management&utm_source=1103)** | Pasadena, CA | On Site | Nov 09 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright-internal.com/jobs/info/672f1e455dd92605f598dde1?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 08 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Product Manager, API and Integrations](https://jobright-internal.com/jobs/info/672eeb8839c8371fbb23d5f8?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 08 |
 | ↳ | **[Product Manager, Real-Time](https://jobright-internal.com/jobs/info/672eeb8839c8371fbb23d602?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 08 |
