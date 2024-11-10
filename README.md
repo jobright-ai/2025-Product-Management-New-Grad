@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eko](https://eko.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/6730def8b6491ea12eeaf310?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 10 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright-internal.com/jobs/info/6730cfbcddef88286b3ef9e6?utm_campaign=Product%20Management&utm_source=1103)** | Arlington, VA | On Site | Nov 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/67302259882eb813ed8291e7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 09 |
 | ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/67302259882eb813ed8291ef?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 09 |
 | ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/67301f6edcf2d1c518b7862a?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 09 |
@@ -98,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[AlphaSense](http://www.alpha-sense.com)** | **[Product Specialist](https://jobright-internal.com/jobs/info/672bdb9b322c983175f1e6c6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 06 |
 | ↳ | **[Product Specialist](https://jobright-internal.com/jobs/info/672bd0f1272dfef88974ab06?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Nov 06 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, RRL Men’s and Women’s Woven Shirts](https://jobright-internal.com/jobs/info/672b9f07ca95167292ef1863?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 06 |
+| **[Tata Consultancy Services](http://www.tcs.com)** | **[Product Owner](https://jobright-internal.com/jobs/info/670f37fb3c69104f56c8d928?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Nov 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright-internal.com/jobs/info/672b6973b42347866912ecb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 06 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Product Implementation Specialist](https://jobright-internal.com/jobs/info/672b66b223d491c0e24db973?utm_campaign=Product%20Management&utm_source=1103)** | Naperville, IL | On Site | Nov 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok Search)- 2025 Start (BS/MS)](https://jobright-internal.com/jobs/info/66e3092214cda9fc1f832c17?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Nov 06 |
@@ -126,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Associate, Product Management (Rochester, NY)](https://jobright-internal.com/jobs/info/670ad1ba6f0a505ee36f485f?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Nov 04 |
 | **[Google](https://www.google.com)** | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/6728b0a19c293428138943f9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 04 |
 | ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/6728b0a19c293428138943fa?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA | On Site | Nov 04 |
-| ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/67288822fdb9a1d4dc875886?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Nov 04 |
 | ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/67288822fdb9a1d4dc875966?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Nov 04 |
+| ↳ | **[Product Activation Analyst, YouTube](https://jobright-internal.com/jobs/info/67288822fdb9a1d4dc875886?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Nov 04 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright-internal.com/jobs/info/672e81d33418e62e735b0002?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
