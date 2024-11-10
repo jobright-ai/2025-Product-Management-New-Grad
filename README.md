@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/67301f6edcf2d1c518b7862a?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 09 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/67302259882eb813ed8291e7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 09 |
+| ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/67302259882eb813ed8291ef?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 09 |
+| ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/67301f6edcf2d1c518b7862a?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 09 |
 | ↳ | **[Senior Associate, Product Management - Card Settlement Platform](https://jobright-internal.com/jobs/info/672fd24628e4fefe9e16a403?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 09 |
 | **[AIG](https://www.aig.com/)** | **[Product Analyst - Accident & Health](https://jobright-internal.com/jobs/info/672f5593fc9e6efa1060661c?utm_campaign=Product%20Management&utm_source=1103)** | Wilmington, DE | Hybrid | Nov 09 |
 | **[AMETEK](http://www.ametek.com)** | **[Integrated Product Services Manager](https://jobright-internal.com/jobs/info/6712e741463d84f75fa97169?utm_campaign=Product%20Management&utm_source=1103)** | Pasadena, CA | On Site | Nov 09 |
