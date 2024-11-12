@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/6732de140e29f0593fb08af6?utm_campaign=Product%20Management&utm_source=1103)** | Bethlehem, PA | On Site | Nov 11 |
 | **[Persona](https://withpersona.com)** | **[Product Engagement Strategist (SF)](https://jobright-internal.com/jobs/info/6732b7d7af6db890fa3a1ade?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Nov 11 |
 | **[Salesforce](https://www.salesforce.com)** | **[Associate Researcher, Product Reserch & Insights](https://jobright-internal.com/jobs/info/67327953caad3a1829c41ed7?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 11 |
 | **[The Travel Corporation](https://ttc.com/about/)** | **[Product Administrator](https://jobright-internal.com/jobs/info/67326d725d29c3e625193429?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 11 |
@@ -131,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Fetch for Pets](http://fetch4pets.com)** | **[Associate Product Coordinator – Formulated CPG](https://jobright-internal.com/jobs/info/672a8f4d60970e35ad58f165?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 05 |
 | **[GEICO](http://www.geico.com)** | **[Product Specialist](https://jobright-internal.com/jobs/info/672a9d94a481dc32dc67291b?utm_campaign=Product%20Management&utm_source=1103)** | Chevy Chase, MD | On Site | Nov 05 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Product Implementation Specialist](https://jobright-internal.com/jobs/info/672aaf285e1bf204c52156e7?utm_campaign=Product%20Management&utm_source=1103)** | Naperville, IL | On Site | Nov 05 |
-| **[Cintas](http://www.cintas.com)** | **[Production Associate - Product Separator - 2nd Shift](https://jobright-internal.com/jobs/info/672a2e0ef0f4d88b981f71a2?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
