@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salesforce](https://www.salesforce.com)** | **[Associate Researcher, Product Reserch & Insights](https://jobright-internal.com/jobs/info/67327953caad3a1829c41ed7?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 11 |
+| **[The Travel Corporation](https://ttc.com/about/)** | **[Product Administrator](https://jobright-internal.com/jobs/info/67326d725d29c3e625193429?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 11 |
+| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[PRODUCT MANAGEMENT ASSISTANT, RRL MEN’S AND WOMEN’S WOVEN SHIRTS](https://jobright-internal.com/jobs/info/67326c103dd797b9854b7fa4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 11 |
 | **[Robinhood](https://www.robinhood.com)** | **[Associate Product Manager (Early Talent)](https://jobright-internal.com/jobs/info/67324d7b1a55f783a3382625?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | On Site | Nov 11 |
 | **[Salesforce](https://www.salesforce.com)** | **[Associate Researcher, Product Reserch & Insights](https://jobright-internal.com/jobs/info/67323a5f63b89879b4c1585c?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | On Site | Nov 11 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[MDM Product Analyst](https://jobright-internal.com/jobs/info/67320109588f1fb7075add25?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Nov 11 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Beacon Building Products](https://www.becn.com)** | **[Product Manager](https://jobright-internal.com/jobs/info/672e9695d62b1b7a1a056294?utm_campaign=Product%20Management&utm_source=1103)** | Aurora, CO | On Site | Nov 08 |
 | **[Luxury Presence](https://www.luxurypresence.com/)** | **[Product Activation Specialist](https://jobright-internal.com/jobs/info/672e91577156410bf72c9afc?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 08 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, Lauren Wovens](https://jobright-internal.com/jobs/info/66f5dc6f8ddcc08364df0be3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 08 |
-| **[Healthfirst](https://healthfirst.org)** | **[Data Analyst, Product Strategy](https://jobright-internal.com/jobs/info/672e9441f44d10ba109490c8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 08 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Associate Product Manager](https://jobright-internal.com/jobs/info/672e8e48d83ea8817e2a1c4b?utm_campaign=Product%20Management&utm_source=1103)** | Towson, MD | On Site | Nov 08 |
 | **[Cognizant](https://www.cognizant.com)** | **[Oracle EBS Techno Functional Finance - Remote Option with Mileso](https://jobright-internal.com/jobs/info/672e7c721a0d53ffb235fbee?utm_campaign=Product%20Management&utm_source=1103)** | Davidson, NC | Remote | Nov 08 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright-internal.com/jobs/info/672e54abfef80d45c0dfce44?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Nov 08 |
