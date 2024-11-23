@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oregon Tool](https://www.oregontool.com)** | **[Associate Product Manager (Hybrid)](https://jobright.ai/jobs/info/67258a6787f3e47d3a9a2042?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Nov 23 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/674197b14d5029375174d6a2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
 | **[World Vision USA](https://www.worldvision.org/)** | **[Product Services Operations Specialist](https://jobright.ai/jobs/info/674197b14d5029375174d6d1?utm_campaign=Product%20Management&utm_source=1103)** | Federal Way, WA | On Site | Nov 22 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/67417df82f0c484f8d1a05c1?utm_campaign=Product%20Management&utm_source=1103)** | 350 5th Avenue, New York, NY, US | On Site | Nov 22 |
