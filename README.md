@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centric Brands](https://centricbrands.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/674197b14d5029375174d6a2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
+| **[World Vision USA](https://www.worldvision.org/)** | **[Product Services Operations Specialist](https://jobright.ai/jobs/info/674197b14d5029375174d6d1?utm_campaign=Product%20Management&utm_source=1103)** | Federal Way, WA | On Site | Nov 22 |
+| **[Centric Brands](https://centricbrands.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/67417df82f0c484f8d1a05c1?utm_campaign=Product%20Management&utm_source=1103)** | 350 5th Avenue, New York, NY, US | On Site | Nov 22 |
+| **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Analyst - U.S. Consumer Centurion Card Product Management](https://jobright.ai/jobs/info/674169b0222271e39af6e17b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/6741861fc55ecf658fc89611?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | On Site | Nov 22 |
+| **[American Express](http://www.americanexpress.com)** | **[Senior Analyst - U.S. Consumer Centurion Card Product Management](https://jobright.ai/jobs/info/67414809264f95f4580078f8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
+| **[Oracle](https://www.oracle.com/)** | **[Oracle Cloud Database Services - MultiCloud - Product Manager/Strategy 3-ProdDev](https://jobright.ai/jobs/info/67414d63c82aa56f1c5a8910?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 22 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Associate, Polo OW](https://jobright.ai/jobs/info/6741019c3244c8755060f8f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 22 |
 | **[BNY Mellon](https://www.bny.com)** | **[Senior Associate, ETF Product Management](https://jobright.ai/jobs/info/6741010a9757255949388d82?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 22 |
 | **[Gauntlet](https://www.gauntlet.xyz)** | **[Product Manager for Aera](https://jobright.ai/jobs/info/6740fce80c4335e838ea933d?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Nov 22 |
@@ -66,6 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Worldpay](https://worldpay.com)** | **[Technical Product Manager - Payment methods](https://jobright.ai/jobs/info/6740f0bd146cd49ab7320ed5?utm_campaign=Product%20Management&utm_source=1103)** | Massachusetts, United States | On Site | Nov 22 |
 | **[iHerb, LLC](http://www.iherb.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/67404ee08ac592b5302e5ebf?utm_campaign=Product%20Management&utm_source=1103)** | United States of America - Irvine, California | On Site | Nov 22 |
 | **[DoorDash](http://www.doordash.com)** | **[Associate, Strategy & Operations - Digital Ordering](https://jobright.ai/jobs/info/67404b9cfbd4dd113f8dcb27?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 22 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67416207dbfa9493eb409c22?utm_campaign=Product%20Management&utm_source=1103)** | Sioux Falls, SD | On Site | Nov 21 |
+| ↳ | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6741571516a811e176fea61e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Nov 21 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Pro Product Technical Specialist](https://jobright.ai/jobs/info/674007085ebbe0531ca653e3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 21 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Product Insights Analyst - Nationwide](https://jobright.ai/jobs/info/673ffdaa09cbfaf42614f26c?utm_campaign=Product%20Management&utm_source=1103)** | Ohio, United States | Hybrid | Nov 21 |
 | ↳ | **[Product Insights Analyst - Nationwide](https://jobright.ai/jobs/info/673ffdaa09cbfaf42614f273?utm_campaign=Product%20Management&utm_source=1103)** | Massachusetts, United States | Hybrid | Nov 21 |
@@ -126,4 +135,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Search Product Operations - Creator Search Optimization - Trust & Safety - San Jose](https://jobright.ai/jobs/info/673a32ed4c7df98dbcdd35c3?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Nov 17 |
 | ↳ | **[Product Manager Graduate (TikTok Search)- 2025 Start (BS/MS)](https://jobright.ai/jobs/info/673a32ed4c7df98dbcdd35b8?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Nov 17 |
 | ↳ | **[Product Manager Graduate (TikTok-PGC) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/673a1ffc1ff4e16ae5b699ec?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Nov 17 |
+| **[Relativity](http://www.relativity.com)** | **[Associate Product Manager - Infrastructure](https://jobright.ai/jobs/info/6700a4d0fd5656cec3f09623?utm_campaign=Product%20Management&utm_source=1103)** | Illinois, United States | Hybrid | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
