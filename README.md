@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worldpay](https://worldpay.com)** | **[Business Systems Analyst/Product Owner](https://jobright.ai/jobs/info/674225bbb6cc14b9bd266410?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Nov 23 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Coordinator, Product Development Operations](https://jobright.ai/jobs/info/67254cd5c01d4c5ef88b6eb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 23 |
 | **[Oregon Tool](https://www.oregontool.com)** | **[Associate Product Manager (Hybrid)](https://jobright.ai/jobs/info/67258a6787f3e47d3a9a2042?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Nov 23 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/674197b14d5029375174d6a2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
 | **[World Vision USA](https://www.worldvision.org/)** | **[Product Services Operations Specialist](https://jobright.ai/jobs/info/674197b14d5029375174d6d1?utm_campaign=Product%20Management&utm_source=1103)** | Federal Way, WA | On Site | Nov 22 |
@@ -94,8 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6742215f9c68442403d9c517?utm_campaign=Product%20Management&utm_source=1103)** | Wilsonville, OR | On Site | Nov 21 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/673c2203169a4043c0460255?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Nov 21 |
 | **[Beacon Building Products](https://www.becn.com)** | **[Product Manager](https://jobright.ai/jobs/info/673f6642cff205f8669b120e?utm_campaign=Product%20Management&utm_source=1103)** | Aurora, CO | On Site | Nov 21 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor-2](https://jobright.ai/jobs/info/6741f2c530fad43488a502d2?utm_campaign=Product%20Management&utm_source=1103)** | De Forest, WI | On Site | Nov 21 |
-| ↳ | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6741e34f422bdb5b162ba8f4?utm_campaign=Product%20Management&utm_source=1103)** | De Forest, WI | On Site | Nov 21 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6741e34f422bdb5b162ba8f4?utm_campaign=Product%20Management&utm_source=1103)** | De Forest, WI | On Site | Nov 21 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/6722ef8c8ddbf6adfe449488?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Nov 21 |
 | **[SpaceX](https://www.spacex.com)** | **[Product Growth Lead (Starlink)](https://jobright.ai/jobs/info/673f0d3e3b75412ef857b0c7?utm_campaign=Product%20Management&utm_source=1103)** | Hawthorne, CA | On Site | Nov 21 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Product Development Specialist I (INFORMATION SERVICES SPECIALIST I, OPT A)(UMP)](https://jobright.ai/jobs/info/673ee65f0b725fa18d2417fa?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, IL | Hybrid | Nov 20 |
@@ -137,5 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Search Product Operations - Creator Search Optimization - Trust & Safety - San Jose](https://jobright.ai/jobs/info/673a32ed4c7df98dbcdd35c3?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Nov 17 |
 | ↳ | **[Product Manager Graduate (TikTok Search)- 2025 Start (BS/MS)](https://jobright.ai/jobs/info/673a32ed4c7df98dbcdd35b8?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Nov 17 |
 | ↳ | **[Product Manager Graduate (TikTok-PGC) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/673a1ffc1ff4e16ae5b699ec?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Nov 17 |
-| **[Relativity](http://www.relativity.com)** | **[Associate Product Manager - Infrastructure](https://jobright.ai/jobs/info/6700a4d0fd5656cec3f09623?utm_campaign=Product%20Management&utm_source=1103)** | Illinois, United States | Hybrid | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
