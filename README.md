@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](http://www.cintas.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/673ba8ecdfad5c200b23173a?utm_campaign=Product%20Management&utm_source=1103)** | Lancaster, NY | On Site | Nov 18 |
 | **[Regal.io](https://www.regal.ai)** | **[Product Specialist (AI Agent)](https://jobright.ai/jobs/info/673b7371cbd3b6f2efdc1515?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | Hybrid | Nov 18 |
 | **[Hayden Beverage Company](https://www.haydenbeverage.com/)** | **[Pricing and Product Coordinator](https://jobright.ai/jobs/info/673dea5b718c516231b945ec?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | On Site | Nov 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Graduate (TikTok Shop - Search) - 2025 Start (MBA)](https://jobright.ai/jobs/info/673d7b2e6a6ca08f716931f0?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
