@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Houston](https://jobright.ai/jobs/info/67445c15502bb7ff34746b0d?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Nov 25 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 | **[Worldpay](https://worldpay.com)** | **[Business Systems Analyst/Product Owner](https://jobright.ai/jobs/info/674225bbb6cc14b9bd266410?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Nov 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/67432fecdda9950ed76cd22f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Senior Analyst - U.S. Consumer Centurion Card Product Management](https://jobright.ai/jobs/info/67414809264f95f4580078f8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
 | **[Oracle](https://www.oracle.com/)** | **[Oracle Cloud Database Services - MultiCloud - Product Manager/Strategy 3-ProdDev](https://jobright.ai/jobs/info/67414d63c82aa56f1c5a8910?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 22 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Associate, Polo OW](https://jobright.ai/jobs/info/6741019c3244c8755060f8f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 22 |
-| **[BNY Mellon](https://www.bny.com)** | **[Senior Associate, ETF Product Management](https://jobright.ai/jobs/info/6741010a9757255949388d82?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 22 |
+| **[BNY Mellon](https://www.bnymellon.com)** | **[Senior Associate, ETF Product Management](https://jobright.ai/jobs/info/6741010a9757255949388d82?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 22 |
 | **[Gauntlet](https://www.gauntlet.xyz)** | **[Product Manager for Aera](https://jobright.ai/jobs/info/6740fce80c4335e838ea933d?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Nov 22 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Endur Product Manager - ETRM](https://jobright.ai/jobs/info/6740df26a967e936d2bc6a04?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Nov 22 |
 | ↳ | **[Endur Product Manager - ETRM](https://jobright.ai/jobs/info/6740df26a967e936d2bc6a37?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Nov 22 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Product Insights Analyst - Nationwide](https://jobright.ai/jobs/info/673feb14b1423413ffe7368a?utm_campaign=Product%20Management&utm_source=1103)** | Georgia, United States | Hybrid | Nov 21 |
 | ↳ | **[Product Insights Analyst](https://jobright.ai/jobs/info/673feb14b1423413ffe7365f?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, OH | Hybrid | Nov 21 |
 | **[KITH](https://kith.com)** | **[Product Development Assistant, Men's](https://jobright.ai/jobs/info/673fe6e0c391c6f9e9d3a6d3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 21 |
+| **[PayPal](https://www.paypal.com/home)** | **[Manager, Product Management 1](https://jobright.ai/jobs/info/6744578c71939646a357cc6e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, California, United States of America | Hybrid | Nov 21 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Product Analyst](https://jobright.ai/jobs/info/673fa0a3d55f203e276f4394?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 21 |
 | **[Gauntlet](https://www.gauntlet.xyz)** | **[Product Manager for Aera](https://jobright.ai/jobs/info/673f9d3f5d1adcab999f2e6e?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco | Remote | Nov 21 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Product Analyst](https://jobright.ai/jobs/info/673f8bc7bdb00645de1c5ce4?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 21 |
@@ -132,7 +134,4 @@ For a complete list, click the following sortable link below:
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Product Development Specialist II (INFORMATION SERVICES SPECIALIST II, OPT A)](https://jobright.ai/jobs/info/673c4ca43d17891d4615c1a9?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, IL | Hybrid | Nov 18 |
 | **[Cintas](http://www.cintas.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/673c0fce7b8ffc8e3a7687c1?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | On Site | Nov 18 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/673bbf2648d4e34d5da885ca?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Nov 18 |
-| **[Lexipol](https://www.lexipol.com/)** | **[Technical Associate Product Owner - Policy](https://jobright.ai/jobs/info/673bbfacf953dc1ae88765f1?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 18 |
-| **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Products Business Analyst](https://jobright.ai/jobs/info/673bac53f2a42706b7f19618?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, NY | Hybrid | Nov 18 |
-| **[Cintas](http://www.cintas.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/673ba8ecdfad5c200b23173a?utm_campaign=Product%20Management&utm_source=1103)** | Lancaster, NY | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
