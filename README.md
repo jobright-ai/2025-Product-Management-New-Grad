@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 | **[Worldpay](https://worldpay.com)** | **[Business Systems Analyst/Product Owner](https://jobright.ai/jobs/info/674225bbb6cc14b9bd266410?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Nov 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/67432fecdda9950ed76cd22f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Coordinator, Product Development Operations](https://jobright.ai/jobs/info/67254cd5c01d4c5ef88b6eb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 23 |
@@ -80,7 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Worldpay](https://worldpay.com)** | **[Technical Product Manager - Payment methods](https://jobright.ai/jobs/info/6740f0bd146cd49ab7320ed5?utm_campaign=Product%20Management&utm_source=1103)** | Massachusetts, United States | On Site | Nov 22 |
 | **[iHerb, LLC](http://www.iherb.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/67404ee08ac592b5302e5ebf?utm_campaign=Product%20Management&utm_source=1103)** | United States of America - Irvine, California | On Site | Nov 22 |
 | **[DoorDash](http://www.doordash.com)** | **[Associate, Strategy & Operations - Digital Ordering](https://jobright.ai/jobs/info/67404b9cfbd4dd113f8dcb27?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 22 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6741571516a811e176fea61e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Nov 21 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67441090b465ada06cbfbaa8?utm_campaign=Product%20Management&utm_source=1103)** | Spokane Valley, WA | On Site | Nov 21 |
+| ↳ | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/6741571516a811e176fea61e?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Nov 21 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Pro Product Technical Specialist](https://jobright.ai/jobs/info/674007085ebbe0531ca653e3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 21 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Product Insights Analyst - Nationwide](https://jobright.ai/jobs/info/673ffdaa09cbfaf42614f26c?utm_campaign=Product%20Management&utm_source=1103)** | Ohio, United States | Hybrid | Nov 21 |
 | ↳ | **[Product Insights Analyst - Nationwide](https://jobright.ai/jobs/info/673ffdaa09cbfaf42614f273?utm_campaign=Product%20Management&utm_source=1103)** | Massachusetts, United States | Hybrid | Nov 21 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/673d0833c475c1de90789330?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | On Site | Nov 19 |
 | **[Regal.io](https://www.regal.ai)** | **[Product Manager](https://jobright.ai/jobs/info/673cbd139b276e71c54938be?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | Hybrid | Nov 19 |
 | **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright.ai/jobs/info/66955dacb24bf2f353035f20?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Nov 19 |
-| **[iHerb, LLC](http://www.iherb.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/6743144477f714ada8d1525b?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Nov 19 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright.ai/jobs/info/6704ad3f29f40e016cb13dc8?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Nov 19 |
 | **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Phoenix](https://jobright.ai/jobs/info/673c955d757377fdb0d56b97?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Nov 19 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Product Development Specialist II (INFORMATION SERVICES SPECIALIST II, OPT A)](https://jobright.ai/jobs/info/673c4ca43d17891d4615c1a9?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, IL | Hybrid | Nov 18 |
@@ -134,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Lexipol](https://www.lexipol.com/)** | **[Technical Associate Product Owner - Policy](https://jobright.ai/jobs/info/673bbfacf953dc1ae88765f1?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 18 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Products Business Analyst](https://jobright.ai/jobs/info/673bac53f2a42706b7f19618?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, NY | Hybrid | Nov 18 |
 | **[Cintas](http://www.cintas.com)** | **[Product Development Specialist](https://jobright.ai/jobs/info/673ba8ecdfad5c200b23173a?utm_campaign=Product%20Management&utm_source=1103)** | Lancaster, NY | On Site | Nov 18 |
-| **[Regal.io](https://www.regal.ai)** | **[Product Specialist (AI Agent)](https://jobright.ai/jobs/info/673b7371cbd3b6f2efdc1515?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | Hybrid | Nov 18 |
-| **[Hayden Beverage Company](https://www.haydenbeverage.com/)** | **[Pricing and Product Coordinator](https://jobright.ai/jobs/info/673dea5b718c516231b945ec?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
