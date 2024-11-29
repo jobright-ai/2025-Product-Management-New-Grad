@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Gauntlet](https://www.gauntlet.xyz)** | **[Product Manager for Aera](https://jobright.ai/jobs/info/6740fce80c4335e838ea933d?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Nov 22 |
 | **[AIG](https://www.aig.com/)** | **[Product Analyst - Accident & Health](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5531?utm_campaign=Product%20Management&utm_source=1103)** | Wilmington, DE | Hybrid | Nov 22 |
 | **[Worldpay](https://worldpay.com)** | **[Technical Product Manager - Payment methods](https://jobright.ai/jobs/info/6740f0bd146cd49ab7320ed5?utm_campaign=Product%20Management&utm_source=1103)** | Massachusetts, United States | On Site | Nov 22 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor-1](https://jobright.ai/jobs/info/674861cab7f43de959ae5860?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
