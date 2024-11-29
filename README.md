@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager- Microsoft Software and Systems Academy (MSSA)](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8d223?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Nov 29 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Product Development Assistant - Fitness](https://jobright.ai/jobs/info/67488c17f68e01e7d85f76a6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | **[Roblox](https://corp.roblox.com)** | **[[2025] Associate Product Manager - New Grad](https://jobright.ai/jobs/info/670f1a6a19e8647631288d9e?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Nov 28 |
 | **[GEICO](http://www.geico.com)** | **[Product Specialist](https://jobright.ai/jobs/info/672a9d94a481dc32dc67291b?utm_campaign=Product%20Management&utm_source=1103)** | Chevy Chase, MD | On Site | Nov 28 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6709eff5e707d5d8f5d06b19?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 23 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6709eff5e707d5d8f5d06b0f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 23 |
+| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 23 |
 | **[Inovalon](http://www.inovalon.com)** | **[Product Owner (Workforce Management)](https://jobright.ai/jobs/info/67093d975b9f9c6e1a9c2d8f?utm_campaign=Product%20Management&utm_source=1103)** | Bowie, MD | On Site | Nov 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/67432fecdda9950ed76cd22f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Coordinator, Product Development Operations](https://jobright.ai/jobs/info/67254cd5c01d4c5ef88b6eb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 23 |
@@ -106,7 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/6742b23f7cb2cb6c5d6b0dc9?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 22 |
 | ↳ | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/6742b23f7cb2cb6c5d6b0dcb?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 22 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Analyst - U.S. Consumer Centurion Card Product Management](https://jobright.ai/jobs/info/674169b0222271e39af6e17b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/6741861fc55ecf658fc89611?utm_campaign=Product%20Management&utm_source=1103)** | Cambridge, MA | On Site | Nov 22 |
-| **[American Express](http://www.americanexpress.com)** | **[Senior Analyst - U.S. Consumer Centurion Card Product Management](https://jobright.ai/jobs/info/67414809264f95f4580078f8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
-| **[Oracle](https://www.oracle.com/)** | **[Oracle Cloud Database Services - MultiCloud - Product Manager/Strategy 3-ProdDev](https://jobright.ai/jobs/info/67414d63c82aa56f1c5a8910?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
