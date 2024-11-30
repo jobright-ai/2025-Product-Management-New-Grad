@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a62887546b993cd836a93?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Nov 29 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright.ai/jobs/info/674a5054ef574183c47bdcd6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 29 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a3150db78b2328e067539?utm_campaign=Product%20Management&utm_source=1103)** | HQ - San Diego, CA | On Site | Nov 29 |
 | ↳ | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a2ed4ccb39d6b8f5f8fdf?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Nov 29 |
@@ -103,6 +104,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 23 |
 | **[Inovalon](http://www.inovalon.com)** | **[Product Owner (Workforce Management)](https://jobright.ai/jobs/info/67093d975b9f9c6e1a9c2d8f?utm_campaign=Product%20Management&utm_source=1103)** | Bowie, MD | On Site | Nov 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/67432fecdda9950ed76cd22f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Coordinator, Product Development Operations](https://jobright.ai/jobs/info/67254cd5c01d4c5ef88b6eb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 23 |
-| **[Oregon Tool](https://www.oregontool.com)** | **[Associate Product Manager (Hybrid)](https://jobright.ai/jobs/info/67258a6787f3e47d3a9a2042?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
