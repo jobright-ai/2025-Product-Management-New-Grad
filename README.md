@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright.ai/jobs/info/674a5054ef574183c47bdcd6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 29 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a3150db78b2328e067539?utm_campaign=Product%20Management&utm_source=1103)** | HQ - San Diego, CA | On Site | Nov 29 |
+| ↳ | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a2ed4ccb39d6b8f5f8fdf?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Nov 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager- Microsoft Software and Systems Academy (MSSA)](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8d223?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Nov 29 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Product Development Assistant - Fitness](https://jobright.ai/jobs/info/67488c17f68e01e7d85f76a6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | **[Roblox](https://corp.roblox.com)** | **[[2025] Associate Product Manager - New Grad](https://jobright.ai/jobs/info/670f1a6a19e8647631288d9e?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Nov 28 |
@@ -102,10 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/67432fecdda9950ed76cd22f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Coordinator, Product Development Operations](https://jobright.ai/jobs/info/67254cd5c01d4c5ef88b6eb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 23 |
 | **[Oregon Tool](https://www.oregontool.com)** | **[Associate Product Manager (Hybrid)](https://jobright.ai/jobs/info/67258a6787f3e47d3a9a2042?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Nov 23 |
-| **[World Vision USA](https://www.worldvision.org/)** | **[Product Services Operations Specialist](https://jobright.ai/jobs/info/674197b14d5029375174d6d1?utm_campaign=Product%20Management&utm_source=1103)** | Federal Way, WA | On Site | Nov 22 |
-| **[Centric Brands](https://centricbrands.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/67417df82f0c484f8d1a05c1?utm_campaign=Product%20Management&utm_source=1103)** | 350 5th Avenue, New York, NY, US | On Site | Nov 22 |
-| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Associate Data Science Product Manager](https://jobright.ai/jobs/info/6747faf5349035ac5662c166?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Nov 22 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/6742b23f7cb2cb6c5d6b0dc9?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 22 |
-| ↳ | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/6742b23f7cb2cb6c5d6b0dcb?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 22 |
-| **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Analyst - U.S. Consumer Centurion Card Product Management](https://jobright.ai/jobs/info/674169b0222271e39af6e17b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
