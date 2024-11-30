@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EarnIn](https://www.earnin.com)** | **[FinTech Product Entrepreneur in Residence](https://jobright.ai/jobs/info/6740162d0f3f3941fd94554c?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Nov 30 |
 | **[Helen of Troy](https://www.helenoftroy.com)** | **[Product Development Assistant - OXO](https://jobright.ai/jobs/info/672ea3192c8facc40bed0e41?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 30 |
 | **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Phoenix](https://jobright.ai/jobs/info/674aa2e5aa29fc9336cf2776?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Nov 29 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a62887546b993cd836a93?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Nov 29 |
@@ -103,6 +104,4 @@ For a complete list, click the following sortable link below:
 | **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Houston](https://jobright.ai/jobs/info/67445c15502bb7ff34746b0d?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Nov 25 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Associate, Product Management (Rochester, NY)](https://jobright.ai/jobs/info/670ad1ba6f0a505ee36f485f?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Nov 24 |
 | **[Walter P. Rawl and Sons, Inc.](https://www.rawl.net/)** | **[Product Controller - Light and Heavy Lifter 1st and 3rd Shift](https://jobright.ai/jobs/info/6746a107636450cd28b9a5a6?utm_campaign=Product%20Management&utm_source=1103)** | Pelion, SC | On Site | Nov 24 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6709eff5e707d5d8f5d06b19?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 23 |
-| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
