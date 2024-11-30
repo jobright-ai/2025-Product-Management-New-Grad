@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Phoenix](https://jobright.ai/jobs/info/674aa2e5aa29fc9336cf2776?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Nov 29 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a62887546b993cd836a93?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Nov 29 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright.ai/jobs/info/674a5054ef574183c47bdcd6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 29 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a3150db78b2328e067539?utm_campaign=Product%20Management&utm_source=1103)** | HQ - San Diego, CA | On Site | Nov 29 |
-| ↳ | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a2ed4ccb39d6b8f5f8fdf?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Nov 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager- Microsoft Software and Systems Academy (MSSA)](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8d223?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Nov 29 |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Associate Product Manager, Surgical Business Unit](https://jobright.ai/jobs/info/66f2d2398ab0a7616775e75d?utm_campaign=Product%20Management&utm_source=1103)** | Trumbull, CT | Hybrid | Nov 28 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/674aa1dac5b2ca7479cf1fb4?utm_campaign=Product%20Management&utm_source=1103)** | Jackson, MS | On Site | Nov 28 |
+| **[AlphaSense](http://www.alpha-sense.com)** | **[Product Specialist](https://jobright.ai/jobs/info/674a8b703694fba68d984080?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Product Development Assistant - Fitness](https://jobright.ai/jobs/info/67488c17f68e01e7d85f76a6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | **[Roblox](https://corp.roblox.com)** | **[[2025] Associate Product Manager - New Grad](https://jobright.ai/jobs/info/670f1a6a19e8647631288d9e?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Nov 28 |
 | **[GEICO](http://www.geico.com)** | **[Product Specialist](https://jobright.ai/jobs/info/672a9d94a481dc32dc67291b?utm_campaign=Product%20Management&utm_source=1103)** | Chevy Chase, MD | On Site | Nov 28 |
@@ -97,11 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Alphatec Spine](https://atecspine.com)** | **[Product Manager - PTP Team](https://jobright.ai/jobs/info/6744b3ca6e7f074befac53f6?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Nov 25 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/674480e4afc5dd0edb86b3b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 25 |
 | **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Houston](https://jobright.ai/jobs/info/67445c15502bb7ff34746b0d?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Nov 25 |
+| **[L3Harris Technologies](https://www.l3harris.com/)** | **[Associate, Product Management (Rochester, NY)](https://jobright.ai/jobs/info/670ad1ba6f0a505ee36f485f?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Nov 24 |
 | **[Walter P. Rawl and Sons, Inc.](https://www.rawl.net/)** | **[Product Controller - Light and Heavy Lifter 1st and 3rd Shift](https://jobright.ai/jobs/info/6746a107636450cd28b9a5a6?utm_campaign=Product%20Management&utm_source=1103)** | Pelion, SC | On Site | Nov 24 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6709eff5e707d5d8f5d06b19?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 23 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6709eff5e707d5d8f5d06b0f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 23 |
-| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 23 |
-| **[Inovalon](http://www.inovalon.com)** | **[Product Owner (Workforce Management)](https://jobright.ai/jobs/info/67093d975b9f9c6e1a9c2d8f?utm_campaign=Product%20Management&utm_source=1103)** | Bowie, MD | On Site | Nov 23 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/67432fecdda9950ed76cd22f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
