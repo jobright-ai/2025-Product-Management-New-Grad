@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Helen of Troy](https://www.helenoftroy.com)** | **[Product Development Assistant - OXO](https://jobright.ai/jobs/info/672ea3192c8facc40bed0e41?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 30 |
 | **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Phoenix](https://jobright.ai/jobs/info/674aa2e5aa29fc9336cf2776?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Nov 29 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a62887546b993cd836a93?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Nov 29 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright.ai/jobs/info/674a5054ef574183c47bdcd6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 29 |
@@ -104,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Walter P. Rawl and Sons, Inc.](https://www.rawl.net/)** | **[Product Controller - Light and Heavy Lifter 1st and 3rd Shift](https://jobright.ai/jobs/info/6746a107636450cd28b9a5a6?utm_campaign=Product%20Management&utm_source=1103)** | Pelion, SC | On Site | Nov 24 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6709eff5e707d5d8f5d06b19?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 23 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 23 |
-| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6709eff5e707d5d8f5d06b0f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
