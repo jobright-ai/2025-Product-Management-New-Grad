@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Product Manager II - Enterprise Capability Specialist](https://jobright.ai/jobs/info/674c4a7d7be13a69e24cabd2?utm_campaign=Product%20Management&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 01 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright.ai/jobs/info/671a0a57271e1f4a70bdfcc2?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Dec 01 |
+| ↳ | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright.ai/jobs/info/6731d689685f4e4e4c81aea6?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Dec 01 |
+| ↳ | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright.ai/jobs/info/671375ad2c174b795a6beafb?utm_campaign=Product%20Management&utm_source=1103)** | Arlington, VA | On Site | Dec 01 |
 | **[EarnIn](https://www.earnin.com)** | **[FinTech Product Entrepreneur in Residence](https://jobright.ai/jobs/info/6740162d0f3f3941fd94554c?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Nov 30 |
 | **[Helen of Troy](https://www.helenoftroy.com)** | **[Product Development Assistant - OXO](https://jobright.ai/jobs/info/672ea3192c8facc40bed0e41?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager - Redmond](https://jobright.ai/jobs/info/6710cbba882f8c7a65a8d4a9?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Nov 29 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[BEDGEAR](http://bedgear.com)** | **[Product Development & Procurement Associate](https://jobright.ai/jobs/info/6747ccec026a3147e02e953f?utm_campaign=Product%20Management&utm_source=1103)** | Farmingdale, NY | On Site | Nov 27 |
 | **[Pearson](https://www.pearson.com/)** | **[Digital Product Specialist, CTE](https://jobright.ai/jobs/info/6747cb8c39c598b73ef18d60?utm_campaign=Product%20Management&utm_source=1103)** | Des Moines, IA | On Site | Nov 27 |
 | **[BEDGEAR](http://bedgear.com)** | **[Product Development & Procurement Associate](https://jobright.ai/jobs/info/6747cdb72e906b856cf8a5e0?utm_campaign=Product%20Management&utm_source=1103)** | Farmingdale, NY | On Site | Nov 27 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright.ai/jobs/info/672b0834a72d6af4a1b6b070?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 27 |
 | **[DoorDash](http://www.doordash.com)** | **[Associate, Strategy & Operations - Digital Ordering](https://jobright.ai/jobs/info/672a9cc51747920f1d6e61a7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 27 |
 | **[Morgan, Lewis & Bockius LLP](http://www.morganlewis.com/)** | **[Digital Product Analyst](https://jobright.ai/jobs/info/67469337423aaaf006684292?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 26 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Category Specialist](https://jobright.ai/jobs/info/6746c952d9cf3b230736fae2?utm_campaign=Product%20Management&utm_source=1103)** | Brea, CA | On Site | Nov 26 |
