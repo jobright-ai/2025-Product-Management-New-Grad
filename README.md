@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[EarnIn](https://www.earnin.com)** | **[FinTech Product Entrepreneur in Residence](https://jobright.ai/jobs/info/6740162d0f3f3941fd94554c?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Nov 30 |
 | **[Helen of Troy](https://www.helenoftroy.com)** | **[Product Development Assistant - OXO](https://jobright.ai/jobs/info/672ea3192c8facc40bed0e41?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager - Redmond](https://jobright.ai/jobs/info/6710cbba882f8c7a65a8d4a9?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Nov 29 |
 | **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Phoenix](https://jobright.ai/jobs/info/674aa2e5aa29fc9336cf2776?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Nov 29 |
 | **[Adobe](http://www.adobe.com)** | **[Associate Business Product Manager](https://jobright.ai/jobs/info/67404df89e08fdbe9743c971?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 29 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Sr. Product Release Analyst](https://jobright.ai/jobs/info/674a62887546b993cd836a93?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Nov 29 |
