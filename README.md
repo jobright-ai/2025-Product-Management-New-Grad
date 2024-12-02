@@ -102,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[Product Analyst, Private Credit (Westport, CT ONLY)](https://jobright.ai/jobs/info/674601abba24660f2c807fb0?utm_campaign=Product%20Management&utm_source=1103)** | Westport, CT | Hybrid | Nov 26 |
 | **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Consumer Experience](https://jobright.ai/jobs/info/674973e29a71c8abf498626b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 25 |
 | **[Parafin](https://www.parafin.com)** | **[Product Operations Specialist, Servicing](https://jobright.ai/jobs/info/674520761f0daf7813ab6672?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Nov 25 |
-| **[Oracle](https://www.oracle.com/)** | **[Oracle University - Product Manager/Strategy 4-ProdDev](https://jobright.ai/jobs/info/6744cfd4e4c45a3cbae981ad?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 25 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[WM Platforms Analyst](https://jobright.ai/jobs/info/6744d2eb26800ed306f9c87c?utm_campaign=Product%20Management&utm_source=1103)** | Purchase, NY | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
