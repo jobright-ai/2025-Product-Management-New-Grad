@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaSense](http://www.alpha-sense.com)** | **[Product Specialist, Financial Services](https://jobright.ai/jobs/info/672bd0f1272dfef88974ab06?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Dec 02 |
 | **[Walmart](http://www.walmart.com)** | **[Product Manager II - Enterprise Capability Specialist](https://jobright.ai/jobs/info/674c4a7d7be13a69e24cabd2?utm_campaign=Product%20Management&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 01 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright.ai/jobs/info/671a0a57271e1f4a70bdfcc2?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Dec 01 |
 | ↳ | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright.ai/jobs/info/6731d689685f4e4e4c81aea6?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Dec 01 |
@@ -101,5 +102,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/67461667a63fc97ffc3aebec?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Nov 26 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[Product Analyst, Private Credit (Westport, CT ONLY)](https://jobright.ai/jobs/info/674601abba24660f2c807fb0?utm_campaign=Product%20Management&utm_source=1103)** | Westport, CT | Hybrid | Nov 26 |
 | **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Consumer Experience](https://jobright.ai/jobs/info/674973e29a71c8abf498626b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 25 |
-| **[Parafin](https://www.parafin.com)** | **[Product Operations Specialist, Servicing](https://jobright.ai/jobs/info/674520761f0daf7813ab6672?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
