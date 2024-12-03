@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Standard Motor Products](http://www.smpcorp.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/674e9979317f668dc8639b39?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 02 |
+| **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Analyst-US Platinum Product Management](https://jobright.ai/jobs/info/674e9cd8bca2745c861544b8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 02 |
+| **[American Express](http://www.americanexpress.com)** | **[Product Manager I](https://jobright.ai/jobs/info/674e81508fee11c3befa1537?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 02 |
+| ↳ | **[Senior Analyst-US Platinum Product Management](https://jobright.ai/jobs/info/674e81508fee11c3befa151b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 02 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/674e637f7d852ca2b7c61d59?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Dec 02 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Product Manager I](https://jobright.ai/jobs/info/674e4117034677c992cd1c59?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 02 |
 | **[Cintas](http://www.cintas.com)** | **[Production Associate - Product Separator - 2nd Shift](https://jobright.ai/jobs/info/674e22ca7822c723ce427d1f?utm_campaign=Product%20Management&utm_source=1103)** | Sacramento, CA | On Site | Dec 02 |
+| **[Regal.io](https://www.regal.ai)** | **[AI Agent Product Specialist](https://jobright.ai/jobs/info/673b7371cbd3b6f2efdc1515?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | Hybrid | Dec 02 |
 | **[Walmart](http://www.walmart.com)** | **[Product Manager II - Enterprise Capability Specialist](https://jobright.ai/jobs/info/674c4a7d7be13a69e24cabd2?utm_campaign=Product%20Management&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 01 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright.ai/jobs/info/671a0a57271e1f4a70bdfcc2?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Dec 01 |
 | ↳ | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright.ai/jobs/info/6731d689685f4e4e4c81aea6?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Dec 01 |
@@ -75,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager- Microsoft Software and Systems Academy (MSSA)](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8d223?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Nov 29 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Associate Product Manager, Surgical Business Unit](https://jobright.ai/jobs/info/66f2d2398ab0a7616775e75d?utm_campaign=Product%20Management&utm_source=1103)** | Trumbull, CT | Hybrid | Nov 28 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/674d321a48864664701461eb?utm_campaign=Product%20Management&utm_source=1103)** | Jackson, MS | On Site | Nov 28 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/674e793ab7321a9aab42fb9f?utm_campaign=Product%20Management&utm_source=1103)** | Jackson, TN | On Site | Nov 28 |
 | **[AlphaSense](http://www.alpha-sense.com)** | **[Product Specialist, Financial Services](https://jobright.ai/jobs/info/674e54e5b8e28245d31853cb?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Product Development Assistant - Fitness](https://jobright.ai/jobs/info/67488c17f68e01e7d85f76a6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | **[Roblox](https://corp.roblox.com)** | **[[2025] Associate Product Manager - New Grad](https://jobright.ai/jobs/info/670f1a6a19e8647631288d9e?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Nov 28 |
@@ -102,5 +108,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Endur Product Manager - ETRM](https://jobright.ai/jobs/info/674633e8e24bb0ba37485393?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Nov 26 |
 | **[KeyBank](https://www.key.com)** | **[Product Manager I](https://jobright.ai/jobs/info/67462f35118d8bb194c09b75?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Nov 26 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/67461667a63fc97ffc3aebec?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Nov 26 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[Product Analyst, Private Credit (Westport, CT ONLY)](https://jobright.ai/jobs/info/674601abba24660f2c807fb0?utm_campaign=Product%20Management&utm_source=1103)** | Westport, CT | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
