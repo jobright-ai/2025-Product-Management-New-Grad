@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Product Manager I](https://jobright.ai/jobs/info/674e4117034677c992cd1c59?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 02 |
+| **[Cintas](http://www.cintas.com)** | **[Production Associate - Product Separator - 2nd Shift](https://jobright.ai/jobs/info/674e22ca7822c723ce427d1f?utm_campaign=Product%20Management&utm_source=1103)** | Sacramento, CA | On Site | Dec 02 |
 | **[AlphaSense](http://www.alpha-sense.com)** | **[Product Specialist, Financial Services](https://jobright.ai/jobs/info/672bd0f1272dfef88974ab06?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Dec 02 |
 | **[Walmart](http://www.walmart.com)** | **[Product Manager II - Enterprise Capability Specialist](https://jobright.ai/jobs/info/674c4a7d7be13a69e24cabd2?utm_campaign=Product%20Management&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 01 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Product Operations Analyst, World Wide Revenue Operations](https://jobright.ai/jobs/info/671a0a57271e1f4a70bdfcc2?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Dec 01 |
@@ -101,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[Product Manager I](https://jobright.ai/jobs/info/67462f35118d8bb194c09b75?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Nov 26 |
 | ↳ | **[Product Manager I](https://jobright.ai/jobs/info/67461667a63fc97ffc3aebec?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Nov 26 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[Product Analyst, Private Credit (Westport, CT ONLY)](https://jobright.ai/jobs/info/674601abba24660f2c807fb0?utm_campaign=Product%20Management&utm_source=1103)** | Westport, CT | Hybrid | Nov 26 |
-| **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Consumer Experience](https://jobright.ai/jobs/info/674973e29a71c8abf498626b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
