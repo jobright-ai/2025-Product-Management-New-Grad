@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cross River](http://crossriver.com)** | **[Product Manager, Payments](https://jobright.ai/jobs/info/66796cb33f452d31d55f8618?utm_campaign=Product%20Management&utm_source=1103)** | Fort Lee, NJ | On Site | Dec 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager - TikTok Content Ecosystem](https://jobright.ai/jobs/info/675a929b8ccc9b07a9dac934?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Dec 11 |
 | **[Autodesk](http://www.autodesk.com)** | **[Associate Product Manager, eCommerce Platform](https://jobright.ai/jobs/info/675a50766d78959b9cffdfab?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | Remote | Dec 11 |
 | ↳ | **[Associate Product Manager, eCommerce Platform](https://jobright.ai/jobs/info/675a50766d78959b9cffdfac?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | Remote | Dec 11 |
@@ -105,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[American Exchange Group](https://www.axnygroup.com)** | **[Associate Product Developer, Footwear](https://jobright.ai/jobs/info/675744860332297d0479a49a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Graduate (TikTok Shop - Search) - 2025 Start (MBA)](https://jobright.ai/jobs/info/673d7b2e6a6ca08f716931f0?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Dec 09 |
 | ↳ | **[Product Manager Graduate (TikTok-PGC) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/673a1ffc1ff4e16ae5b699ec?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Dec 09 |
+| **[PSCU](https://www.velera.com)** | **[Product Implementation Specialist_Emerging Services](https://jobright.ai/jobs/info/671b0708eff0c18db309b7fc?utm_campaign=Product%20Management&utm_source=1103)** | United States | On Site | Dec 08 |
 | **[Relativity](http://www.relativity.com)** | **[Associate Product Manager - Infrastructure](https://jobright.ai/jobs/info/6700a4d0fd5656cec3f09623?utm_campaign=Product%20Management&utm_source=1103)** | Illinois, United States | Hybrid | Dec 07 |
 | **[Cengage Group](https://www.cengagegroup.com/)** | **[Product Assistant, HED Science](https://jobright.ai/jobs/info/6737b105461bd52a4d9e7a9a?utm_campaign=Product%20Management&utm_source=1103)** | Massachusetts, United States | On Site | Dec 07 |
 | **[Torrid](http://www.torrid.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/6737fc087c4067951d230a20?utm_campaign=Product%20Management&utm_source=1103)** | City of Industry, CA | On Site | Dec 07 |
@@ -122,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[AVIXA](https://www.avixa.org)** | **[Coordinator, Digital Product](https://jobright.ai/jobs/info/675342cbbe68d68b214e5cb8?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Dec 06 |
 | **[Movement Mortgage](https://movement.com)** | **[Associate Product Owner](https://jobright.ai/jobs/info/6736c5516fc2f026059f82d4?utm_campaign=Product%20Management&utm_source=1103)** | Indian Land, SC | On Site | Dec 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Data Integrations) - Business Cards & Payments](https://jobright.ai/jobs/info/671b3e170f638ba76f5b686b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 06 |
+| ↳ | **[Senior Associate, Product Management (Data Integrations) - Business Cards & Payments](https://jobright.ai/jobs/info/671b3e170f638ba76f5b687e?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 06 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Product Development Analyst (INFORMATION SYSTEMS ANALYST I, OPT A)](https://jobright.ai/jobs/info/6752bcea1867388a5bd5142f?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, IL | Hybrid | Dec 05 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Data Products](https://jobright.ai/jobs/info/675a76bbf526e9396390858e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Dec 05 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Senior Analyst-Gold Card Product Management](https://jobright.ai/jobs/info/67528c15e987f529fe54a86a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 05 |
@@ -129,9 +132,4 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Senior Analyst-Gold Card Product Management](https://jobright.ai/jobs/info/67526e390d9b1d84d6c52bdf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 05 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Business Cards & Payments](https://jobright.ai/jobs/info/66df6af906b7bc8f150e8c8c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 05 |
 | **[AVIXA](https://www.avixa.org)** | **[Coordinator, Digital Product](https://jobright.ai/jobs/info/67536b20fa3b4f989056466c?utm_campaign=Product%20Management&utm_source=1103)** | Fairfax, VA | Hybrid | Dec 05 |
-| **[TP ICAP](https://www.tpicap.com/)** | **[Junior Product Manager Equities](https://jobright.ai/jobs/info/675218e3cafd2a506fdfb7d1?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Dec 05 |
-| **[Worldpay](https://worldpay.com)** | **[Product Manager I](https://jobright.ai/jobs/info/67520e10c8300bc598c61b4d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 05 |
-| ↳ | **[Product Manager I](https://jobright.ai/jobs/info/67520e10c8300bc598c61c6b?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Dec 05 |
-| **[TP ICAP](https://www.tpicap.com/)** | **[Junior Product Manager Equities](https://jobright.ai/jobs/info/67520d356a22751dda834d3f?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Dec 05 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Product Management (Ticketmaster Promoted) College Associate](https://jobright.ai/jobs/info/6717d81a850554eefb2d100b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
