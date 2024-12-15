@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Oracle Cloud Database Services - MultiCloud - Product Manager/Strategy 3-ProdDev](https://jobright.ai/jobs/info/67414d63c82aa56f1c5a8910?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 14 |
 | **[Skechers](http://www.skechers.com)** | **[Product Manager - WORK](https://jobright.ai/jobs/info/675d04b1abaef83e0c2405ab?utm_campaign=Product%20Management&utm_source=1103)** | Manhattan Beach, CA | Hybrid | Dec 13 |
 | **[10x Genomics](http://10xgenomics.com)** | **[Product Manager, Software](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae478d?utm_campaign=Product%20Management&utm_source=1103)** | Pleasanton, California, USA HQ | On Site | Dec 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Agent Servicing Platform (US Card)](https://jobright.ai/jobs/info/675d04b1abaef83e0c2405e3?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 13 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Sunco.com](https://www.sunco.com/)** | **[Product Manager (Hardware)](https://jobright.ai/jobs/info/675b5e780acd51807c6e9c71?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | On Site | Dec 12 |
 | ↳ | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/675b5e780acd51807c6e9c96?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | On Site | Dec 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Agent Servicing Platform (US Card)](https://jobright.ai/jobs/info/675b492c2880193225449ab6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 12 |
-| ↳ | **[Sr. Associate, Product Management - Agent Servicing Platform (US Card)](https://jobright.ai/jobs/info/675b492c2880193225449ab5?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 12 |
 | ↳ | **[Sr. Associate, Product Management - Agent Servicing Platform (US Card)](https://jobright.ai/jobs/info/675b492c2880193225449a61?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 12 |
+| ↳ | **[Sr. Associate, Product Management - Agent Servicing Platform (US Card)](https://jobright.ai/jobs/info/675b492c2880193225449ab5?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 12 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Product Manager (Hardware)](https://jobright.ai/jobs/info/675afad781754aa1ffb08600?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Dec 12 |
 | ↳ | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/674e637f7d852ca2b7c61d59?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Dec 12 |
 | **[Under Armour](http://underarmour.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/6750c5bb0d59cf7a99c620ec?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | Hybrid | Dec 12 |
