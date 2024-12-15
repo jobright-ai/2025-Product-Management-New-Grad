@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/675eb8f2c3806dca195ab333?utm_campaign=Product%20Management&utm_source=1103)** | Spring, TX | On Site | Dec 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Capital Markets & Analytics](https://jobright.ai/jobs/info/67432fecdda9950ed76cd22f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 14 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Associate, Polo OW](https://jobright.ai/jobs/info/6741019c3244c8755060f8f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 14 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/670a12649c761499dfc00b8f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 14 |
 | **[AIG](https://www.aig.com/)** | **[Product Analyst - Accident & Health](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5531?utm_campaign=Product%20Management&utm_source=1103)** | Wilmington, DE | Hybrid | Dec 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Oracle Cloud Database Services - MultiCloud - Product Manager/Strategy 3-ProdDev](https://jobright.ai/jobs/info/67414d63c82aa56f1c5a8910?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 14 |
 | **[Skechers](http://www.skechers.com)** | **[Product Manager - WORK](https://jobright.ai/jobs/info/675d04b1abaef83e0c2405ab?utm_campaign=Product%20Management&utm_source=1103)** | Manhattan Beach, CA | Hybrid | Dec 13 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Under Armour](http://underarmour.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/6750c5bb0d59cf7a99c620ec?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | Hybrid | Dec 12 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Product Manager](https://jobright.ai/jobs/info/675afad781754aa1ffb08600?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Dec 12 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Product Specialist - Equity](https://jobright.ai/jobs/info/673e9afb5f6856b1ced70b00?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Dec 12 |
+| **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/66955a19fbfbadbf06b6470d?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Dec 12 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Assistant Product Manager, Appliance & Accessory](https://jobright.ai/jobs/info/67232f07813c98a8f7817f38?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Dec 12 |
 | **[Cross River](http://crossriver.com)** | **[Product Manager, Payments](https://jobright.ai/jobs/info/66796cb33f452d31d55f8618?utm_campaign=Product%20Management&utm_source=1103)** | Fort Lee, NJ | On Site | Dec 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager - TikTok Content Ecosystem](https://jobright.ai/jobs/info/675a929b8ccc9b07a9dac934?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Dec 11 |
