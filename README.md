@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/67649d2a598961c42a95dbae?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 19 |
+| ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/676492a07357e7064d3ce0fd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 19 |
+| ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/67649d2a598961c42a95dbb9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 19 |
 | **[Phreesia](http://www.phreesia.com)** | **[Product Owner](https://jobright.ai/jobs/info/676437abd2437c9a29dcd50f?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 19 |
 | **[Solomon Page](https://solomonpage.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/67410d3b53e188fba31d037b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 18 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/676355fab4f042298480dcb7?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 18 |
@@ -76,9 +79,10 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67622fe20fda01801f112a93?utm_campaign=Product%20Management&utm_source=1103)** | Frisco, TX | Hybrid | Dec 17 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Associate Mako Product Specialist- Palm Springs, CA](https://jobright.ai/jobs/info/676227380d762831f8fa787a?utm_campaign=Product%20Management&utm_source=1103)** | Palm Springs, CA | On Site | Dec 17 |
 | **[Sage Software Solutions Pvt Ltd](https://www.sagesoftware.co.in/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/67620c51d03d46f04888fbee?utm_campaign=Product%20Management&utm_source=1103)** | Ann Arbor, MI | On Site | Dec 17 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/6761f7bda777b5a4371d4ffc?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 17 |
+| **[Abbott](https://www.abbott.com)** | **[Product Performance Analyst I](https://jobright.ai/jobs/info/6759075001bb7dfac594de7a?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MN | On Site | Dec 17 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/6761f7bda777b5a4371d5190?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 17 |
 | ↳ | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/6761f7bda777b5a4371d5191?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 17 |
-| ↳ | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/6761f7bda777b5a4371d5190?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 17 |
+| ↳ | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/6761f7bda777b5a4371d4ffc?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | ↳ | **[Sr. Associate, Product Management- Capital One Software](https://jobright.ai/jobs/info/6761eb396dcf139f63740c9f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 17 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware] CA](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5c9d1?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | On Site | Dec 17 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6761d6c1713c4bcb349360aa?utm_campaign=Product%20Management&utm_source=1103)** | USA-Frisco-6160 Warren Parkway | Hybrid | Dec 17 |
@@ -92,10 +96,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6761029714017ed4e1678fca?utm_campaign=Product%20Management&utm_source=1103)** | Glendale, CA | On Site | Dec 16 |
 | ↳ | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6760fc7775072d57be09f24a?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 16 |
 | ↳ | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6761029714017ed4e1678fcb?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | On Site | Dec 16 |
-| ↳ | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6760e5ad93cae644994fe300?utm_campaign=Product%20Management&utm_source=1103)** | US Remote | On Site | Dec 16 |
+| ↳ | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6760e5ad93cae644994fe301?utm_campaign=Product%20Management&utm_source=1103)** | US GA Atlanta | On Site | Dec 16 |
 | ↳ | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6760e5ad93cae644994fe1d4?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, Utah | On Site | Dec 16 |
 | ↳ | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6760e5ad93cae644994fe302?utm_campaign=Product%20Management&utm_source=1103)** | Glendale, California | On Site | Dec 16 |
-| ↳ | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6760e5ad93cae644994fe301?utm_campaign=Product%20Management&utm_source=1103)** | US GA Atlanta | On Site | Dec 16 |
+| ↳ | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6760e5ad93cae644994fe300?utm_campaign=Product%20Management&utm_source=1103)** | US Remote | On Site | Dec 16 |
 | **[Autodesk](http://www.autodesk.com)** | **[Product Analyst](https://jobright.ai/jobs/info/6760e5349f8a4ec1705628b3?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Dec 16 |
 | ↳ | **[Product Analyst](https://jobright.ai/jobs/info/6760e5349f8a4ec1705628b9?utm_campaign=Product%20Management&utm_source=1103)** | Massachusetts, United States | Remote | Dec 16 |
 | ↳ | **[Product Analyst](https://jobright.ai/jobs/info/6760e5349f8a4ec1705628c5?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | Remote | Dec 16 |
@@ -105,10 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Panoptyc](https://panoptyc.com)** | **[Product Analyst](https://jobright.ai/jobs/info/67629e5c42450d623bee44ef?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 16 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Marketing Specialist – Product Management (Remote, USA)](https://jobright.ai/jobs/info/6760c862efff95a97abc01ce?utm_campaign=Product%20Management&utm_source=1103)** | Aliso Viejo, CA | Remote | Dec 16 |
 | **[BSH Home Appliances Group](http://www.bsh-group.com/)** | **[Product Manager, Ops](https://jobright.ai/jobs/info/6760b8ccb843344c967596b0?utm_campaign=Product%20Management&utm_source=1103)** | New Bern, NC | On Site | Dec 16 |
-| **[Ambry Genetics](http://www.ambrygen.com/)** | **[Marketing Specialist – Product Management (Remote, USA)](https://jobright.ai/jobs/info/6760ba871ff8529699c82a73?utm_campaign=Product%20Management&utm_source=1103)** | Aliso Viejo, CA | Remote | Dec 16 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Associate Product Manager, iOS & Android Development](https://jobright.ai/jobs/info/67609a02fd9bef99b3eaaf28?utm_campaign=Product%20Management&utm_source=1103)** | Universal City, CA | On Site | Dec 16 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management- Capital One Software](https://jobright.ai/jobs/info/6760703caf553ec830c1bab3?utm_campaign=Product%20Management&utm_source=1103)** | US Remote | On Site | Dec 16 |
-| ↳ | **[Sr. Associate, Product Management- Capital One Software](https://jobright.ai/jobs/info/6760703caf553ec830c1b899?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 16 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management- Capital One Software](https://jobright.ai/jobs/info/6760703caf553ec830c1b899?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 16 |
+| ↳ | **[Sr. Associate, Product Management- Capital One Software](https://jobright.ai/jobs/info/6760703caf553ec830c1bab3?utm_campaign=Product%20Management&utm_source=1103)** | US Remote | On Site | Dec 16 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Product Manager [Hardware] CA](https://jobright.ai/jobs/info/6760703caf553ec830c1b960?utm_campaign=Product%20Management&utm_source=1103)** | Valencia, CA | On Site | Dec 16 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Associate, Product Analyst (Rochester, NY)](https://jobright.ai/jobs/info/670ad1ba6f0a505ee36f485f?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Dec 16 |
 | **[ION](https://iongroup.com)** | **[Product Manager, New York](https://jobright.ai/jobs/info/672572b731dbe433a415c1ed?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Dec 15 |
@@ -136,7 +139,4 @@ For a complete list, click the following sortable link below:
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Associate Digital Product Management](https://jobright.ai/jobs/info/675c703e9f7559d7a3ea9b10?utm_campaign=Product%20Management&utm_source=1103)** | Sunrise, FL | Hybrid | Dec 13 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Product Development Assistant - Fitness](https://jobright.ai/jobs/info/675c522c642b6b5007934262?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 13 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/67511609e2ba5850967304dd?utm_campaign=Product%20Management&utm_source=1103)** | Hanover, PA | On Site | Dec 13 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Product Manager I, Ads Tools](https://jobright.ai/jobs/info/675bcd9447cde90b30e95f25?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Dec 12 |
-| ↳ | **[Product Manager I, Ads Tools](https://jobright.ai/jobs/info/675bcb92f54a86bb1c912fbc?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 12 |
-| **[Pharmavite](http://www.pharmavite.com)** | **[Product Coordinator (Remote)](https://jobright.ai/jobs/info/675bce0eeafeb498027a5aa9?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | Remote | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
