@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[C4 Technical Services](http://c4techservices.com)** | **[Warehouse Associate](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0ae8f?utm_campaign=Product%20Management&utm_source=1103)** | Selma, AL | On Site | Dec 23 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware] CA](https://jobright.ai/jobs/info/6760da4a7bcf122935006b93?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Dec 23 |
 | **[ODDITY](https://www.oddity.com)** | **[Product Manager](https://jobright.ai/jobs/info/67695fea428c7c5031a1baff?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Dec 23 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright.ai/jobs/info/672b6973b42347866912ecb7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Product Owner](https://jobright.ai/jobs/info/676909815bdfe249bbe2d353?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | On Site | Dec 22 |
 | ↳ | **[Product Owner](https://jobright.ai/jobs/info/67690091b767176e6716cce3?utm_campaign=Product%20Management&utm_source=1103)** | Bloomington, MN | On Site | Dec 22 |
 | ↳ | **[Product Owner](https://jobright.ai/jobs/info/6768f92a9ca663ec3c86d791?utm_campaign=Product%20Management&utm_source=1103)** | Indianapolis, IN | On Site | Dec 22 |
@@ -92,6 +93,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright.ai/jobs/info/672b0834a72d6af4a1b6b06d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 19 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[WM Platforms Analyst](https://jobright.ai/jobs/info/6744d2eb26800ed306f9c87c?utm_campaign=Product%20Management&utm_source=1103)** | Purchase, NY | On Site | Dec 19 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Sr. Product Analyst](https://jobright.ai/jobs/info/676534a81db485100758fa07?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Dec 19 |
-| **[Centric Brands](https://centricbrands.com)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/674480e4afc5dd0edb86b3b2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 18 |
-| **[Solomon Page](https://solomonpage.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/67410d3b53e188fba31d037b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
