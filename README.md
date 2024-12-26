@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HomeServe USA](http://www.homeserveusa.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/676d91c0052c0376025df3ca?utm_campaign=Product%20Management&utm_source=1103)** | Norwalk, CT | On Site | Dec 26 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager- Microsoft Software and Systems Academy (MSSA)](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8d223?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Dec 26 |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Associate Product Manager, Uterine Health](https://jobright.ai/jobs/info/67182e518a55c4b9b0d565ae?utm_campaign=Product%20Management&utm_source=1103)** | Trumbull, CT | Hybrid | Dec 26 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/676ccc8fbcc07e50419a1274?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 25 |
 | ↳ | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/676cca550de20bea7c886332?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 25 |
 | ↳ | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/676cd2c2e069a72f5936079e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 25 |
@@ -86,8 +89,4 @@ For a complete list, click the following sortable link below:
 | **[PUMA Group](http://us.puma.com/)** | **[APPRENTICE PRODUCT LINE MANAGEMENT AMBASSADORS](https://jobright.ai/jobs/info/6765839e35116c25682e008f?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Dec 20 |
 | **[KeyBank](https://www.key.com)** | **[Product Manager I](https://jobright.ai/jobs/info/67462f35118d8bb194c09b75?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Dec 19 |
 | **[Visual Comfort & Co.](http://visualcomfort.com)** | **[Product Specialist](https://jobright.ai/jobs/info/6765197251d40ae42abff43d?utm_campaign=Product%20Management&utm_source=1103)** | Beverly, MA | On Site | Dec 19 |
-| **[Adobe](http://www.adobe.com)** | **[2025 MBA University Graduate - Product Manager, Adobe Content](https://jobright.ai/jobs/info/676d39317f3a95b83e22fe17?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Dec 19 |
-| **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Phoenix](https://jobright.ai/jobs/info/6765883560d9be1023fe2dde?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Dec 19 |
-| **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Coordinator, Product Development](https://jobright.ai/jobs/info/6764d9519fb77033c6858bf1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 19 |
-| ↳ | **[Coordinator, Product Development](https://jobright.ai/jobs/info/6764b7cbc93bfcf7d7909e41?utm_campaign=Product%20Management&utm_source=1103)** | New York Metropolitan - Hybrid | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
