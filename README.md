@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/676ccc8fbcc07e50419a1274?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 25 |
+| ↳ | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/676cca550de20bea7c886332?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 25 |
+| ↳ | **[Sr Associate, Product Management - Card Servicing Intelligence](https://jobright.ai/jobs/info/676cd2c2e069a72f5936079e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 25 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware] CA](https://jobright.ai/jobs/info/676c77e06e414fd92d342b7b?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | On Site | Dec 25 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management- Capital One Software](https://jobright.ai/jobs/info/676b797acb691ab7991cf19c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 24 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Product Analyst](https://jobright.ai/jobs/info/676b327c75623bfbba8b9066?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 24 |
@@ -92,5 +95,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/676492a07357e7064d3ce0fd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 19 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/67649d2a598961c42a95dbb9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 19 |
 | ↳ | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright.ai/jobs/info/672b0834a72d6af4a1b6b06d?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 19 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[WM Platforms Analyst](https://jobright.ai/jobs/info/6744d2eb26800ed306f9c87c?utm_campaign=Product%20Management&utm_source=1103)** | Purchase, NY | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
