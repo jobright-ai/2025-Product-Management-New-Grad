@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/677325aba5c7f83e81073006?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Dec 30 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5a94?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 30 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5c32?utm_campaign=Product%20Management&utm_source=1103)** | Washington, United States | Hybrid | Dec 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/677321e163be56730f282fab?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | Hybrid | Dec 30 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731a8f709a841ecff60489?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/67731948f13b70dff25da605?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, Washington, United States | On Site | Dec 30 |
 | **[PSCU](https://www.velera.com)** | **[Product Implementation Specialist_Emerging Services](https://jobright.ai/jobs/info/671b0708eff0c18db309b7fc?utm_campaign=Product%20Management&utm_source=1103)** | United States | On Site | Dec 29 |
 | **[ReaderLink](http://www.readerlink.net/)** | **[Assistant Product Manager, Adult](https://jobright.ai/jobs/info/6737f1c74108e9f205ca7e8d?utm_campaign=Product%20Management&utm_source=1103)** | Oak Brook, IL | Hybrid | Dec 29 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Product Development Assistant - Fitness](https://jobright.ai/jobs/info/67701415d0ca1aee25f107e8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 28 |
@@ -73,11 +79,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc051f?utm_campaign=Product%20Management&utm_source=1103)** | Morris Plains, NJ | Hybrid | Dec 27 |
 | ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc0520?utm_campaign=Product%20Management&utm_source=1103)** | Bloomfield, CT | Hybrid | Dec 27 |
 | ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc0521?utm_campaign=Product%20Management&utm_source=1103)** | St. Louis, MO | Hybrid | Dec 27 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ed91815e8c51532c3b961?utm_campaign=Product%20Management&utm_source=1103)** | Bloomfield, CT | Hybrid | Dec 27 |
-| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ed91815e8c51532c3b92d?utm_campaign=Product%20Management&utm_source=1103)** | St. Louis, MO | Hybrid | Dec 27 |
+| **[Cigna Healthcare](http://www.cigna.com)** | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ed91815e8c51532c3b963?utm_campaign=Product%20Management&utm_source=1103)** | Morris Plains, NJ | Hybrid | Dec 27 |
 | ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ed91815e8c51532c3b964?utm_campaign=Product%20Management&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 27 |
+| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ed91815e8c51532c3b961?utm_campaign=Product%20Management&utm_source=1103)** | Bloomfield, CT | Hybrid | Dec 27 |
+| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ed91815e8c51532c3b92d?utm_campaign=Product%20Management&utm_source=1103)** | St. Louis, MO | Hybrid | Dec 27 |
 | ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ed91815e8c51532c3b962?utm_campaign=Product%20Management&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 27 |
-| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676ed91815e8c51532c3b963?utm_campaign=Product%20Management&utm_source=1103)** | Morris Plains, NJ | Hybrid | Dec 27 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/676e955c7e7f833b873173c7?utm_campaign=Product%20Management&utm_source=1103)** | Nashville, TN | On Site | Dec 27 |
 | **[TP ICAP](https://www.tpicap.com/)** | **[Junior Product Manager Equities](https://jobright.ai/jobs/info/675218e3cafd2a506fdfb7d1?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Dec 27 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/676e21c8cb203484731d2479?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Dec 26 |
