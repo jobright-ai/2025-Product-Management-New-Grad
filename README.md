@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[USA Product Specialist , DCM](https://jobright.ai/jobs/info/6777d0eb12406e99a377b3de?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (Search Ads) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/673d6c3ce4507e7b323fd827?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jan 03 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Business Product Analyst](https://jobright.ai/jobs/info/675a07f91196c2c93e45cfde?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 03 |
+| **[Santander](https://www.santander.com/)** | **[USA Product Specialist , DCM](https://jobright.ai/jobs/info/6777b5c7befe24d8f1b7d614?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 03 |
+| **[Obie](https://www.ObieInsurance.com)** | **[Insurance Product Analyst](https://jobright.ai/jobs/info/6777d7c9a6c7dd43ea2881f7?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 03 |
+| **[Taxfyle ](https://www.taxfyle.com)** | **[Product Analyst / Coconut Grove, FL](https://jobright.ai/jobs/info/6777d7c9a6c7dd43ea288224?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Jan 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Jr. Business and Technology Analyst - Product Analyst](https://jobright.ai/jobs/info/67772f42cfccbcafe04a3f10?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Jan 02 |
 | **[The N2 Company](https://n2co.com)** | **[Product Inventory Specialist](https://jobright.ai/jobs/info/677713cdd8620795b5bd5e43?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 02 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Jr. Business and Technology Analyst - Product Analyst](https://jobright.ai/jobs/info/6777107495553ca6cb79c6f6?utm_campaign=Product%20Management&utm_source=1103)** | HQ - San Diego, CA | On Site | Jan 02 |
@@ -90,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Yardi Technical Product Manager](https://jobright.ai/jobs/info/6774634873ad79609ae73af3?utm_campaign=Product%20Management&utm_source=1103)** | Greenbelt, MD | On Site | Dec 31 |
 | **[Urban Outfitters](https://www.urbanoutfitters.com/)** | **[Urban Outfitters Product Flow Specialist](https://jobright.ai/jobs/info/67746dd528f6110d1e6a399a?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Dec 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/677325aba5c7f83e81073006?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Dec 30 |
-| **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5c32?utm_campaign=Product%20Management&utm_source=1103)** | Washington, United States | Hybrid | Dec 30 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5a94?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 30 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5a94?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 30 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5c32?utm_campaign=Product%20Management&utm_source=1103)** | Washington, United States | Hybrid | Dec 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/677321e163be56730f282fab?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | Hybrid | Dec 30 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/67731948f13b70dff25da605?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, Washington, United States | On Site | Dec 30 |
 | **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Phoenix](https://jobright.ai/jobs/info/677339e09fe7b106b9af4f64?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Dec 30 |
@@ -100,9 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Capelli New York](http://capellinewyork.com)** | **[Product Development Assistant - Fitness](https://jobright.ai/jobs/info/67701415d0ca1aee25f107e8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (Music-Artist Services-Music Discovery) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6753e3ab245a63ad43af2bc3?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Dec 28 |
 | **[Anatomage Inc.](http://anatomage.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/676f483576e9acb2e309c5a9?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Remote | Dec 27 |
-| **[Express Scripts by Evernorth](http://www.express-scripts.com/)** | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676f3123969db1fda088d132?utm_campaign=Product%20Management&utm_source=1103)** | Bloomfield, CT | Hybrid | Dec 27 |
-| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676f21511fff2fd54cd42997?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | Hybrid | Dec 27 |
-| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676f21511fff2fd54cd42bd7?utm_campaign=Product%20Management&utm_source=1103)** | Morris Plains, NJ | Hybrid | Dec 27 |
-| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676f21511fff2fd54cd42bd8?utm_campaign=Product%20Management&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 27 |
-| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/676f21511fff2fd54cd42bd9?utm_campaign=Product%20Management&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
