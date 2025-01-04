@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 2 - Retail Media, Advertising (Hybrid - Seattle)](https://jobright.ai/jobs/info/67789427ed7ffbdf3102eaba?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Jan 03 |
+| ↳ | **[Product Manager 2 - Retail Media, Advertising (Hybrid - Seattle)](https://jobright.ai/jobs/info/67788f3ac5050a9ed88c3fa2?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Jan 03 |
+| **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd67e?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Jan 03 |
 | **[American Exchange Group](https://www.axnygroup.com)** | **[Product Development Specialist, Beauty](https://jobright.ai/jobs/info/6778790a3435dca8bb3d3cc4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 03 |
+| **[Solomon Page](https://solomonpage.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/67410d3b53e188fba31d037b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 03 |
 | **[DISH Network](https://www.dish.com)** | **[Digital Product Manager I](https://jobright.ai/jobs/info/67786b7f73cb5e59c751e961?utm_campaign=Product%20Management&utm_source=1103)** | Littleton, CO | On Site | Jan 03 |
 | ↳ | **[Digital Product Manager I](https://jobright.ai/jobs/info/67786b7f73cb5e59c751e9d9?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Jan 03 |
 | ↳ | **[Digital Product Analyst](https://jobright.ai/jobs/info/67786b7f73cb5e59c751e94c?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Jan 03 |
@@ -82,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[DoorDash](http://www.doordash.com)** | **[Associate, Strategy & Operations - Digital Ordering](https://jobright.ai/jobs/info/67496d032216fb40f1badb54?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Jan 02 |
 | **[Gauntlet](https://www.gauntlet.xyz)** | **[Product Manager for Aera](https://jobright.ai/jobs/info/67766445f36e8315d04f206b?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Remote | Jan 02 |
 | **[Santander US](https://www.santanderus.com)** | **[USA Product Specialist , DCM](https://jobright.ai/jobs/info/6777a04c73e82ed5ceae1bad?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 01 |
-| **[Best Buy](https://www.bestbuy.com/)** | **[SWAT Product Flow Specialist](https://jobright.ai/jobs/info/6776e97d2b6932c3cb4237e2?utm_campaign=Product%20Management&utm_source=1103)** | 34940 Emerald Coast Pkwy Unit 150 | On Site | Jan 01 |
-| ↳ | **[SWAT Product Flow Specialist](https://jobright.ai/jobs/info/6776e97d2b6932c3cb4237d5?utm_campaign=Product%20Management&utm_source=1103)** | Destin Florida | On Site | Jan 01 |
+| **[Best Buy](https://www.bestbuy.com/)** | **[SWAT Product Flow Specialist](https://jobright.ai/jobs/info/6776e97d2b6932c3cb4237d5?utm_campaign=Product%20Management&utm_source=1103)** | Destin Florida | On Site | Jan 01 |
+| ↳ | **[SWAT Product Flow Specialist](https://jobright.ai/jobs/info/6776e97d2b6932c3cb4237e2?utm_campaign=Product%20Management&utm_source=1103)** | 34940 Emerald Coast Pkwy Unit 150 | On Site | Jan 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Data Integrations) - Business Cards & Payments](https://jobright.ai/jobs/info/67786512cdf653ceea79e89a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 01 |
 | ↳ | **[Sr. Associate - Product Management, Inbound Payments](https://jobright.ai/jobs/info/6778537c11adbf5ba9354a32?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/6778537c11adbf5ba9354a5e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 01 |
@@ -113,13 +117,12 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Yardi Technical Product Manager](https://jobright.ai/jobs/info/6774634873ad79609ae73af3?utm_campaign=Product%20Management&utm_source=1103)** | Greenbelt, MD | On Site | Dec 31 |
 | **[Urban Outfitters](https://www.urbanoutfitters.com/)** | **[Urban Outfitters Product Flow Specialist](https://jobright.ai/jobs/info/67746dd528f6110d1e6a399a?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Dec 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/677325aba5c7f83e81073006?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Dec 30 |
-| **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5a94?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 30 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5c32?utm_campaign=Product%20Management&utm_source=1103)** | Washington, United States | Hybrid | Dec 30 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5c32?utm_campaign=Product%20Management&utm_source=1103)** | Washington, United States | Hybrid | Dec 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/677321e163be56730f282fab?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | Hybrid | Dec 30 |
-| ↳ | **[Product Manager](https://jobright.ai/jobs/info/67731948f13b70dff25da605?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, Washington, United States | On Site | Dec 30 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731a8f709a841ecff60489?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/67731948f13b70dff25da605?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, Washington, United States | On Site | Dec 30 |
 | **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Phoenix](https://jobright.ai/jobs/info/677339e09fe7b106b9af4f64?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Dec 30 |
 | **[PSCU](https://www.velera.com)** | **[Product Implementation Specialist_Emerging Services](https://jobright.ai/jobs/info/671b0708eff0c18db309b7fc?utm_campaign=Product%20Management&utm_source=1103)** | United States | On Site | Dec 29 |
 | **[ReaderLink](http://www.readerlink.net/)** | **[Assistant Product Manager, Adult](https://jobright.ai/jobs/info/6737f1c74108e9f205ca7e8d?utm_campaign=Product%20Management&utm_source=1103)** | Oak Brook, IL | Hybrid | Dec 29 |
 | **[Capelli New York](http://capellinewyork.com)** | **[Product Development Assistant - Fitness](https://jobright.ai/jobs/info/67701415d0ca1aee25f107e8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (Music-Artist Services-Music Discovery) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6753e3ab245a63ad43af2bc3?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
