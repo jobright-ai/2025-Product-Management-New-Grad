@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xe.com](http://www.xe.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6779723fa019254763161c7c?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Jan 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Graduate (TikTok Shop - Platform Promotion) - 2025 Start (MBA)](https://jobright.ai/jobs/info/67792787beb02075d7dd5cd7?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Jan 04 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6779131fbbf7ec332c09b0a2?utm_campaign=Product%20Management&utm_source=1103)** | Fort Myers, FL | On Site | Jan 04 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6779678498f4230f042f9b1b?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Jan 04 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6779131fbbf7ec332c09b0a2?utm_campaign=Product%20Management&utm_source=1103)** | Fort Myers, FL | On Site | Jan 04 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6779131fbbf7ec332c09b0b2?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Jan 04 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright.ai/jobs/info/6776753cf97d1c523c18000f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 03 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 2 - Retail Media, Advertising (Hybrid - Seattle)](https://jobright.ai/jobs/info/67789427ed7ffbdf3102eaba?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Jan 03 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Product Manager I](https://jobright.ai/jobs/info/67786b7f73cb5e59c751e9d9?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Jan 03 |
 | ↳ | **[Digital Product Analyst](https://jobright.ai/jobs/info/67786b7f73cb5e59c751e94c?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Jan 03 |
 | **[U.S. News & World Report](http://www.usnews.com/)** | **[Product & Data Analyst, HDI](https://jobright.ai/jobs/info/6778581e7e6c32322b4182d7?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | On Site | Jan 03 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Product Implementation Specialist](https://jobright.ai/jobs/info/67785fc653f09f3b31207406?utm_campaign=Product%20Management&utm_source=1103)** | Naperville, IL | On Site | Jan 03 |
 | **[Fundbox](http://www.fundbox.com)** | **[Product Manager](https://jobright.ai/jobs/info/677805f253664e68c461b41c?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Jan 03 |
 | **[Samsara](http://www.samsara.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/66fca9164a480273932efb7e?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 03 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6777e6a195a8894b4e379759?utm_campaign=Product%20Management&utm_source=1103)** | Ridgeland, SC | On Site | Jan 03 |
