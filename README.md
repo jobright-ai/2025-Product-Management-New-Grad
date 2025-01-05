@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L3Harris Technologies](https://www.l3harris.com/)** | **[Associate, Product Analyst (Rochester, NY)](https://jobright.ai/jobs/info/670ad1ba6f0a505ee36f485f?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Jan 05 |
 | **[NYC Alliance](https://www.nycalliance.com)** | **[Product Development Coordinator - Private Label Apparel](https://jobright.ai/jobs/info/677a05c79ceb4d3632184add?utm_campaign=Product%20Management&utm_source=1103)** | New York County, NY | On Site | Jan 04 |
 | **[Xe.com](http://www.xe.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6779723fa019254763161c7c?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Jan 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Graduate (TikTok Shop - Platform Promotion) - 2025 Start (MBA)](https://jobright.ai/jobs/info/67792787beb02075d7dd5cd7?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Jan 04 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Yardi Technical Product Manager](https://jobright.ai/jobs/info/6774634873ad79609ae73af3?utm_campaign=Product%20Management&utm_source=1103)** | Greenbelt, MD | On Site | Dec 31 |
 | **[Urban Outfitters](https://www.urbanoutfitters.com/)** | **[Urban Outfitters Product Flow Specialist](https://jobright.ai/jobs/info/67746dd528f6110d1e6a399a?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Dec 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/677325aba5c7f83e81073006?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Dec 30 |
-| **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5c32?utm_campaign=Product%20Management&utm_source=1103)** | Washington, United States | Hybrid | Dec 30 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5a94?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 30 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5a94?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 30 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5c32?utm_campaign=Product%20Management&utm_source=1103)** | Washington, United States | Hybrid | Dec 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/677321e163be56730f282fab?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | Hybrid | Dec 30 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/67731948f13b70dff25da605?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, Washington, United States | On Site | Dec 30 |
 | **[ER2](https://www.er2.com/)** | **[Warehouse - Processing Electronics - $18.50/hr + Paid Benefits - Phoenix](https://jobright.ai/jobs/info/677339e09fe7b106b9af4f64?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | On Site | Dec 30 |
