@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYC Alliance](https://www.nycalliance.com)** | **[Product Development Coordinator - Private Label Apparel](https://jobright.ai/jobs/info/677a05c79ceb4d3632184add?utm_campaign=Product%20Management&utm_source=1103)** | New York County, NY | On Site | Jan 04 |
 | **[Xe.com](http://www.xe.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6779723fa019254763161c7c?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Jan 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager MBA Graduate (TikTok Shop - Platform Promotion) - 2025 Start (MBA)](https://jobright.ai/jobs/info/67792787beb02075d7dd5cd7?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Jan 04 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6779678498f4230f042f9b1b?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Jan 04 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6779131fbbf7ec332c09b0a2?utm_campaign=Product%20Management&utm_source=1103)** | Fort Myers, FL | On Site | Jan 04 |
 | ↳ | **[Product Specialist](https://jobright.ai/jobs/info/6779131fbbf7ec332c09b0b2?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Jan 04 |
+| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Associate, Polo OW](https://jobright.ai/jobs/info/6741019c3244c8755060f8f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 03 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager-Enterprise Payments](https://jobright.ai/jobs/info/6776753cf97d1c523c18000f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 03 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 2 - Retail Media, Advertising (Hybrid - Seattle)](https://jobright.ai/jobs/info/67789427ed7ffbdf3102eaba?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Jan 03 |
 | ↳ | **[Product Manager 2 - Retail Media, Advertising (Hybrid - Seattle)](https://jobright.ai/jobs/info/67788f3ac5050a9ed88c3fa2?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Jan 03 |
