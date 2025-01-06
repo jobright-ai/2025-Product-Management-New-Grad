@@ -133,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5a94?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 30 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67731927e42cd534b19e5c32?utm_campaign=Product%20Management&utm_source=1103)** | Washington, United States | Hybrid | Dec 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Manager](https://jobright.ai/jobs/info/677321e163be56730f282fab?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | Hybrid | Dec 30 |
-| ↳ | **[Product Manager](https://jobright.ai/jobs/info/67731948f13b70dff25da605?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, Washington, United States | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
