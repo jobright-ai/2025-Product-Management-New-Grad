@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JetBlue](http://www.jetblue.com/)** | **[Product Manager IT Data Science](https://jobright.ai/jobs/info/677efe87cb9da3babd671668?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 08 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/677efe87cb9da3babd67164e?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Jan 08 |
 | **[CarMax](http://www.carmax.com)** | **[Senior Manager, Associate Product Management (Remote)](https://jobright.ai/jobs/info/677ececfc5faf0be739cfed2?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Remote | Jan 08 |
-| **[Fannie Mae](http://www.fanniemae.com)** | **[SF Risk - Product Management - Associate (Flexible Hybrid)](https://jobright.ai/jobs/info/677ec4bb80b9ac9faa104426?utm_campaign=Product%20Management&utm_source=1103)** | Reston, VA, USA | Hybrid | Jan 08 |
 | **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/677ec9e22b5e92b0f3e63bfa?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Jan 08 |
-| **[Pentair](http://www.pentair.com)** | **[LDP Product Management Analyst I](https://jobright.ai/jobs/info/677eb6c6ba15ab182fe727f2?utm_campaign=Product%20Management&utm_source=1103)** | Brookfield, WI | On Site | Jan 08 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/677e58f30e0c71e298075fe5?utm_campaign=Product%20Management&utm_source=1103)** | Greenville, NC | On Site | Jan 08 |
 | **[Maverick Payments](https://www.MaverickPayments.com)** | **[Product Operations Associate I](https://jobright.ai/jobs/info/677df54e1179565f54d49555?utm_campaign=Product%20Management&utm_source=1103)** | Calabasas, CA | On Site | Jan 07 |
 | **[Persona](https://withpersona.com)** | **[Product Analyst, Fraud](https://jobright.ai/jobs/info/677dd4c0d76197d8ebfff01e?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 07 |
@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Persona](https://withpersona.com)** | **[Product Analyst, Fraud](https://jobright.ai/jobs/info/677d97c92792942f6efec426?utm_campaign=Product%20Management&utm_source=1103)** | Persona - San Francisco | Hybrid | Jan 07 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677d7e8f39f6af30985ce5e2?utm_campaign=Product%20Management&utm_source=1103)** | Bloomington, MN | Hybrid | Jan 07 |
 | ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677d7e8f39f6af30985ce6b9?utm_campaign=Product%20Management&utm_source=1103)** | Bloomfield, CT | Hybrid | Jan 07 |
-| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677d7e8f39f6af30985ce6b7?utm_campaign=Product%20Management&utm_source=1103)** | St. Louis, MO | Hybrid | Jan 07 |
 | ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677d7e8f39f6af30985ce6b8?utm_campaign=Product%20Management&utm_source=1103)** | Morris Plains, NJ | Hybrid | Jan 07 |
+| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677d7e8f39f6af30985ce6b7?utm_campaign=Product%20Management&utm_source=1103)** | St. Louis, MO | Hybrid | Jan 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Intelligence](https://jobright.ai/jobs/info/677d549a553a59cecda6980e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 07 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Solutions Engineer, Pro Products](https://jobright.ai/jobs/info/6760fc7775072d57be09f24a?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 07 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/675eb8f2c3806dca195ab333?utm_campaign=Product%20Management&utm_source=1103)** | Spring, TX | On Site | Jan 07 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[American Exchange Group](https://www.axnygroup.com)** | **[Product Development Specialist, Beauty](https://jobright.ai/jobs/info/677c8f164cb8edbe9dcf1fe3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 06 |
 | **[EAB](https://www.eab.com/)** | **[Product Strategy Analyst](https://jobright.ai/jobs/info/677c77f0847511921996ee37?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | Jan 06 |
 | ↳ | **[Product Strategy Analyst](https://jobright.ai/jobs/info/677c77f0847511921996ef84?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | Hybrid | Jan 06 |
-| ↳ | **[Product Strategy Analyst](https://jobright.ai/jobs/info/677c7b79c02912cc5330140b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 06 |
 | ↳ | **[Product Strategy Analyst](https://jobright.ai/jobs/info/677c769b4857910d22de56fb?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | On Site | Jan 06 |
+| ↳ | **[Product Strategy Analyst](https://jobright.ai/jobs/info/677c7b79c02912cc5330140b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 06 |
 | **[Vimeo](https://vimeo.com)** | **[Associate Product Manager, Video Analytics](https://jobright.ai/jobs/info/677c654707507c63230a09c2?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 06 |
 | ↳ | **[Associate Product Manager, Video Analytics](https://jobright.ai/jobs/info/677c5ce73087e53b1e53bf38?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 06 |
 | ↳ | **[Associate Product Manager, Video Analytics](https://jobright.ai/jobs/info/677c57aff9e3a8fb9e733769?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY OR US-Remote | On Site | Jan 06 |
@@ -108,11 +108,11 @@ For a complete list, click the following sortable link below:
 | **[Xe.com](http://www.xe.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/677c2ff95b0046ffd7d570a8?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Jan 06 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright.ai/jobs/info/677c2caa75388548aeb7d39f?utm_campaign=Product%20Management&utm_source=1103)** | Charleston County, SC | On Site | Jan 06 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677c29c5c96fdf6f6d517f09?utm_campaign=Product%20Management&utm_source=1103)** | St. Louis, MO | Hybrid | Jan 06 |
-| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677c29c5c96fdf6f6d517fd8?utm_campaign=Product%20Management&utm_source=1103)** | Morris Plains, NJ | Hybrid | Jan 06 |
 | ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677c29c5c96fdf6f6d517fd7?utm_campaign=Product%20Management&utm_source=1103)** | Bloomington, MN | Hybrid | Jan 06 |
+| ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677c29c5c96fdf6f6d517fd8?utm_campaign=Product%20Management&utm_source=1103)** | Morris Plains, NJ | Hybrid | Jan 06 |
 | ↳ | **[Product Management Lead Analyst - Express Scripts - Hybrid](https://jobright.ai/jobs/info/677c29c5c96fdf6f6d517fd6?utm_campaign=Product%20Management&utm_source=1103)** | Bloomfield, CT | Hybrid | Jan 06 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Product Analyst](https://jobright.ai/jobs/info/677c096c8dd8ec133a3b93be?utm_campaign=Product%20Management&utm_source=1103)** | IL - Chicago | On Site | Jan 06 |
-| ↳ | **[Product Analyst](https://jobright.ai/jobs/info/677c096c8dd8ec133a3b9456?utm_campaign=Product%20Management&utm_source=1103)** | TX - Richardson | On Site | Jan 06 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Product Analyst](https://jobright.ai/jobs/info/677c096c8dd8ec133a3b9456?utm_campaign=Product%20Management&utm_source=1103)** | TX - Richardson | On Site | Jan 06 |
+| ↳ | **[Product Analyst](https://jobright.ai/jobs/info/677c096c8dd8ec133a3b93be?utm_campaign=Product%20Management&utm_source=1103)** | IL - Chicago | On Site | Jan 06 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, Innov. Pharm. Prog.](https://jobright.ai/jobs/info/677becf0249504108d10c4e7?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 06 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Associate, Product Analyst (Rochester, NY)](https://jobright.ai/jobs/info/670ad1ba6f0a505ee36f485f?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Jan 05 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Product Management (Ticketmaster Promoted) College Associate](https://jobright.ai/jobs/info/6717d81a850554eefb2d100b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 04 |
@@ -147,6 +147,4 @@ For a complete list, click the following sortable link below:
 | **[RXO, Inc.](https://rxo.com)** | **[Product Analyst](https://jobright.ai/jobs/info/677715636f5406270c7a33d5?utm_campaign=Product%20Management&utm_source=1103)** | Naperville, IL | On Site | Jan 02 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/675892c89c7dd947340402f2?utm_campaign=Product%20Management&utm_source=1103)** | Reno, NV | On Site | Jan 02 |
 | **[DoorDash](http://www.doordash.com)** | **[Associate, Strategy & Operations - Digital Ordering](https://jobright.ai/jobs/info/67496d032216fb40f1badb54?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Jan 02 |
-| **[Gauntlet](https://www.gauntlet.xyz)** | **[Product Manager for Aera](https://jobright.ai/jobs/info/67766445f36e8315d04f206b?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Remote | Jan 02 |
-| **[Santander US](https://www.santanderus.com)** | **[USA Product Specialist, DCM LatAm Analyst](https://jobright.ai/jobs/info/677e36e887d5da105be90ba4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
