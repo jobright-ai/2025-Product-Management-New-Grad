@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PENNYMAC](https://www.pennymac.com)** | **[Associate Product Analyst](https://jobright.ai/jobs/info/6789ba6385d20c9c8b683724?utm_campaign=Product%20Management&utm_source=1103)** | Agoura Hills, CA | On Site | Jan 16 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[1356 - Product Demonstrator $18/hr. + Bonuses](https://jobright.ai/jobs/info/67899c3b8c54da170b9eead3?utm_campaign=Product%20Management&utm_source=1103)** | Avon, OH | On Site | Jan 16 |
+| **[Healthfirst](https://healthfirst.org)** | **[Data Analyst, Product Strategy](https://jobright.ai/jobs/info/6789a6c37b233c27074752b3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 16 |
 | **[ŌURA](https://ouraring.com/whatsoura)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6789566cb33a8dfc97820ad7?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Remote | Jan 16 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[810 - Product Demonstrator](https://jobright.ai/jobs/info/6756a06394b73fe462a8b9b0?utm_campaign=Product%20Management&utm_source=1103)** | Wytheville, VA | On Site | Jan 16 |
 | ↳ | **[819 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8ba69?utm_campaign=Product%20Management&utm_source=1103)** | Wapakoneta, OH | On Site | Jan 16 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Personalization Department Coordinator](https://jobright.ai/jobs/info/6788622680757b33f8dcd0c6?utm_campaign=Product%20Management&utm_source=1103)** | Romeoville, IL | On Site | Jan 15 |
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6788496bda9f69842e982cdc?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Manager - Global Expansion and International HR Products](https://jobright.ai/jobs/info/67887241d67fb975ffc036e3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 15 |
-| ↳ | **[Sr. Associate, Product Management -  Card Site Shopping Page UX](https://jobright.ai/jobs/info/6788359d49672ab987d93762?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 15 |
 | ↳ | **[Sr. Associate, Product Management -  Card Site Shopping Page UX](https://jobright.ai/jobs/info/6788359d49672ab987d93764?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 15 |
+| ↳ | **[Sr. Associate, Product Management -  Card Site Shopping Page UX](https://jobright.ai/jobs/info/6788359d49672ab987d93762?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 15 |
 | ↳ | **[Sr. Associate, Product Management -  Card Site Shopping Page UX](https://jobright.ai/jobs/info/6788359d49672ab987d93719?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 15 |
 | **[Replicate](https://replicate.com)** | **[Product Manager](https://jobright.ai/jobs/info/67482b56dc591a86f8212112?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Jan 15 |
 | **[Citi](https://www.citi.com)** | **[Digital Product Management Senior Analyst (Rewards & Benefits)](https://jobright.ai/jobs/info/678815cccb3942eb145050d0?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX | Hybrid | Jan 15 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[892 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8b905?utm_campaign=Product%20Management&utm_source=1103)** | McDonough, GA | On Site | Jan 14 |
 | ↳ | **[844 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a2b29d926d28d69c696e?utm_campaign=Product%20Management&utm_source=1103)** | Lansing, MI | On Site | Jan 14 |
 | ↳ | **[1257 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8b9dc?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Jan 14 |
-| ↳ | **[1245 - Product Demonstrator ($18/hr + Commission) Northbrook](https://jobright.ai/jobs/info/678650363aa5f36cdaa39d98?utm_campaign=Product%20Management&utm_source=1103)** | Northbrook, IL | On Site | Jan 14 |
 | ↳ | **[1286 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8bad3?utm_campaign=Product%20Management&utm_source=1103)** | Appleton, WI | On Site | Jan 14 |
+| ↳ | **[1245 - Product Demonstrator ($18/hr + Commission) Northbrook](https://jobright.ai/jobs/info/678650363aa5f36cdaa39d98?utm_campaign=Product%20Management&utm_source=1103)** | Northbrook, IL | On Site | Jan 14 |
 | **[Avant](https://www.avant.com)** | **[Associate Product Manager, Card Servicing](https://jobright.ai/jobs/info/6788c72794ae910fd5d74f38?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | Hybrid | Jan 13 |
 | **[Meissner](https://www.meissner.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/678632c217d32389d2caddd3?utm_campaign=Product%20Management&utm_source=1103)** | Camarillo, CA | On Site | Jan 13 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/6785d5e398a114096f2720ea?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Jan 13 |
@@ -143,8 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Avant](https://www.avant.com)** | **[Associate Product Manager, Card Servicing](https://jobright.ai/jobs/info/67853a217a6ec59d9fc2d04f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago HQ | Hybrid | Jan 13 |
 | **[SpaceX](https://www.spacex.com)** | **[Product Growth Analyst](https://jobright.ai/jobs/info/6766882167a373af442fcaef?utm_campaign=Product%20Management&utm_source=1103)** | Hawthorne, CA | On Site | Jan 13 |
 | **[Roblox](https://corp.roblox.com)** | **[[2025] Associate Product Manager - New Grad](https://jobright.ai/jobs/info/670f1a6a19e8647631288d9e?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Jan 13 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[1360 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8ba68?utm_campaign=Product%20Management&utm_source=1103)** | Rochester, NY | On Site | Jan 13 |
-| ↳ | **[836 - Product Demonstrator ($18/hr + Weekly Pay)](https://jobright.ai/jobs/info/6756a06394b73fe462a8bad5?utm_campaign=Product%20Management&utm_source=1103)** | Florence, AL | On Site | Jan 13 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[836 - Product Demonstrator ($18/hr + Weekly Pay)](https://jobright.ai/jobs/info/6756a06394b73fe462a8bad5?utm_campaign=Product%20Management&utm_source=1103)** | Florence, AL | On Site | Jan 13 |
 | **[U.S. Bank](http://www.usbank.com)** | **[API Product Manager (Multiple openings) in Chicago, IL.](https://jobright.ai/jobs/info/6784afc2bee57420b43f9e0a?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 12 |
 | **[Western Governors University](http://www.wgu.edu/)** | **[Product Analyst (EdTech Data Analyst)](https://jobright.ai/jobs/info/676997ba30db5fa12bb15e11?utm_campaign=Product%20Management&utm_source=1103)** | SLC Metro Area | On Site | Jan 12 |
 | **[ION](https://iongroup.com)** | **[Product Manager, New York](https://jobright.ai/jobs/info/672572b731dbe433a415c1ed?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Jan 12 |
@@ -160,5 +161,4 @@ For a complete list, click the following sortable link below:
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Assoc. Product Manager, Innov. Pharm. Prog.](https://jobright.ai/jobs/info/6781897263d76401dbc29dd5?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 10 |
 | **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/677ec9e22b5e92b0f3e63bfa?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Jan 10 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright.ai/jobs/info/678173ebaec370a6b6034276?utm_campaign=Product%20Management&utm_source=1103)** | Devon, PA | On Site | Jan 10 |
-| **[Microsoft](https://www.microsoft.com)** | **[Technology Specialists: MBA Full-time Opportunity](https://jobright.ai/jobs/info/6753d3ac13b9fe5e0f7a2910?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
