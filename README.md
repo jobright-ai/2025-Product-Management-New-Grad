@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Product Platform Analyst - Business Intelligence](https://jobright.ai/jobs/info/67944af110c235873b224a55?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Jan 24 |
+| ↳ | **[Product Platform Analyst - Business Intelligence](https://jobright.ai/jobs/info/679447a2c28bf124d21a3c15?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 24 |
 | **[PIMCO](http://www.pimco.com)** | **[Product Associate – Alternatives](https://jobright.ai/jobs/info/6794270af43679dbcd7f52db?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Jan 24 |
 | ↳ | **[Product Associate – Alternatives](https://jobright.ai/jobs/info/6794270af43679dbcd7f5440?utm_campaign=Product%20Management&utm_source=1103)** | Newport Beach, CA | On Site | Jan 24 |
 | **[GEICO](http://www.geico.com)** | **[Insurance Product Management Analyst – HYBRID](https://jobright.ai/jobs/info/6793d8a1ff698e84f03fd931?utm_campaign=Product%20Management&utm_source=1103)** | Chevy Chase, MD | Hybrid | Jan 24 |
@@ -75,22 +77,22 @@ For a complete list, click the following sortable link below:
 | **[Abbott](https://www.abbott.com)** | **[Analyst I, Product Surveillance](https://jobright.ai/jobs/info/6792e971cb33c27a427df9cb?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MN | On Site | Jan 23 |
 | **[StubHub](http://www.stubhub.com)** | **[Associate Product Manager - Finance Technology](https://jobright.ai/jobs/info/6792d76f59034638ee5f8ad1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 23 |
 | **[Google](https://www.google.com)** | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/6792c6d0f4bc401620dc09d3?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA | On Site | Jan 23 |
-| ↳ | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/6792b8222f18e6b8b1c3c663?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Jan 23 |
 | ↳ | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/6792b8222f18e6b8b1c3c641?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Jan 23 |
+| ↳ | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/6792b8222f18e6b8b1c3c663?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Jan 23 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Rotational)](https://jobright.ai/jobs/info/6792e0fdf828f2c264365011?utm_campaign=Product%20Management&utm_source=1103)** | Berwyn, PA | Hybrid | Jan 23 |
 | **[Google](https://www.google.com)** | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/679329682d454f425e171717?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 23 |
 | **[GEICO](http://www.geico.com)** | **[Insurance Product Management Analyst – HYBRID](https://jobright.ai/jobs/info/6792b49fb8d7f52d4ad76a0e?utm_campaign=Product%20Management&utm_source=1103)** | Chevy Chase, MD | Hybrid | Jan 23 |
 | **[TE Connectivity](http://www.te.com)** | **[Product Management (Rotational)](https://jobright.ai/jobs/info/6792c6d0f4bc401620dc09b0?utm_campaign=Product%20Management&utm_source=1103)** | Berwyn, PA | On Site | Jan 23 |
 | **[NYC Alliance](https://www.nycalliance.com)** | **[Product Development Coordinator - Private Label Apparel](https://jobright.ai/jobs/info/67927c83329b0cfe1d21ced6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 23 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Treasury Product Associate - Payments](https://jobright.ai/jobs/info/67926dee0c4dc3701683ebd0?utm_campaign=Product%20Management&utm_source=1103)** | Chicago | On Site | Jan 23 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Treasury Product Associate - Payments](https://jobright.ai/jobs/info/67926dee0c4dc3701683ebd1?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Jan 23 |
+| ↳ | **[Treasury Product Associate - Payments](https://jobright.ai/jobs/info/67926dee0c4dc3701683ebd0?utm_campaign=Product%20Management&utm_source=1103)** | Chicago | On Site | Jan 23 |
 | ↳ | **[Treasury Product Associate - Payments](https://jobright.ai/jobs/info/67926dee0c4dc3701683e9cf?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte | On Site | Jan 23 |
-| ↳ | **[Treasury Product Associate - Payments](https://jobright.ai/jobs/info/67926dee0c4dc3701683ebd1?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Jan 23 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/6792482589a1ec2103387483?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Jan 23 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Yardi Technical Product Manager](https://jobright.ai/jobs/info/67923d79b1444cbdde538c7d?utm_campaign=Product%20Management&utm_source=1103)** | Greenbelt, MD, 20770 | On Site | Jan 23 |
 | **[Alto Pharmacy](https://www.alto.com)** | **[Early Career Product Analyst](https://jobright.ai/jobs/info/6791ef913977d7ca0daaea0f?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Jan 22 |
-| **[Capital One](http://www.capitalone.com)** | **[Product Manager - Global Expansion and International HR Products](https://jobright.ai/jobs/info/6791e5c0aefb0e98022d2179?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 22 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Apollo](https://jobright.ai/jobs/info/6791e5c0aefb0e98022d217c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 22 |
+| ↳ | **[Product Manager - Global Expansion and International HR Products](https://jobright.ai/jobs/info/6791e5c0aefb0e98022d2179?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Product Manager - Global Expansion and International HR Products](https://jobright.ai/jobs/info/6791e5c0aefb0e98022d217f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jan 22 |
-| ↳ | **[Sr. Associate, Product Management - Apollo](https://jobright.ai/jobs/info/6791e5c0aefb0e98022d217c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | ↳ | **[Product Manager - Global Expansion and International HR Products](https://jobright.ai/jobs/info/6791d0e929f57712b37115bd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 22 |
 | ↳ | **[Sr. Associate, Product Management - Apollo](https://jobright.ai/jobs/info/6791d0e929f57712b37115da?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 22 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[810 - Product Demonstrator](https://jobright.ai/jobs/info/6791d7684c80cf3c3d1d5512?utm_campaign=Product%20Management&utm_source=1103)** | Wytheville, VA | On Site | Jan 22 |
@@ -132,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Arrowhead Engineered Products](https://arrowheadepinc.com/)** | **[Product Data Analyst](https://jobright.ai/jobs/info/678e3e3eccf904a658bf1b06?utm_campaign=Product%20Management&utm_source=1103)** | United States | On Site | Jan 20 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[846 - Product Demonstrator](https://jobright.ai/jobs/info/6756a06394b73fe462a8b918?utm_campaign=Product%20Management&utm_source=1103)** | Elkhart, IN | On Site | Jan 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Manager](https://jobright.ai/jobs/info/678e20f199d4e25fce6ef72d?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | On Site | Jan 20 |
-| **[Red Ventures](http://www.redventures.com)** | **[Analyst, Customer Experience / Allconnect](https://jobright.ai/jobs/info/678b966969571dda0082d73f?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
