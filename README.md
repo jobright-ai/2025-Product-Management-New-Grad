@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leaf Home](https://www.leafhome.com/)** | **[1259 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/675b736992c25733d3587e03?utm_campaign=Product%20Management&utm_source=1103)** | Corpus Christi, TX | On Site | Jan 29 |
+| **[Santander US](https://www.santanderus.com)** | **[USA Product Specialist, DCM LatAm Analyst](https://jobright.ai/jobs/info/6799f1268249b1d2143e689d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 | **[Life Fitness  / Hammer Strength](https://www.lifefitness.com)** | **[Assistant Product Manager, Consoles](https://jobright.ai/jobs/info/6799c00c9c08ea2ad694ba69?utm_campaign=Product%20Management&utm_source=1103)** | Franklin Park, IL | Hybrid | Jan 28 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/679981c97911cb7f4ea4a8d7?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Jan 28 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67997a9e0bf61f079ec05b92?utm_campaign=Product%20Management&utm_source=1103)** | Culver City, CA | On Site | Jan 28 |
@@ -76,12 +78,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38b5c?utm_campaign=Product%20Management&utm_source=1103)** | USA-San Francisco-California S | On Site | Jan 28 |
 | ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38ab3?utm_campaign=Product%20Management&utm_source=1103)** | USA-New York-28 Liberty Street | On Site | Jan 28 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[1235 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/67543ac7c66a7e40c78809c1?utm_campaign=Product%20Management&utm_source=1103)** | Tarentum, PA | On Site | Jan 28 |
-| ↳ | **[834 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8b943?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, SC | On Site | Jan 28 |
 | ↳ | **[874 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8ba45?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | On Site | Jan 28 |
 | ↳ | **[847 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8bc78?utm_campaign=Product%20Management&utm_source=1103)** | Champaign, IL | On Site | Jan 28 |
+| ↳ | **[834 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8b943?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, SC | On Site | Jan 28 |
 | **[Vestwell](http://vestwell.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67991cd33eff2377f75d19dd?utm_campaign=Product%20Management&utm_source=1103)** | Albany, New York Metropolitan Area | Hybrid | Jan 28 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Assistant Product Manager, Appliance & Accessory](https://jobright.ai/jobs/info/67232f07813c98a8f7817f38?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Jan 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[Analyst, Consumer Experience / Energy](https://jobright.ai/jobs/info/679908dfa3a01f4974abfb15?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 28 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/675871cb7acc97afc70a83a4?utm_campaign=Product%20Management&utm_source=1103)** | Wilsonville, OR | On Site | Jan 28 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/6798ebd55396d100aab881cc?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Jan 28 |
 | ↳ | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/6798ebd55396d100aab881d5?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Jan 28 |
 | **[Orthofix](http://www.orthofix.com)** | **[Associate Product Manager - Biologics](https://jobright.ai/jobs/info/67576bea53d524b41e576b49?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Jan 28 |
@@ -116,6 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Business Cards & Payments](https://jobright.ai/jobs/info/679758f123900ad9ba97cfa3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 26 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[878 - Retail Product Demonstrator](https://jobright.ai/jobs/info/6756a06394b73fe462a8ba57?utm_campaign=Product%20Management&utm_source=1103)** | Mount Sterling, KY | On Site | Jan 26 |
 | **[DoorDash](http://www.doordash.com)** | **[Associate, Strategy & Operations - Digital Ordering](https://jobright.ai/jobs/info/67496d032216fb40f1badb54?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Jan 26 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6752c0ff6a1f37e5cff5d2d0?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Jan 26 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6795b71d0cdadbd0a064cb34?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 25 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6795b71d0cdadbd0a064cb3a?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jan 25 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6795b1cffa1ccc09a10d5245?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jan 25 |
