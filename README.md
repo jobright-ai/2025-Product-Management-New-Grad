@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. News & World Report](http://www.usnews.com/)** | **[Product & Data Analyst, HDI](https://jobright.ai/jobs/info/679ffeb0220f996be7dac9cc?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | Remote | Feb 02 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb04791?utm_campaign=Product%20Management&utm_source=1103)** | Grand Island, NY | On Site | Feb 01 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047cb?utm_campaign=Product%20Management&utm_source=1103)** | Hunt Valley, MD | On Site | Feb 01 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047bb?utm_campaign=Product%20Management&utm_source=1103)** | Wentzville, MO | On Site | Feb 01 |
@@ -82,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[HR ServiceNow Product Admin](https://jobright.ai/jobs/info/679c20f72743bf6b1370e424?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX | On Site | Jan 30 |
 | ↳ | **[HR ServiceNow Product Admin](https://jobright.ai/jobs/info/679c20f72743bf6b1370e47c?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jan 30 |
 | ↳ | **[HR ServiceNow Product Admin](https://jobright.ai/jobs/info/679c20f72743bf6b1370e480?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | On Site | Jan 30 |
-| **[Carrot Fertility](https://www.get-carrot.com)** | **[Product Manager](https://jobright.ai/jobs/info/679c1171bf719a4076943d7e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 30 |
+| **[Carrot Fertility](https://www.get-carrot.com)** | **[Product Manager](https://jobright.ai/jobs/info/679c1537a5929ce8a6a66ddd?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jan 30 |
 | **[NimbleRx](https://www.nimblerx.com/)** | **[Product Manager](https://jobright.ai/jobs/info/679beb29af95feb3426f99cc?utm_campaign=Product%20Management&utm_source=1103)** | Redwood City, CA | Hybrid | Jan 30 |
 | **[Morningstar Sustainalytics](http://www.sustainalytics.com)** | **[Product Specialist, Level II](https://jobright.ai/jobs/info/679bc6a6ccccd652fdc45137?utm_campaign=Product%20Management&utm_source=1103)** | Chicago | Hybrid | Jan 30 |
 | **[Bunge](http://www.bunge.com)** | **[Assistant Product Management](https://jobright.ai/jobs/info/679bc83c1c68cb5916ec4deb?utm_campaign=Product%20Management&utm_source=1103)** | Channahon, IL | Hybrid | Jan 30 |
@@ -103,20 +104,20 @@ For a complete list, click the following sortable link below:
 | **[LSEG (London Stock Exchange Group)](http://www.lseg.com)** | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/6799482c7deea0a3b5b42f77?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Jan 28 |
 | ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67995457817a5f0e86b2b918?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | Hybrid | Jan 28 |
 | ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67994eab5716a61439faf009?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 28 |
-| ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67994eab5716a61439faf00d?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | Hybrid | Jan 28 |
 | ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67994eab5716a61439faf00b?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Jan 28 |
+| ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67994eab5716a61439faf00d?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | Hybrid | Jan 28 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/67995185a80fad7e5e7146d1?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | On Site | Jan 28 |
 | **[GEICO](http://www.geico.com)** | **[Insurance Product Management Analyst – HYBRID](https://jobright.ai/jobs/info/67993fb7bbf48e4aea891dda?utm_campaign=Product%20Management&utm_source=1103)** | Chevy Chase, MD | Hybrid | Jan 28 |
 | **[Cross River](http://crossriver.com)** | **[Product Manager, Payments](https://jobright.ai/jobs/info/66796cb33f452d31d55f8618?utm_campaign=Product%20Management&utm_source=1103)** | Fort Lee, NJ | On Site | Jan 28 |
-| **[LSEG (London Stock Exchange Group)](http://www.lseg.com)** | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38b5b?utm_campaign=Product%20Management&utm_source=1103)** | USA-Boston-26 Thomson Place | On Site | Jan 28 |
-| ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38b5d?utm_campaign=Product%20Management&utm_source=1103)** | USA-Chicago-311 S Wacker Drive (Suite 1200) | On Site | Jan 28 |
+| **[LSEG (London Stock Exchange Group)](http://www.lseg.com)** | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38ab3?utm_campaign=Product%20Management&utm_source=1103)** | USA-New York-28 Liberty Street | On Site | Jan 28 |
 | ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38b5c?utm_campaign=Product%20Management&utm_source=1103)** | USA-San Francisco-California S | On Site | Jan 28 |
-| ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38ab3?utm_campaign=Product%20Management&utm_source=1103)** | USA-New York-28 Liberty Street | On Site | Jan 28 |
 | ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38b5e?utm_campaign=Product%20Management&utm_source=1103)** | USA-Los Angeles-6080 Center Drive | On Site | Jan 28 |
+| ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38b5b?utm_campaign=Product%20Management&utm_source=1103)** | USA-Boston-26 Thomson Place | On Site | Jan 28 |
+| ↳ | **[Associate CSM - Quantitative analytics & content](https://jobright.ai/jobs/info/67992ce70d3fd513a0f38b5d?utm_campaign=Product%20Management&utm_source=1103)** | USA-Chicago-311 S Wacker Drive (Suite 1200) | On Site | Jan 28 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[1235 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/67543ac7c66a7e40c78809c1?utm_campaign=Product%20Management&utm_source=1103)** | Tarentum, PA | On Site | Jan 28 |
-| ↳ | **[834 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8b943?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, SC | On Site | Jan 28 |
 | ↳ | **[847 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8bc78?utm_campaign=Product%20Management&utm_source=1103)** | Champaign, IL | On Site | Jan 28 |
 | ↳ | **[874 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8ba45?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | On Site | Jan 28 |
+| ↳ | **[834 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6756a06394b73fe462a8b943?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, SC | On Site | Jan 28 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Assistant Product Manager, Appliance & Accessory](https://jobright.ai/jobs/info/67232f07813c98a8f7817f38?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Jan 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[Analyst, Consumer Experience / Energy](https://jobright.ai/jobs/info/679908dfa3a01f4974abfb15?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 28 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/675871cb7acc97afc70a83a4?utm_campaign=Product%20Management&utm_source=1103)** | Wilsonville, OR | On Site | Jan 28 |
@@ -144,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Skechers](http://www.skechers.com)** | **[Product Manager - WORK](https://jobright.ai/jobs/info/679711482eea2a9b19f79510?utm_campaign=Product%20Management&utm_source=1103)** | Manhattan Beach, CA | Hybrid | Jan 27 |
 | **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Product Labeler (full-time)](https://jobright.ai/jobs/info/67976772f4637568c425b673?utm_campaign=Product%20Management&utm_source=1103)** | Clearfield, UT | On Site | Jan 27 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67976eff42f5c72d7dea3834?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Jan 27 |
-| **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Product Labeler (full-time)](https://jobright.ai/jobs/info/6797152c28341ce4e76e75f9?utm_campaign=Product%20Management&utm_source=1103)** | UT - Clearfield - 37 | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
