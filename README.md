@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scale AI](https://scale.com)** | **[Incubation Product Manager](https://jobright.ai/jobs/info/67a5441850c7e785a41645e2?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | Hybrid | Feb 06 |
+| **[US Foods](https://www.usfoods.com/)** | **[Product Analyst I (Remote)](https://jobright.ai/jobs/info/67a5485309537b2b10f77577?utm_campaign=Product%20Management&utm_source=1103)** | Rosemont, IL | Hybrid | Feb 06 |
+| **[Bethany Christian Services](https://bethany.org/)** | **[IT Product Owner and Business Analyst – UKG / HRIS- Remote Position](https://jobright.ai/jobs/info/67a528b82faa6b3aa986d750?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Feb 06 |
+| **[Westfield Outdoor, Inc.](https://www.westfieldoutdoors.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67a51424c5fdb2b709cbf504?utm_campaign=Product%20Management&utm_source=1103)** | Indianapolis, IN | On Site | Feb 06 |
 | **[Scale AI](https://scale.com)** | **[Incubation Product Manager](https://jobright.ai/jobs/info/67a5007eb3fca55eaf89f327?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Feb 06 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management - Inbound Payments](https://jobright.ai/jobs/info/67a4ef883516735cf9552db0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 06 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management - Inbound Payments](https://jobright.ai/jobs/info/67a4ef883516735cf9552ec8?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
+| ↳ | **[Sr Associate, Product Management - Inbound Payments](https://jobright.ai/jobs/info/67a4ef883516735cf9552db0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 06 |
 | ↳ | **[Sr Associate, Product Management - Inbound Payments](https://jobright.ai/jobs/info/67a4ef883516735cf9552ec7?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 06 |
-| ↳ | **[Sr Associate, Product Management - Inbound Payments](https://jobright.ai/jobs/info/67a4ef883516735cf9552ec8?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
 | **[Siemens](https://www.siemens.com/)** | **[Product Owner II, GIS and Locations](https://jobright.ai/jobs/info/67a4b64b9c2e1b5945f8207e?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | Remote | Feb 06 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67a496dfdde41d5d79447f7b?utm_campaign=Product%20Management&utm_source=1103)** | Lake City, FL | On Site | Feb 06 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67a496dfdde41d5d79447f7f?utm_campaign=Product%20Management&utm_source=1103)** | Maidsville, WV | On Site | Feb 06 |
@@ -69,9 +73,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Product Lead, YouTube](https://jobright.ai/jobs/info/67a48cb6d3fc677da60b68dc?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 06 |
 | ↳ | **[Content Product Lead, YouTube](https://jobright.ai/jobs/info/67a48cb6d3fc677da60b6907?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Feb 06 |
 | ↳ | **[Content Product Lead, YouTube](https://jobright.ai/jobs/info/67a477a03d6d192b9aa1dfa9?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA, USA | On Site | Feb 06 |
-| ↳ | **[Content Product Lead, YouTube](https://jobright.ai/jobs/info/67a477a03d6d192b9aa1dfa8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Feb 06 |
 | ↳ | **[Content Product Lead, YouTube](https://jobright.ai/jobs/info/67a477a03d6d192b9aa1df59?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA, USA | On Site | Feb 06 |
 | ↳ | **[Content Product Lead, YouTube](https://jobright.ai/jobs/info/67a477a03d6d192b9aa1dfa7?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Feb 06 |
+| ↳ | **[Content Product Lead, YouTube](https://jobright.ai/jobs/info/67a477a03d6d192b9aa1dfa8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Feb 06 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Product Owner II, GIS and Locations](https://jobright.ai/jobs/info/67a4429a7866727b3caa633d?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | Remote | Feb 05 |
 | **[F5](https://www.f5.com)** | **[Product Manager I](https://jobright.ai/jobs/info/67a41d60ce324c85d7793e9e?utm_campaign=Product%20Management&utm_source=1103)** | Greater Seattle Area | Hybrid | Feb 05 |
 | **[Bombas](http://www.bombas.com)** | **[Product Development Assistant (temp)](https://jobright.ai/jobs/info/67a403f3323638f9d7ccdb50?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 05 |
@@ -128,8 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/679cf701353a8fee562b4645?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Hybrid | Jan 31 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/679cf701353a8fee562b4647?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 31 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/679cf701353a8fee562b464c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jan 31 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[ILD Product Manager](https://jobright.ai/jobs/info/679ca0ca6bcb5197b0da5292?utm_campaign=Product%20Management&utm_source=1103)** | Ridgefield, CT | Hybrid | Jan 31 |
-| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Associate Data Science Product Manager](https://jobright.ai/jobs/info/67a45fc8a3e4c539ac286c3c?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jan 30 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Small Business Pay Over Time](https://jobright.ai/jobs/info/679c7065d99f22fde7409905?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jan 30 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[1259 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/679c5de38229ed405b844b3f?utm_campaign=Product%20Management&utm_source=1103)** | Pharr, TX | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
