@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alphatec Spine](https://atecspine.com)** | **[Product Manager - PTP Team](https://jobright.ai/jobs/info/67bafefcc4949dad7ff2a71b?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Feb 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Management - Data Products](https://jobright.ai/jobs/info/67bab5dba379fe802e905a50?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Feb 22 |
 | ↳ | **[Sr Associate, Product Management - Data Products](https://jobright.ai/jobs/info/67baa51633d25eca7c709a31?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 22 |
 | ↳ | **[Sr Associate, Product Management - Data Products](https://jobright.ai/jobs/info/67baa51633d25eca7c709a9e?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Feb 22 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Red Bull](https://redbull.com)** | **[Graduate Program, Product Management](https://jobright.ai/jobs/info/67b7064191a9629106ac8922?utm_campaign=Product%20Management&utm_source=1103)** | Santa Monica, CA | On Site | Feb 19 |
 | **[goodr](https://goodr.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/67aa81711522e10520241c8f?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 19 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d97?utm_campaign=Product%20Management&utm_source=1103)** | Grosse Pointe, MI | On Site | Feb 19 |
-| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d89?utm_campaign=Product%20Management&utm_source=1103)** | Brookfield, WI | On Site | Feb 19 |
 | ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d98?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, VT | On Site | Feb 19 |
+| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d89?utm_campaign=Product%20Management&utm_source=1103)** | Brookfield, WI | On Site | Feb 19 |
 | ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d88?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | On Site | Feb 19 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management, Liquidity Solutions Product Strategy, Analyst - New York](https://jobright.ai/jobs/info/67b62cf006effcdb05c62d33?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 19 |
 | **[KINESSO](https://kinesso.com)** | **[Senior Associate, Product Management- Data](https://jobright.ai/jobs/info/67b61ef00c787a638af79924?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 19 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[AXS](https://www.axs.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67b50fe830edad0dc40a742c?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Feb 18 |
 | **[Google](https://www.google.com)** | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/67b50e5fe1688eb5b6921891?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA | On Site | Feb 18 |
 | ↳ | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/67b50e5fe1688eb5b692189b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 18 |
-| ↳ | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/67b4efe1d7bee41e8d2beebe?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Feb 18 |
 | ↳ | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/67b4efe1d7bee41e8d2beebd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Feb 18 |
+| ↳ | **[Product Activation Analyst, YouTube](https://jobright.ai/jobs/info/67b4efe1d7bee41e8d2beebe?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Feb 18 |
 | **[Torrid](http://www.torrid.com/)** | **[Product Development Assistant (Non-Apparel) - Temp](https://jobright.ai/jobs/info/67b4f6ccb11091af0a4418c9?utm_campaign=Product%20Management&utm_source=1103)** | City of Industry, CA | Hybrid | Feb 18 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6777e6a195a8894b4e379759?utm_campaign=Product%20Management&utm_source=1103)** | Ridgeland, SC | On Site | Feb 18 |
 | **[Orthofix](http://www.orthofix.com)** | **[Associate Product Manager - Biologics](https://jobright.ai/jobs/info/67576bea53d524b41e576b49?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Feb 18 |
