@@ -100,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Red Bull](https://redbull.com)** | **[Graduate Program, Product Management](https://jobright.ai/jobs/info/67b7064191a9629106ac8922?utm_campaign=Product%20Management&utm_source=1103)** | Santa Monica, CA | On Site | Feb 19 |
 | **[goodr](https://goodr.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/67aa81711522e10520241c8f?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 19 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d97?utm_campaign=Product%20Management&utm_source=1103)** | Grosse Pointe, MI | On Site | Feb 19 |
+| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d98?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, VT | On Site | Feb 19 |
 | ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d88?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | On Site | Feb 19 |
 | ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d89?utm_campaign=Product%20Management&utm_source=1103)** | Brookfield, WI | On Site | Feb 19 |
-| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/67b71ecf284288447c583d98?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, VT | On Site | Feb 19 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management, Liquidity Solutions Product Strategy, Analyst - New York](https://jobright.ai/jobs/info/67b62cf006effcdb05c62d33?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Feb 19 |
 | **[KINESSO](https://kinesso.com)** | **[Senior Associate, Product Management- Data](https://jobright.ai/jobs/info/67b61ef00c787a638af79924?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Feb 19 |
 | **[Apple](https://www.apple.com)** | **[Junior Planner - Beats](https://jobright.ai/jobs/info/67b7af46d44bafd038455958?utm_campaign=Product%20Management&utm_source=1103)** | Culver City, California, United States | On Site | Feb 19 |
@@ -142,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Rehabmart.com](https://www.rehabmart.com/)** | **[Digital Pricing and Content Manager](https://jobright.ai/jobs/info/67b379d53e36aeabae9cbd0c?utm_campaign=Product%20Management&utm_source=1103)** | Watkinsville, GA | On Site | Feb 17 |
 | **[AMETEK](http://www.ametek.com)** | **[Product Manager - Nuclear Security](https://jobright.ai/jobs/info/67abecd187795a764d3c159c?utm_campaign=Product%20Management&utm_source=1103)** | Oak Ridge, TN | On Site | Feb 17 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/67b35445d511cf43436a6809?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Feb 17 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/6795674569502bf44025f3ce?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
