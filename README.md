@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Bank](http://www.usbank.com)** | **[Platform Manager](https://jobright.ai/jobs/info/67dc0aa1637a677822c99907?utm_campaign=Product%20Management&utm_source=1103)** | Earth City, MO | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb52?utm_campaign=Product%20Management&utm_source=1103)** | Tempe, AZ | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb56?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb5a?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb5b?utm_campaign=Product%20Management&utm_source=1103)** | Fargo, ND | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb5c?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb57?utm_campaign=Product%20Management&utm_source=1103)** | Overland Park, KS | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb58?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb59?utm_campaign=Product%20Management&utm_source=1103)** | St Paul, MN | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb5e?utm_campaign=Product%20Management&utm_source=1103)** | Owensboro, KY | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb61?utm_campaign=Product%20Management&utm_source=1103)** | Milwaukee, WI | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb64?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbefe3534a475c3ddfcb62?utm_campaign=Product%20Management&utm_source=1103)** | Oshkosh, WI | Hybrid | Mar 20 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67dbebba3c03985558c31834?utm_campaign=Product%20Management&utm_source=1103)** | Gresham, OR | Hybrid | Mar 20 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/67dbe7987a39705bf4d41c68?utm_campaign=Product%20Management&utm_source=1103)** | Berkley, MA | On Site | Mar 20 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67dba89505048c55bb2d6bb1?utm_campaign=Product%20Management&utm_source=1103)** | Sioux Falls, SD | On Site | Mar 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/67db9c93d73c78a4aef79ada?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Mar 19 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[1370 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/67dba3f573baa196e8fef736?utm_campaign=Product%20Management&utm_source=1103)** | Pasadena, TX | On Site | Mar 19 |
@@ -64,20 +79,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Product/Service Owner II](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa2675?utm_campaign=Product%20Management&utm_source=1103)** | Hopkins, MN | On Site | Mar 19 |
 | ↳ | **[Digital Product/Service Owner II](https://jobright.ai/jobs/info/67db7cc0ddd72c6778cf1ee6?utm_campaign=Product%20Management&utm_source=1103)** | United States | On Site | Mar 19 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[854 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/67db86a66f665e0ae7fa276e?utm_campaign=Product%20Management&utm_source=1103)** | Denton, TX | On Site | Mar 19 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b7?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Mar 19 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b1?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60ae?utm_campaign=Product%20Management&utm_source=1103)** | Fargo, ND | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b2?utm_campaign=Product%20Management&utm_source=1103)** | Earth City, MO | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60bd?utm_campaign=Product%20Management&utm_source=1103)** | Tempe, AZ | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60ba?utm_campaign=Product%20Management&utm_source=1103)** | Oshkosh, WI | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b6?utm_campaign=Product%20Management&utm_source=1103)** | Saint Paul, MN | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b5?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b8?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b7?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Mar 19 |
 | ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60be?utm_campaign=Product%20Management&utm_source=1103)** | Gresham, OR | Hybrid | Mar 19 |
 | ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b0?utm_campaign=Product%20Management&utm_source=1103)** | Overland Park, KS | Hybrid | Mar 19 |
 | ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60af?utm_campaign=Product%20Management&utm_source=1103)** | Owensboro, KY | Hybrid | Mar 19 |
 | ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60bb?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 19 |
 | ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff6058?utm_campaign=Product%20Management&utm_source=1103)** | Milwaukee, WI | Hybrid | Mar 19 |
-| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b1?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 19 |
-| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60ae?utm_campaign=Product%20Management&utm_source=1103)** | Fargo, ND | Hybrid | Mar 19 |
-| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b2?utm_campaign=Product%20Management&utm_source=1103)** | Earth City, MO | Hybrid | Mar 19 |
-| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60bd?utm_campaign=Product%20Management&utm_source=1103)** | Tempe, AZ | Hybrid | Mar 19 |
-| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b5?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Mar 19 |
-| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b8?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX | Hybrid | Mar 19 |
-| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60ba?utm_campaign=Product%20Management&utm_source=1103)** | Oshkosh, WI | Hybrid | Mar 19 |
-| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b6?utm_campaign=Product%20Management&utm_source=1103)** | Saint Paul, MN | Hybrid | Mar 19 |
 | **[Red Hat](http://www.redhat.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67db33aef1cdd2358f82aa86?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | On Site | Mar 19 |
 | **[Passport](https://passportglobal.com)** | **[Product Manager](https://jobright.ai/jobs/info/67db2e79b5004ce6644b1a8a?utm_campaign=Product%20Management&utm_source=1103)** | Remote, United States | Remote | Mar 19 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/67db10312a33ca5cb5aa48eb?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 19 |
@@ -154,20 +169,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Line Management II New College Grad- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/67d905759574d0d307f5ca5b?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Mar 13 |
 | **[Lakeshore Learning Materials](http://www.lakeshorelearning.com/)** | **[Associate Product Developer (On-site)](https://jobright.ai/jobs/info/67d3ab6dc86c42307110f635?utm_campaign=Product%20Management&utm_source=1103)** | Carson, CA | On Site | Mar 13 |
 | ↳ | **[Associate Product Developer (On-site)](https://jobright.ai/jobs/info/67d37f89a704d878ecb0a126?utm_campaign=Product%20Management&utm_source=1103)** | 2695 E Dominguez St, Carson, CA 90895, USA | On Site | Mar 13 |
-| **[Gap Inc.](https://www.gapinc.com/en-us/)** | **[Product Manager I, Merchandising](https://jobright.ai/jobs/info/67d37ed39d95681440bf2d48?utm_campaign=Product%20Management&utm_source=1103)** | Pleasanton, CA | On Site | Mar 13 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright.ai/jobs/info/67d37b489445acfba7a69b69?utm_campaign=Product%20Management&utm_source=1103)** | Bethesda, MD | On Site | Mar 13 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager - Summer 2025 Start Date](https://jobright.ai/jobs/info/67d375e11862f52749a2ec65?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Mar 13 |
-| **[Gap Inc.](https://www.gapinc.com/en-us/)** | **[Product Manager I, Merchandising](https://jobright.ai/jobs/info/67d36b6c08e7964bf3416aaa?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Mar 13 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67d3713ec7bbf99efe6cd240?utm_campaign=Product%20Management&utm_source=1103)** | Port Orchard, WA | On Site | Mar 13 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67d36244f590631ce67d8b0b?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Mar 13 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67d369ebff82e415c75d216a?utm_campaign=Product%20Management&utm_source=1103)** | Longmont, CO | On Site | Mar 13 |
 | **[Ares Management Corporation](http://www.aresmgmt.com)** | **[Analyst, Product Management and Investor Relations, Alternative Credit](https://jobright.ai/jobs/info/67d367d92b7c1fb4b1c5c4c1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 13 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Product Line Management II New College Grad- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/67d364c8e943715f2c04aa5e?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Mar 13 |
 | ↳ | **[Product Line Management Engineer- New College Grad- (Bachelors)](https://jobright.ai/jobs/info/67d3530be94f60c2298ea50e?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Mar 13 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/67d358a2d62724735d9966b5?utm_campaign=Product%20Management&utm_source=1103)** | Englewood Cliffs, NJ | Remote | Mar 13 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/67d358a2d62724735d9966a6?utm_campaign=Product%20Management&utm_source=1103)** | Universal City, CA | Remote | Mar 13 |
-| **[Oracle](https://www.oracle.com/)** | **[Oracle Database - Product Manager/Strategy (Oracle University) 4-ProdDev](https://jobright.ai/jobs/info/67d33a5c68fe73e81407492f?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Mar 13 |
-| **[Ares Management Corporation](http://www.aresmgmt.com)** | **[Analyst, Product Management and Investor Relations, Alternative Credit](https://jobright.ai/jobs/info/67d32fbf34333d911b35a9d8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager - TikTok Content Recommendation, Ecosystem](https://jobright.ai/jobs/info/67d32f2b5fee2e23bc2eacc0?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Mar 13 |
-| **[Visual Comfort & Co.](http://visualcomfort.com)** | **[Product Data Specialist](https://jobright.ai/jobs/info/67d32622dc3165693dab8d80?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
