@@ -57,16 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Bank](http://www.usbank.com)** | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b1?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60ae?utm_campaign=Product%20Management&utm_source=1103)** | Fargo, ND | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b2?utm_campaign=Product%20Management&utm_source=1103)** | Earth City, MO | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60bd?utm_campaign=Product%20Management&utm_source=1103)** | Tempe, AZ | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b7?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60be?utm_campaign=Product%20Management&utm_source=1103)** | Gresham, OR | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b0?utm_campaign=Product%20Management&utm_source=1103)** | Overland Park, KS | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60ba?utm_campaign=Product%20Management&utm_source=1103)** | Oshkosh, WI | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b6?utm_campaign=Product%20Management&utm_source=1103)** | Saint Paul, MN | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b5?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60b8?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60af?utm_campaign=Product%20Management&utm_source=1103)** | Owensboro, KY | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff60bb?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 19 |
+| ↳ | **[Platform Manager](https://jobright.ai/jobs/info/67db505d5709c86615ff6058?utm_campaign=Product%20Management&utm_source=1103)** | Milwaukee, WI | Hybrid | Mar 19 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[854 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/67db57dba7212c367dbeacea?utm_campaign=Product%20Management&utm_source=1103)** | Denton, TX | On Site | Mar 19 |
+| **[Red Hat](http://www.redhat.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67db33aef1cdd2358f82aa86?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh, NC | On Site | Mar 19 |
+| **[Passport](https://passportglobal.com)** | **[Product Manager](https://jobright.ai/jobs/info/67db2e79b5004ce6644b1a8a?utm_campaign=Product%20Management&utm_source=1103)** | Remote, United States | Remote | Mar 19 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/67db10312a33ca5cb5aa48eb?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 19 |
 | **[Red Hat](http://www.redhat.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67dadf933c83883c00464d5e?utm_campaign=Product%20Management&utm_source=1103)** | Raleigh | On Site | Mar 19 |
 | **[Causeway Capital Management](http://causewaycap.com)** | **[Associate, Product and Business Development](https://jobright.ai/jobs/info/67daeb617ab85ba69b498a48?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 19 |
 | **[Xe.com](http://www.xe.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67bf5bb861afc345c5d3c256?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Mar 19 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/6788baf8af05b7afc2d1cca7?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 19 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67bda5277d0d84b425fdaffd?utm_campaign=Product%20Management&utm_source=1103)** | Buford, GA | On Site | Mar 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/67da60247b91ecd717ef6891?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 18 |
 | ↳ | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/67da60247b91ecd717ef6892?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 18 |
 | ↳ | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/67da60247b91ecd717ef689b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 18 |
-| ↳ | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/67da4dc3b015ae24b2ca993a?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Mar 18 |
 | **[Maverick Payments](https://www.MaverickPayments.com)** | **[Product Operations Associate I](https://jobright.ai/jobs/info/67bcf47e6efd6f3bf23b9911?utm_campaign=Product%20Management&utm_source=1103)** | Calabasas, CA | On Site | Mar 18 |
 | **[Belimo](http://belimo.us)** | **[Product Specialist, Data Center Solutions](https://jobright.ai/jobs/info/67da195d2c7f3e66734dff4f?utm_campaign=Product%20Management&utm_source=1103)** | Danbury, CT | On Site | Mar 18 |
 | **[Instacart](https://www.instacart.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67ceee309a2ff356e1f317ee?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Mar 18 |
@@ -76,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[StepStone Group](https://www.stepstoneglobal.com)** | **[Analyst - Product Strategist, Private Wealth](https://jobright.ai/jobs/info/67d9c095e802e5f3441651a5?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Mar 18 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Educator](https://jobright.ai/jobs/info/67da739672aee451457d0484?utm_campaign=Product%20Management&utm_source=1103)** | St. Louis, MO | On Site | Mar 18 |
 | **[tms](https://themarketingstore.com)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/67c85b034a72e6002339fed9?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Mar 18 |
-| **[Optimum Financial Group](https://www.groupe-optimum.com/fr)** | **[Product Operations Manager I](https://jobright.ai/jobs/info/67d9716319eef95273a6d373?utm_campaign=Product%20Management&utm_source=1103)** | Bethpage, NY | On Site | Mar 18 |
+| **[Optimum Financial Group](https://www.groupe-optimum.com/fr)** | **[Product Operations Manager I](https://jobright.ai/jobs/info/67d9716319eef95273a6d280?utm_campaign=Product%20Management&utm_source=1103)** | Bethpage, NY | On Site | Mar 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate - Digital Product Development (@ Work)](https://jobright.ai/jobs/info/67d947b95862b0b2c8727eb3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 18 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Associate - Digital Product Development (@ Work)](https://jobright.ai/jobs/info/67d9187f5766b055b07ed6eb?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 17 |
 | **[Amentum](https://www.amentum.com/)** | **[Research and Product Development Analyst](https://jobright.ai/jobs/info/67d8d86677c0d1fb34facafc?utm_campaign=Product%20Management&utm_source=1103)** | Spokane, WA | On Site | Mar 17 |
@@ -116,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[BlackRock](http://www.blackrock.com)** | **[Associate, Product Strategist](https://jobright.ai/jobs/info/67d4952c0330d3bb54bb901e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 14 |
 | ↳ | **[Associate, Product Manager](https://jobright.ai/jobs/info/67d4952c0330d3bb54bb9003?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Mar 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - OneStream](https://jobright.ai/jobs/info/67d477b53a0d71f466e0bb86?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 14 |
-| ↳ | **[Senior Associate, Product Manager - OneStream](https://jobright.ai/jobs/info/67d477b53a0d71f466e0c14a?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 14 |
 | ↳ | **[Senior Associate, Product Manager - OneStream](https://jobright.ai/jobs/info/67d477b53a0d71f466e0c149?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 14 |
+| ↳ | **[Senior Associate, Product Manager - OneStream](https://jobright.ai/jobs/info/67d477b53a0d71f466e0c14a?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 14 |
 | ↳ | **[Senior Associate, Product Management - Small Business Core Billing Capabilities](https://jobright.ai/jobs/info/6788bf61e7969258a1316302?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 14 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/67d4be8406d8f8fc78dae91d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 14 |
 | ↳ | **[Sr. Associate, Product Management - Card Intelligence](https://jobright.ai/jobs/info/67d4be8406d8f8fc78dae920?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Mar 14 |
@@ -161,6 +176,4 @@ For a complete list, click the following sortable link below:
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management, Liquidity Solutions Product Strategy, Analyst - New York](https://jobright.ai/jobs/info/67b663e68f243111d9da4852?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 | **[Heartflow](https://www.heartflow.com)** | **[Technical Product Manager - Software](https://jobright.ai/jobs/info/67d28822f5fe7efc2c54832a?utm_campaign=Product%20Management&utm_source=1103)** | Mountain View, CA | On Site | Mar 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/67b6c313221d32b20af16560?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Mar 13 |
-| **[Torrid](http://www.torrid.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/67d291ee9502114d556f71ad?utm_campaign=Product%20Management&utm_source=1103)** | City of Industry, CA | On Site | Mar 13 |
-| **[Torrid](http://www.torrid.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/67d27b4c1e67c1f05b9b0641?utm_campaign=Product%20Management&utm_source=1103)** | City of Industry, California | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
