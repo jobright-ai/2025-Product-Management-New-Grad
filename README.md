@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Farmer's Fridge](https://www.farmersfridge.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67d21ddbf93a6f2ac64f6e78?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 03 |
+| **[Kiavi](https://www.kiavi.com)** | **[Product Analyst](https://jobright.ai/jobs/info/67ee65fa7643a6712f84e9ab?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 03 |
+| **[State of Illinois](https://www2.illinois.gov/)** | **[Product Development Specialist II (Information Services Specialist II, Opt A)](https://jobright.ai/jobs/info/67ee4dd093ca61b645b023c2?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, IL | Hybrid | Apr 03 |
 | **[Eulerity](https://www.eulerity.com)** | **[Product Manager](https://jobright.ai/jobs/info/67ee0daaa397275faee936c6?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 02 |
 | **[Alto Pharmacy](https://www.alto.com)** | **[Early Career Product Analyst, Supply Chain & Logistics](https://jobright.ai/jobs/info/67ede635a29c880654c09494?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Apr 02 |
 | **[Maverick Payments](https://www.MaverickPayments.com)** | **[Product Operations Associate I](https://jobright.ai/jobs/info/67ede635a29c880654c095f9?utm_campaign=Product%20Management&utm_source=1103)** | Calabasas, CA | On Site | Apr 02 |
@@ -69,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Product Flow Specialist](https://jobright.ai/jobs/info/67ed833b7b05118ab0faa8cb?utm_campaign=Product%20Management&utm_source=1103)** | Troy, MI | On Site | Apr 02 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Analyst II, Business Product](https://jobright.ai/jobs/info/67ed833b7b05118ab0faab9b?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 02 |
 | **[Wasserman](http://www.teamwass.com)** | **[Analyst, Innovation](https://jobright.ai/jobs/info/67ed66f37743233a6675a259?utm_campaign=Product%20Management&utm_source=1103)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Apr 02 |
-| ↳ | **[Analyst, Innovation](https://jobright.ai/jobs/info/67ed66f37743233a6675a258?utm_campaign=Product%20Management&utm_source=1103)** | USA-CA - Los Angeles HQ | On Site | Apr 02 |
 | ↳ | **[Analyst, Innovation](https://jobright.ai/jobs/info/67ed66f37743233a6675a067?utm_campaign=Product%20Management&utm_source=1103)** | USA-NC - Raleigh Office | On Site | Apr 02 |
+| ↳ | **[Analyst, Innovation](https://jobright.ai/jobs/info/67ed66f37743233a6675a258?utm_campaign=Product%20Management&utm_source=1103)** | USA-CA - Los Angeles HQ | On Site | Apr 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Scientist - Product Personalization](https://jobright.ai/jobs/info/67ed48d52a0964ca01ed5033?utm_campaign=Product%20Management&utm_source=1103)** | NY - New York | Hybrid | Apr 02 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager [Hardware]](https://jobright.ai/jobs/info/67ee1e1b100c1edf3ffa7292?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Apr 02 |
 | **[Great Northern Equipment Distributing, Inc.](http://www.gnedi.com)** | **[Product Content Associate](https://jobright.ai/jobs/info/67ed5272081909ad3afb4f32?utm_campaign=Product%20Management&utm_source=1103)** | Rogers, MN | On Site | Apr 02 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67ec2b6a09c36904deec77e1?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 01 |
 | ↳ | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67ec171ad0d2bde7f7d72852?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 01 |
 | **[Axios HQ](https://www.axioshq.com)** | **[Product Manager I](https://jobright.ai/jobs/info/67ec08d06bc000ae891d751d?utm_campaign=Product%20Management&utm_source=1103)** | United States | On Site | Apr 01 |
-| **[Grange Insurance Association](https://www.grange.com/)** | **[Product Analyst -WA](https://jobright.ai/jobs/info/67ee26d8e84485085b69bd62?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Apr 01 |
 | **[Supermicro](http://www.supermicro.com)** | **[Chassis Product Manager](https://jobright.ai/jobs/info/67cf4e2f10dce30c4f803957?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Apr 01 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Logistics Product Manager, Seller Growth](https://jobright.ai/jobs/info/67ebba99937fcd9b904c887e?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Apr 01 |
 | **[Epicor](http://www.epicor.com)** | **[Associate Product Requirements Analyst / Automotive](https://jobright.ai/jobs/info/67eba93416ee0aea4912c6d4?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, CA | Hybrid | Mar 31 |
@@ -139,14 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Centerfield](http://www.centerfield.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67e5fa8ca68a26d46464abfb?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 27 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Associate Data Science Product Manager](https://jobright.ai/jobs/info/67e6047ee14bbc6333e1aca5?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67e5e2dd44405ecb448cc9b1?utm_campaign=Product%20Management&utm_source=1103)** | Sioux Falls, SD | On Site | Mar 27 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67e5b3b16f08ed5c1e236237?utm_campaign=Product%20Management&utm_source=1103)** | USA-McLean-1410 Spring Hill Rd Suite 125 | Hybrid | Mar 27 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67e5b3b16f08ed5c1e23623a?utm_campaign=Product%20Management&utm_source=1103)** | USA-San Francisco-California S | Hybrid | Mar 27 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67e5b3b16f08ed5c1e236239?utm_campaign=Product%20Management&utm_source=1103)** | USA-Los Angeles-777 S. Alameda | Hybrid | Mar 27 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67e5b3b16f08ed5c1e236238?utm_campaign=Product%20Management&utm_source=1103)** | USA-New York-3 Times Square | Hybrid | Mar 27 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67e5b3b16f08ed5c1e23623c?utm_campaign=Product%20Management&utm_source=1103)** | USA-Washington-1333 H Street N | Hybrid | Mar 27 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67e5b3b16f08ed5c1e23623d?utm_campaign=Product%20Management&utm_source=1103)** | USA-Irvine-17890 Sky Park Circle | Hybrid | Mar 27 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67e5b3b16f08ed5c1e23623b?utm_campaign=Product%20Management&utm_source=1103)** | USA-MSP-2900 Ames Crossing Road | Hybrid | Mar 27 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/67e5b3b16f08ed5c1e23614b?utm_campaign=Product%20Management&utm_source=1103)** | USA-Frisco-6160 Warren Parkway | Hybrid | Mar 27 |
-| **[RVO Health](https://rvohealth.com/)** | **[Product Manager, Healthline SEO and Global UX](https://jobright.ai/jobs/info/67e5a12ceff21432b1199793?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Mar 27 |
-| **[Privia Health](http://www.priviahealth.com)** | **[Associate Product Owner](https://jobright.ai/jobs/info/67e5af38930182d2ed5cbabc?utm_campaign=Product%20Management&utm_source=1103)** | United States | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
