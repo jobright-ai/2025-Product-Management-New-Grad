@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Symphonic Distribution](https://symphonic.com/)** | **[Associate Product Manager (Royalties Squad)](https://jobright.ai/jobs/info/67f72b399b28d85093cda5b8?utm_campaign=Product%20Management&utm_source=1103)** | Tampa, FL | On Site | Apr 09 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Product Management Analyst](https://jobright.ai/jobs/info/67f713129208002f2a3e95e0?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX | On Site | Apr 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager - AI/NLP, Customer Service Platform](https://jobright.ai/jobs/info/67f70b917471e502643fab41?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Apr 09 |
 | **[ITR Group](http://itrgroup.com/)** | **[Product Analyst](https://jobright.ai/jobs/info/67f6ea7c472a94e9d37b2f98?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 09 |
-| **[BMO](http://www.bmo.com)** | **[Product Management Analyst](https://jobright.ai/jobs/info/67f6e67ac6ed08a5c0525ede?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX | On Site | Apr 09 |
 | **[Fubo](http://www.fubo.tv)** | **[Product Operations Associate ](https://jobright.ai/jobs/info/67f6d986a5eec1f9a56d9af2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 09 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Product Management Analyst](https://jobright.ai/jobs/info/67f6d8ccb6dbcff0e5161f53?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX, USA | On Site | Apr 09 |
+| **[BMO](http://www.bmo.com)** | **[Product Management Analyst](https://jobright.ai/jobs/info/67f6e67ac6ed08a5c0525ede?utm_campaign=Product%20Management&utm_source=1103)** | Irving, TX | On Site | Apr 09 |
 | **[Simulmedia](http://www.simulmedia.com)** | **[Product Solutions Analyst](https://jobright.ai/jobs/info/67eecb5e0300c0e253e6f2a4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 09 |
 | **[LERETA, LLC](http://www.lereta.com/)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/67f6d2054bd4c7bf487edbf5?utm_campaign=Product%20Management&utm_source=1103)** | CA | Remote | Apr 09 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f6af054e17ed218c44666f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f6af054e17ed218c44665a?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 09 |
 | ↳ | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67f6af054e17ed218c44667b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
-| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f6af054e17ed218c44665a?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 09 |
+| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f6af054e17ed218c44666f?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 09 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f6f50c1001995c103f5b3c?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 09 |
 | ↳ | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67f6f50c1001995c103f5b50?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 09 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f6f50c1001995c103f5b52?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 09 |
@@ -78,9 +81,9 @@ For a complete list, click the following sortable link below:
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67f5715b8ed86719647fdcd7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Apr 08 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Asst Mgr, Glbl SVOD Sls Plng & Admin](https://jobright.ai/jobs/info/67f57d86c12aa5dd489e4706?utm_campaign=Product%20Management&utm_source=1103)** | Universal City, CA | On Site | Apr 08 |
 | **[In-Situ Environmental](http://www.in-situ.com)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/67f5532635ea7273c922fd64?utm_campaign=Product%20Management&utm_source=1103)** | Fort Collins, CO | On Site | Apr 08 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f629fd68cd417ed202e56e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 08 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f629fd68cd417ed202e56f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 08 |
+| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f629fd68cd417ed202e56e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Apr 08 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f629fd68cd417ed202e570?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Apr 08 |
-| ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f629fd68cd417ed202e56f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 08 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/67f629fd68cd417ed202e508?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 08 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Asset & Wealth Management- New York-Associate-Product Management](https://jobright.ai/jobs/info/67d84e85da5c9c31545c4bb6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Apr 08 |
 | **[IGT](http://igt.com)** | **[Product Management Engineer I](https://jobright.ai/jobs/info/67d890644879ae19a8c4f9c9?utm_campaign=Product%20Management&utm_source=1103)** | West Greenwich, RI | On Site | Apr 08 |
@@ -140,7 +143,4 @@ For a complete list, click the following sortable link below:
 | **[BuzzFeed](https://www.buzzfeed.com)** | **[Associate Product Manager, AdTech](https://jobright.ai/jobs/info/67eeb3b35bcd1587b91b28b4?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 03 |
 | **[Cargill](https://www.cargill.com/home)** | **[Producción General - Temporal - Proteína](https://jobright.ai/jobs/info/67eeaf26835886d75b2e394a?utm_campaign=Product%20Management&utm_source=1103)** | Milwaukee, WI | On Site | Apr 03 |
 | **[Cross River](http://crossriver.com)** | **[Product Manager, Payments](https://jobright.ai/jobs/info/67eea4a74a5809f88adea048?utm_campaign=Product%20Management&utm_source=1103)** | Fort Lee, NJ | On Site | Apr 03 |
-| **[Farmer's Fridge](https://www.farmersfridge.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/67d21ddbf93a6f2ac64f6e78?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 03 |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Product Control, Middle Office, Hedge Fund Services](https://jobright.ai/jobs/info/67d241e94dac0cee26d0d1a7?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Apr 03 |
-| **[Kiavi](https://www.kiavi.com)** | **[Product Analyst](https://jobright.ai/jobs/info/67ee65fa7643a6712f84e9ab?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
