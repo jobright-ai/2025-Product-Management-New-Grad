@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 1 - Personalized Content - HYBRID](https://jobright.ai/jobs/info/681d5f4bce48cc7130c309e1?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | May 08 |
 | **[Ares Management Corporation](http://www.aresmgmt.com)** | **[Associate, Product Management & Investor Relations, Infrastructure Opportunities](https://jobright.ai/jobs/info/681d2799b2510f782f1ecedb?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 08 |
 | **[TeleTracking](http://teletracking.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/681cfa19f6c65e3672548c8b?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 08 |
 | **[Connection](http://www.pcconnection.com)** | **[Product Data Management Associate](https://jobright.ai/jobs/info/681cf426b34da4db4eb39806?utm_campaign=Product%20Management&utm_source=1103)** | Exton, PA | On Site | May 08 |
 | ↳ | **[Product Data Management Associate](https://jobright.ai/jobs/info/681cf426b34da4db4eb3979d?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH | On Site | May 08 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Internet Merchandiser](https://jobright.ai/jobs/info/681ceaed86066a80dc68b6a9?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 08 |
 | **[Ally](http://www.ally.com/)** | **[Associate Analyst Digital Product - Digital Adoption & Analytics](https://jobright.ai/jobs/info/681ce7870affaf71903afc7d?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | May 08 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/681cdaf2e9221d5030935653?utm_campaign=Product%20Management&utm_source=1103)** | Englewood Cliffs, NJ | Remote | May 08 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/681cdaf2e9221d5030935643?utm_campaign=Product%20Management&utm_source=1103)** | Englewood Cliffs, NJ | Remote | May 08 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/681cdaf2e9221d5030935643?utm_campaign=Product%20Management&utm_source=1103)** | Englewood Cliffs, NJ | Remote | May 08 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/681cdaf2e9221d5030935653?utm_campaign=Product%20Management&utm_source=1103)** | Englewood Cliffs, NJ | Remote | May 08 |
 | **[TeleTracking](http://teletracking.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/681cbc47a6aa6f69f92e94ed?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 08 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68001de80d4962cf80f835a6?utm_campaign=Product%20Management&utm_source=1103)** | Ann Arbor, MI | Hybrid | May 08 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68001de80d4962cf80f835a3?utm_campaign=Product%20Management&utm_source=1103)** | Frisco, TX | Hybrid | May 08 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68001de80d4962cf80f835a7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 08 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68001de80d4962cf80f835a5?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | Hybrid | May 08 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68001de80d4962cf80f835a3?utm_campaign=Product%20Management&utm_source=1103)** | Frisco, TX | Hybrid | May 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Business Cards & Payments](https://jobright.ai/jobs/info/67e386d3b05be1d18e925e06?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 08 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Associate Product Manager - Digital Labs](https://jobright.ai/jobs/info/681c4048a0c71be472b25de0?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 07 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate Product Manager - Digital Labs](https://jobright.ai/jobs/info/681c13c59dbd724ea98f0e15?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 07 |
@@ -126,6 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Kikoff](https://kikoff.com/)** | **[Product Ops Associate](https://jobright.ai/jobs/info/67f7d499ddee8fe410798595?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | May 02 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/67f1c456ee915c106e6a7386?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | May 02 |
 | **[S&P Global](https://www.spglobal.com)** | **[Associate, Product Management & Development](https://jobright.ai/jobs/info/67f7f9b2f7c095012e01bf0a?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | May 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok-Product-Social and Creation) - 2025 Start (MBA)](https://jobright.ai/jobs/info/680cf284997916b8eca0d1bd?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | May 02 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Business Cards & Payments](https://jobright.ai/jobs/info/67f8ae519f0e4c1813f21c5e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
