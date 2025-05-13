@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Manager, Business Analyst, Card Onboarding, Premium Products](https://jobright.ai/jobs/info/6823392b87c038866e0ba479?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 13 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68001de80d4962cf80f835a4?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | May 13 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68001d6e0d4962cf80f82eff?utm_campaign=Product%20Management&utm_source=1103)** | Eagan, MN | Hybrid | May 13 |
+| **[EnergyCAP](http://energycap.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/682302c083cb3115c04b855b?utm_campaign=Product%20Management&utm_source=1103)** | Boalsburg, PA | On Site | May 13 |
+| **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Strategy Product Manager Anti-Fraud Solutions](https://jobright.ai/jobs/info/6822ff609d4093dc4aa65207?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | May 13 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Analyst Product Management](https://jobright.ai/jobs/info/6822eb2c2234fba8a10cbade?utm_campaign=Product%20Management&utm_source=1103)** | Quincy, MA | Hybrid | May 12 |
 | **[EnergyCAP](http://energycap.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6822e86d89696229a512641f?utm_campaign=Product%20Management&utm_source=1103)** | Boalsburg, PA | On Site | May 12 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Analyst Product Management](https://jobright.ai/jobs/info/6822e5f79b17d89f05667a0d?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | May 12 |
@@ -68,15 +73,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Manager, Business Analyst, Card Onboarding, Premium Products](https://jobright.ai/jobs/info/682279bac974a1120076e011?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | May 12 |
 | **[Xe.com](http://www.xe.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6822721818c8659937d02229?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | May 12 |
 | **[CTBC Bank Corp. (USA)](http://www.ctbcbankusa.com)** | **[Digital Product Specialist - Digital Banking](https://jobright.ai/jobs/info/68226ae3a4ce6a6d5f619c61?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | May 12 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/682269c7c963a49d1cc478fe?utm_campaign=Product%20Management&utm_source=1103)** | Frisco, TX | Hybrid | May 12 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/682269c7c963a49d1cc478ff?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | Hybrid | May 12 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/682269c7c963a49d1cc478ff?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | Hybrid | May 12 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/682269c7c963a49d1cc478fb?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | May 12 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/682269c7c963a49d1cc478fc?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | May 12 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/682269c7c963a49d1cc478fe?utm_campaign=Product%20Management&utm_source=1103)** | Frisco, TX | Hybrid | May 12 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68225a996ab43d7205f0c790?utm_campaign=Product%20Management&utm_source=1103)** | Eagan, MN | Hybrid | May 12 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Leadership Program - AI Product Management (Atlanta, GA)](https://jobright.ai/jobs/info/68224921ebd91afd55ad56a3?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | On Site | May 12 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Associate Technical Product Manager - Supply Chain](https://jobright.ai/jobs/info/681efdd3e683ea0641d06978?utm_campaign=Product%20Management&utm_source=1103)** | Frisco, TX | On Site | May 12 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68223c9e0220fba7e4a464aa?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, IL | On Site | May 12 |
-| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/68223c9e0220fba7e4a4650d?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | May 12 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/68223c9e0220fba7e4a4650d?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | May 12 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68223c9e0220fba7e4a464aa?utm_campaign=Product%20Management&utm_source=1103)** | Springfield, IL | On Site | May 12 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Business Analyst - WM Technology](https://jobright.ai/jobs/info/682215b66795a04e87970b66?utm_campaign=Product%20Management&utm_source=1103)** | 1 New York Plaza | On Site | May 12 |
 | **[PAX Spices & Labs Inc.](www.paxspices.com)** | **[Seasonings Product Development Specialist](https://jobright.ai/jobs/info/6822b685c8f6dd39ac96c753?utm_campaign=Product%20Management&utm_source=1103)** | Covina, CA | On Site | May 12 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Category Management Specialist](https://jobright.ai/jobs/info/6822eb2c2234fba8a10cbb50?utm_campaign=Product%20Management&utm_source=1103)** | Brea, CA | On Site | May 12 |
@@ -117,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Connection](http://www.pcconnection.com)** | **[Product Data Management Associate](https://jobright.ai/jobs/info/681cf426b34da4db4eb3979d?utm_campaign=Product%20Management&utm_source=1103)** | Merrimack, NH | On Site | May 08 |
 | ↳ | **[Product Data Management Associate](https://jobright.ai/jobs/info/681cf426b34da4db4eb39806?utm_campaign=Product%20Management&utm_source=1103)** | Exton, PA | On Site | May 08 |
 | **[Ferguson](http://www.ferguson.com/)** | **[Internet Merchandiser](https://jobright.ai/jobs/info/681ceaed86066a80dc68b6a9?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 08 |
-| **[Ally](http://www.ally.com/)** | **[Associate Analyst Digital Product - Digital Adoption & Analytics](https://jobright.ai/jobs/info/681ce7870affaf71903afc7d?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | May 08 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/681cdaf2e9221d5030935653?utm_campaign=Product%20Management&utm_source=1103)** | Englewood Cliffs, NJ | Remote | May 08 |
 | **[TeleTracking](http://teletracking.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/681cbc47a6aa6f69f92e94ed?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | May 08 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM Multi-Asset Solutions - Product and Strategy Specialist (Hybrid / Newark, NJ)](https://jobright.ai/jobs/info/6814539d7e6de9932a81eaf2?utm_campaign=Product%20Management&utm_source=1103)** | Newark, NJ | Hybrid | May 08 |
@@ -147,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Hayden Beverage Company](https://www.haydenbeverage.com/)** | **[Pricing and Product Coordinator](https://jobright.ai/jobs/info/681b9ee7bfd68f4168190e74?utm_campaign=Product%20Management&utm_source=1103)** | Boise, ID | On Site | May 06 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/67fda35280742184ff0242e5?utm_campaign=Product%20Management&utm_source=1103)** | Spring, TX | On Site | May 06 |
 | **[Heartflow](https://www.heartflow.com)** | **[Technical Product Manager - Software](https://jobright.ai/jobs/info/67d266328204056824ccf307?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, California, United States | On Site | May 06 |
-| **[Book of the Month](http://www.bookofthemonth.com)** | **[Product Analyst](https://jobright.ai/jobs/info/681a581ef5af3abc4b2e74f6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | May 06 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Product Builder I](https://jobright.ai/jobs/info/681a4ab56ccb486440fe0f7f?utm_campaign=Product%20Management&utm_source=1103)** | Quincy US-MA, United States |  N/A | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
