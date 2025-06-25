@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Core-Mark International](http://www.core-mark.com/)** | **[Performance Redistribution Order Selector - Swing Shift](https://jobright.ai/jobs/info/685b67c16e69f66aa2681efd?utm_campaign=Product%20Management&utm_source=1103)** | Sacramento, CA | On Site | Jun 24 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/685b4cbfba3e4e91f063015d?utm_campaign=Product%20Management&utm_source=1103)** | Reno, NV | On Site | Jun 24 |
 | **[Actively AI](https://www.actively.ai)** | **[Product Ops Associate](https://jobright.ai/jobs/info/68507c7538a56d31bfed1593?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | On Site | Jun 24 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Product Development Coordinator, Men's](https://jobright.ai/jobs/info/685b1864c9281fcdb91b893f?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Jun 24 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/685aff6bb89dd84eb2161e96?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jun 24 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Optimum Financial Group](https://www.groupe-optimum.com/fr)** | **[Product Operations Manager I](https://jobright.ai/jobs/info/685a80f14388df7dd5926fcc?utm_campaign=Product%20Management&utm_source=1103)** | Bethpage, NY | On Site | Jun 24 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Associate Product Manager, Agentic AI](https://jobright.ai/jobs/info/685a55a9d79893438812bb65?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Jun 24 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/685a0cdb58594f36580a4c62?utm_campaign=Product%20Management&utm_source=1103)** | Hamburg, NY | On Site | Jun 23 |
+| **[Chronosphere](http://www.chronosphere.io)** | **[Product Manager - Logging](https://jobright.ai/jobs/info/685b466c097a4b6bd7ccb8ca?utm_campaign=Product%20Management&utm_source=1103)** | New York City | On Site | Jun 23 |
 | **[Fandom](https://www.fandom.com)** | **[Product Analyst](https://jobright.ai/jobs/info/67f9f1bc8569a044bfa8c509?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jun 23 |
 | **[Scholastic](http://www.scholastic.com)** | **[Consumer Products Assistant](https://jobright.ai/jobs/info/685a3c45e184ac13345e1f51?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jun 23 |
 | **[Pinterest Engineering](https://www.pinterestcareers.com/)** | **[Apprentice Product Manager](https://jobright.ai/jobs/info/685999ee90e3e2ff27fa1e5c?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA, US | On Site | Jun 23 |
@@ -80,6 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[819 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6857f7a3619c4c6f8918739a?utm_campaign=Product%20Management&utm_source=1103)** | Wapakoneta, OH | On Site | Jun 22 |
 | ↳ | **[838 - Product Demonstrator ($18hr + Commission)](https://jobright.ai/jobs/info/6858c7d1da6486f77a6a693c?utm_campaign=Product%20Management&utm_source=1103)** | Milford, OH | On Site | Jun 22 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/681ea06aca2cfa3a8a2be703?utm_campaign=Product%20Management&utm_source=1103)** | Avondale, AZ | On Site | Jun 22 |
+| **[Ares Management Corporation](http://www.aresmgmt.com)** | **[Associate, Product Management & Investor Relations, Infrastructure Opportunities](https://jobright.ai/jobs/info/681d9ec256d71d23269760b7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jun 21 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[Global Stock Selection - Product Specialist Associate](https://jobright.ai/jobs/info/68571746d433057cf2f67a19?utm_campaign=Product%20Management&utm_source=1103)** | Greenwich, CT | On Site | Jun 21 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6839f67e48be4fffede41f3c?utm_campaign=Product%20Management&utm_source=1103)** | West Fargo, ND | On Site | Jun 21 |
 | **[Coinbase](https://www.coinbase.com)** | **[Product Manager, Base Account](https://jobright.ai/jobs/info/68257bd8a357fd7de4594fd8?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Jun 21 |
@@ -124,10 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Eltropy](http://www.eltropy.com)** | **[Product Manager (multiple openings) ](https://jobright.ai/jobs/info/685315305cd31e0b4ade7469?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, California, United States | On Site | Jun 18 |
 | **[LeanData](http://www.leandata.com)** | **[Integrations Product Manager](https://jobright.ai/jobs/info/67afac079f4e3e9e843a7dc5?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | Hybrid | Jun 18 |
 | **[PrizePicks](https://app.prizepicks.com/sign-up?invite_code=PR-GPG7ZCL)** | **[Esports Product Operations Specialist](https://jobright.ai/jobs/info/6852e982ecd777ef00bd3420?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Jun 18 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Audit](https://jobright.ai/jobs/info/6852ade8dc95ed1bb9289678?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jun 18 |
-| ↳ | **[Sr. Associate, Product Management - Audit](https://jobright.ai/jobs/info/6852ade8dc95ed1bb9289606?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jun 18 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Audit](https://jobright.ai/jobs/info/6852ade8dc95ed1bb9289606?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jun 18 |
+| ↳ | **[Sr. Associate, Product Management - Audit](https://jobright.ai/jobs/info/6852ade8dc95ed1bb9289678?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jun 18 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6852ade8dc95ed1bb9289612?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Jun 18 |
-| **[AXIS (AXIS Capital)](http://www.axiscapital.com)** | **[Product Management Analyst](https://jobright.ai/jobs/info/68419347b2b5cdbee8005cfc?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jun 18 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/67fd9cf19f38cc5f963e0a0d?utm_campaign=Product%20Management&utm_source=1103)** | Roscoe, IL | On Site | Jun 18 |
-| **[AXIS (AXIS Capital)](http://www.axiscapital.com)** | **[Product Management Analyst](https://jobright.ai/jobs/info/684180661383ec8d1b0de4f9?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
