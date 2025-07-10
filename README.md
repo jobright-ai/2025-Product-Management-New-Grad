@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Assistant Product Manager, Lash Category](https://jobright.ai/jobs/info/686efe52016672461e4d936d?utm_campaign=Product%20Management&utm_source=1103)** | HQ_Port Washington, NY | On Site | Jul 09 |
+| **[Marigold Health](https://www.marigoldhealth.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/686ef5989ae3966c1278a039?utm_campaign=Product%20Management&utm_source=1103)** | Remote (USA) | Remote | Jul 09 |
+| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Product Manager, Lash Category](https://jobright.ai/jobs/info/686eef5ccf38b2fb906da161?utm_campaign=Product%20Management&utm_source=1103)** | HQ_Port Washington, NY | On Site | Jul 09 |
+| **[Pentair](http://www.pentair.com)** | **[Product Analyst](https://jobright.ai/jobs/info/686ee002938fa366112a6bbe?utm_campaign=Product%20Management&utm_source=1103)** | Brookfield, WI | Hybrid | Jul 09 |
+| **[Target](https://www.target.com)** | **[Sr. Product Development Specialist-Home](https://jobright.ai/jobs/info/686ed5447662ea8f920c7b9f?utm_campaign=Product%20Management&utm_source=1103)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Hybrid | Jul 09 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/686eca5bdf2178a8ef2a9f72?utm_campaign=Product%20Management&utm_source=1103)** | Stevenson Ranch, CA | On Site | Jul 09 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Global Transactional FX Product Associate](https://jobright.ai/jobs/info/686ec29973b368def4245339?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco | On Site | Jul 09 |
+| ↳ | **[Global Transactional FX Product Associate](https://jobright.ai/jobs/info/686ec26173b368def4244c8c?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte | On Site | Jul 09 |
 | **[Red Ventures](http://www.redventures.com)** | **[Consumer Experience Analyst](https://jobright.ai/jobs/info/686ea8c2307c8f326ef31410?utm_campaign=Product%20Management&utm_source=1103)** | Fort Mill, SC | Hybrid | Jul 09 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Product Manager](https://jobright.ai/jobs/info/686e9dbbf1661dc808801114?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Jul 09 |
 | **[Rent-A-Center](https://www.rentacenter.com)** | **[Representante de Cuentas con Entrega de Productos](https://jobright.ai/jobs/info/686e8bf8953653a27663302d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 09 |
 | **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/686e66719d6b16c9484093c6?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Jul 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Manager - Card Partnerships, Partner Portal](https://jobright.ai/jobs/info/6852302b9de66204819cccfc?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jul 09 |
@@ -136,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Rent-A-Center](https://www.rentacenter.com)** | **[Representante de Cuentas con Entrega de Productos](https://jobright.ai/jobs/info/68499f74c718e5370c51c396?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 03 |
 | **[Optiwatt](https://getoptiwatt.com/)** | **[Consumer Product Analyst](https://jobright.ai/jobs/info/686684c25597cef6d2dab04c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Jul 03 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Product Associate, Lash Category](https://jobright.ai/jobs/info/6841263642584171d7ddc11e?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Jul 03 |
-| **[PTC](http://www.ptc.com)** | **[Associate Product Manager - Retail](https://jobright.ai/jobs/info/685626a1976f7ca2097c72f2?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
