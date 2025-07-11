@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager - AI/NLP, Customer Service Platform](https://jobright.ai/jobs/info/68707b0a06ad7073463bdf18?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Jul 10 |
+| **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/687087e001cc0956e7e82a63?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 10 |
 | **[Veritone](https://www.veritone.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/687061cfa5ae807a59cf7fb2?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 10 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Product Manager IT Data Science](https://jobright.ai/jobs/info/68705b0fa5ae807a59cf7c9f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 10 |
 | ↳ | **[Product Manager IT Data Science](https://jobright.ai/jobs/info/6870687306ad7073463bd83d?utm_campaign=Product%20Management&utm_source=1103)** | Long Island City, NY | On Site | Jul 10 |
@@ -156,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[846 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/686a0b2735584b654253739f?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, IN | On Site | Jul 04 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/684b6b0dba7c1e7bafd4eb55?utm_campaign=Product%20Management&utm_source=1103)** | Avondale, AZ | On Site | Jul 04 |
 | **[LSEG](http://www.lseg.com)** | **[Product Management Associate - Quant Data Feeds](https://jobright.ai/jobs/info/68128418b5e1fa83095765d7?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jul 04 |
-| **[PENNYMAC](https://www.pennymac.com)** | **[Product Analyst](https://jobright.ai/jobs/info/6847468da357a36ca2528e3a?utm_campaign=Product%20Management&utm_source=1103)** | Cary, NC | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
