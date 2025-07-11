@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leaf Home](https://www.leafhome.com/)** | **[1244 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/686f8e5c01cc0956e7e7b001?utm_campaign=Product%20Management&utm_source=1103)** | Arnold, MO | On Site | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager - AI/NLP, Customer Service Platform](https://jobright.ai/jobs/info/68707b0a06ad7073463bdf18?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Jul 10 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/687087e001cc0956e7e82a63?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 10 |
 | **[Veritone](https://www.veritone.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/687061cfa5ae807a59cf7fb2?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 10 |
@@ -70,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Torrid](http://www.torrid.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/68700f569a77984d3d150e13?utm_campaign=Product%20Management&utm_source=1103)** | City of Industry, California | On Site | Jul 10 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68701dbb01cc0956e7e7f5f3?utm_campaign=Product%20Management&utm_source=1103)** | Charleston, SC | On Site | Jul 10 |
 | ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68702b55a5ae807a59cf65a0?utm_campaign=Product%20Management&utm_source=1103)** | De Forest, WI | On Site | Jul 10 |
+| ↳ | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6852ade8dc95ed1bb9289612?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Jul 10 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[847 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/686f54977c3b86d777add290?utm_campaign=Product%20Management&utm_source=1103)** | Champaign, IL | On Site | Jul 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Audit](https://jobright.ai/jobs/info/6852ade8dc95ed1bb9289678?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jul 10 |
 | **[FELFEL USA - Good Food at Work](https://www.felfel.com)** | **[Junior Culinary Innovation Manager](https://jobright.ai/jobs/info/686fca0506ad7073463b8d81?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Jul 10 |
 | **[Travelers](https://www.travelers.com)** | **[Product Management Development Program (PMDP) Pricing Analyst](https://jobright.ai/jobs/info/686c72d435584b6542c5b416?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | On Site | Jul 09 |
@@ -118,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - US Card](https://jobright.ai/jobs/info/6850d0b6bc088e52610b835a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jul 08 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Associate Product Manager, Omnipod 5 (Hybrid - San Diego, CA or Acton, MA)](https://jobright.ai/jobs/info/6850d84a2a14ba8ace4942e4?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | Hybrid | Jul 08 |
 | **[Genies](https://genies.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6850b271740bdb6692048dc3?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jul 08 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[874 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/686c960735584b6542808e31?utm_campaign=Product%20Management&utm_source=1103)** | Bethel Park, PA | On Site | Jul 08 |
 | **[Mattel, Inc.](http://www.mattel.com)** | **[Space Insights Analyst](https://jobright.ai/jobs/info/6850bb921091b631468ac542?utm_campaign=Product%20Management&utm_source=1103)** | El Segundo, CA | On Site | Jul 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - US Card](https://jobright.ai/jobs/info/6850b4517cb65033a70dd57c?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jul 08 |
 | ↳ | **[Sr. Associate, Product Management - US Card](https://jobright.ai/jobs/info/6850b4517cb65033a70dd616?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jul 08 |
