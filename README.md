@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6871afe306ad7073463c6aab?utm_campaign=Product%20Management&utm_source=1103)** | Surprise, AZ | On Site | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Operations Manager - AI/NLP, Customer Service Platform](https://jobright.ai/jobs/info/6871905d06ad7073463c5f50?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Jul 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67f6f50c1001995c103f5b50?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jul 11 |
 | ↳ | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67f6af054e17ed218c44667b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jul 11 |
@@ -66,7 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/687087e001cc0956e7e82a63?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 10 |
 | **[Veritone](https://www.veritone.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/687061cfa5ae807a59cf7fb2?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 10 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Product Manager IT Data Science](https://jobright.ai/jobs/info/68705b0fa5ae807a59cf7c9f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 10 |
-| ↳ | **[Product Manager IT Data Science](https://jobright.ai/jobs/info/6870687306ad7073463bd83d?utm_campaign=Product%20Management&utm_source=1103)** | Long Island City, NY | On Site | Jul 10 |
+| **[Ares Management Corporation](http://www.aresmgmt.com)** | **[Associate, Product Management and Investor Relations, Infrastructure Debt](https://jobright.ai/jobs/info/681a42ee5f3827de0d86eb37?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 10 |
+| **[JetBlue](http://www.jetblue.com/)** | **[Product Manager IT Data Science](https://jobright.ai/jobs/info/6870687306ad7073463bd83d?utm_campaign=Product%20Management&utm_source=1103)** | Long Island City, NY | On Site | Jul 10 |
 | **[Veritone](https://www.veritone.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/687023c21923f89fd073e995?utm_campaign=Product%20Management&utm_source=1103)** | United States of America - Remote | Remote | Jul 10 |
 | **[Torrid](http://www.torrid.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/6870400001cc0956e7e80948?utm_campaign=Product%20Management&utm_source=1103)** | City of Industry, CA | On Site | Jul 10 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/68701a7e06ad7073463bb136?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Jul 10 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Development Program Associate - 2026](https://jobright.ai/jobs/info/686c8f0f35584b65425f4dd2?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager - Trust & Safety Platform (AI Solution) - Seattle](https://jobright.ai/jobs/info/686c4a1635584b6542dff2bb?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Jul 07 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Associate Manager Product Management](https://jobright.ai/jobs/info/686c258835584b6542ed0735?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 07 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, DMDC](https://jobright.ai/jobs/info/683272742196c591d85cba50?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jul 07 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[1371 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/686ca31935584b6542c8d5b0?utm_campaign=Product%20Management&utm_source=1103)** | Tomball, TX | On Site | Jul 06 |
 | **[Rent-A-Center](https://www.rentacenter.com)** | **[Representante de Cuentas con Entrega de Productos](https://jobright.ai/jobs/info/682d5deea7e5965985a8c199?utm_campaign=Product%20Management&utm_source=1103)** | Ponce Inlet, FL | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager, Privacy and Responsibility, Data Control](https://jobright.ai/jobs/info/686adab835584b654298759e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | Hybrid | Jul 06 |
