@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/683a09723a120df2dfc5d7fd?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Jul 13 |
+| **[Netflix](https://www.netflix.com)** | **[Jr. Analyst, People Data (Animation)](https://jobright.ai/jobs/info/68577337b2ec40e1e781b17d?utm_campaign=Product%20Management&utm_source=1103)** | Burbank, CA | On Site | Jul 12 |
 | **[Rent-A-Center](https://www.rentacenter.com)** | **[Representante de Cuentas con Entrega de Productos](https://jobright.ai/jobs/info/684baa51581eb57e67ddc43d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 12 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Coordinator Product Development](https://jobright.ai/jobs/info/685613cd9be3c8c32e9856f3?utm_campaign=Product%20Management&utm_source=1103)** | Paramus, NJ | On Site | Jul 12 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Product Separator](https://jobright.ai/jobs/info/6855e74cd45a4d3e87db9f2c?utm_campaign=Product%20Management&utm_source=1103)** | St Cloud, MN | On Site | Jul 12 |
@@ -154,5 +155,5 @@ For a complete list, click the following sortable link below:
 | **[GROWMARK, Inc.](http://www.growmark.com)** | **[Crop Nutrients, Associate Product Manager (Fertilizer) - GROWMARK, Inc. - Bloomington, IL](https://jobright.ai/jobs/info/6867d2dd35584b65429e7146?utm_campaign=Product%20Management&utm_source=1103)** | Bloomington, IL | On Site | Jul 07 |
 | **[RBC](https://www.rbc.com)** | **[Product Analyst, Retirement Solutions](https://jobright.ai/jobs/info/686c6c8635584b6542a4cd64?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Jul 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager - Trust & Safety Platform (AI Solution) - Seattle](https://jobright.ai/jobs/info/686c4a1635584b6542dff2bb?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Jul 07 |
-| **[Ann Taylor](http://www.anntaylor.com)** | **[Associate Manager Product Management](https://jobright.ai/jobs/info/686c00b735584b6542017dc2?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 07 |
+| **[Ann Taylor](http://www.anntaylor.com)** | **[Associate Manager Product Management](https://jobright.ai/jobs/info/686c258835584b6542ed0735?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
