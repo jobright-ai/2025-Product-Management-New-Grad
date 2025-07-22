@@ -58,9 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/687ee6342097a271a8998c04?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Jul 21 |
+| **[Fortune Dynamic Inc](https://www.fortunedynamic.com/)** | **[Administrative Assistant, Design and Product Development](https://jobright.ai/jobs/info/687ec4d9db19f31cf0d6cf26?utm_campaign=Product%20Management&utm_source=1103)** | City of Industry, CA | On Site | Jul 21 |
 | **[Zoro.com](http://zoro.com)** | **[Associate Category Manager](https://jobright.ai/jobs/info/687e954c764c3d7411c44962?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jul 21 |
 | ↳ | **[Associate Category Manager](https://jobright.ai/jobs/info/687e90bcdb19f31cf0d6b29b?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Jul 21 |
 | **[TBWA\Chiat\Day](http://tbwachiatday.com)** | **[Analyst, Product Integration](https://jobright.ai/jobs/info/687eb46f764c3d7411c459dc?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jul 21 |
+| **[Doll 10 Beauty](https://www.doll10.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/687e8c90764c3d7411c4431c?utm_campaign=Product%20Management&utm_source=1103)** | Newtown, PA | On Site | Jul 21 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/687e85e5db19f31cf0d6ad3b?utm_campaign=Product%20Management&utm_source=1103)** | Fultondale, AL | On Site | Jul 21 |
 | **[Red Ventures](http://www.redventures.com)** | **[Associate Product Manager / Lonely Planet](https://jobright.ai/jobs/info/687910d7ed63844c94498552?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 21 |
 | **[S&P Global](https://www.spglobal.com)** | **[Associate, Product Management & Development](https://jobright.ai/jobs/info/686229b18221679ca32e192e?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Jul 21 |
