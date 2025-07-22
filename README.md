@@ -139,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[The Asia Group](http://the-asia-group.com)** | **[TAG AI Product Coordinator](https://jobright.ai/jobs/info/6876cbad299cbc74b8760bcc?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | On Site | Jul 15 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Product Separator](https://jobright.ai/jobs/info/6876a255299cbc74b875ed72?utm_campaign=Product%20Management&utm_source=1103)** | Yonkers, NY | On Site | Jul 15 |
 | **[Xe.com](http://www.xe.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/686434ab3b01d176faa6feeb?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Jul 15 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6876c408ae2f413e4a5b35aa?utm_campaign=Product%20Management&utm_source=1103)** | Cape Girardeau, MO | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
