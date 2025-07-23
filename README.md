@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/6880d81cf4f06100f3a21525?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 23 |
+| **[Rivian](http://www.rivian.com)** | **[Product Manager, Digital Workplace & AI Solutions](https://jobright.ai/jobs/info/6880e7f629ad6b2744add090?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MI | On Site | Jul 23 |
 | **[Rivian and Volkswagen Group Technologies](https://www.rivianvw.tech)** | **[Product Manager, Digital Workplace & AI Solutions](https://jobright.ai/jobs/info/68805b972097a271a89a3608?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, Michigan | On Site | Jul 22 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6880720a2097a271a89a4ce0?utm_campaign=Product%20Management&utm_source=1103)** | La Mirada, CA | On Site | Jul 22 |
 | **[Kaiko](http://www.kaiko.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/68809f3229ad6b2744ada7db?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 22 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Alto Pharmacy](http://alto.com)** | **[Product Manager](https://jobright.ai/jobs/info/688050b69f72804245709457?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Colorado | Hybrid | Jul 22 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67f6af054e17ed218c44667b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jul 22 |
 | ↳ | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67f6f50c1001995c103f5b50?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jul 22 |
+| **[Mastercard](http://www.mastercard.com)** | **[Specialist, Product Management-R-252617](https://jobright.ai/jobs/info/68633cee38c14f703df063e5?utm_campaign=Product%20Management&utm_source=1103)** | Purchase, NY | Hybrid | Jul 22 |
 | **[SENKO Advanced Components, Inc.](http://senko.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68634e1fa95141c2a0f5011e?utm_campaign=Product%20Management&utm_source=1103)** | Poway, CA | Hybrid | Jul 22 |
 | **[Deckers Brands](http://deckers.com)** | **[Product Operations Coordinator - Emerging Brands](https://jobright.ai/jobs/info/68478aa15ea3c85dd1485eba?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | Hybrid | Jul 22 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18hr + Commission)](https://jobright.ai/jobs/info/68805de8764c3d7411c52053?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Jul 22 |
