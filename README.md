@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Management Analyst](https://jobright.ai/jobs/info/6881011d16ea5743a3734e1e?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA | On Site | Jul 23 |
+| **[The Vermont Country Store](http://vermontcountrystore.com)** | **[Product Buyer Assistant](https://jobright.ai/jobs/info/688101b1f4f06100f3a22ef1?utm_campaign=Product%20Management&utm_source=1103)** | Manchester, VT | Hybrid | Jul 23 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/6880d81cf4f06100f3a21525?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 23 |
+| **[Snap Inc.](https://careers.snap.com/)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/6880f34616ea5743a373451a?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Rivian](http://www.rivian.com)** | **[Product Manager, Digital Workplace & AI Solutions](https://jobright.ai/jobs/info/6880e7f629ad6b2744add090?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MI | On Site | Jul 23 |
 | **[Rivian and Volkswagen Group Technologies](https://www.rivianvw.tech)** | **[Product Manager, Digital Workplace & AI Solutions](https://jobright.ai/jobs/info/68805b972097a271a89a3608?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, Michigan | On Site | Jul 22 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6880720a2097a271a89a4ce0?utm_campaign=Product%20Management&utm_source=1103)** | La Mirada, CA | On Site | Jul 22 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Blick Art Materials](https://www.dickblick.com)** | **[Product Information Specialist I](https://jobright.ai/jobs/info/685c317e70d50b3beefc3acf?utm_campaign=Product%20Management&utm_source=1103)** | Galesburg, IL | Hybrid | Jul 22 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/688056739f728042457099af?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, California | On Site | Jul 22 |
 | **[Alto Pharmacy](http://alto.com)** | **[Product Manager](https://jobright.ai/jobs/info/688050b69f72804245709457?utm_campaign=Product%20Management&utm_source=1103)** | Remote - Colorado | Hybrid | Jul 22 |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Analyst - Product Project Management](https://jobright.ai/jobs/info/6880f328f4f06100f3a22557?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 22 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67f6af054e17ed218c44667b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jul 22 |
 | ↳ | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67f6f50c1001995c103f5b50?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jul 22 |
 | **[Mastercard](http://www.mastercard.com)** | **[Specialist, Product Management-R-252617](https://jobright.ai/jobs/info/68633cee38c14f703df063e5?utm_campaign=Product%20Management&utm_source=1103)** | Purchase, NY | Hybrid | Jul 22 |
@@ -145,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Remitly](http://www.remitly.com)** | **[Product Analyst I, Verifications ( Identity & Trust)](https://jobright.ai/jobs/info/688063822097a271a89a3f02?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Jul 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Associate, Product Operations (Raw Material)](https://jobright.ai/jobs/info/68785bbeae2f413e4a5c1d36?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo, NY | On Site | Jul 16 |
 | **[UBS](https://www.ubs.com)** | **[Product Manager, Digital Client Platforms](https://jobright.ai/jobs/info/687b9cf9764c3d7411c3430c?utm_campaign=Product%20Management&utm_source=1103)** | Weehawken, NJ | On Site | Jul 16 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6878453b866a435525ab7cb0?utm_campaign=Product%20Management&utm_source=1103)** | Sturtevant, WI | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
