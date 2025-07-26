@@ -81,6 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Casey's](https://www.caseys.com/)** | **[Associate Product Master Data Specialist](https://jobright.ai/jobs/info/68832b2cb54cac0f1e7365f9?utm_campaign=Product%20Management&utm_source=1103)** | Ankeny, IA | On Site | Jul 24 |
 | ↳ | **[Associate Product Master Data Specialist](https://jobright.ai/jobs/info/688333cc835a903aa07f4d69?utm_campaign=Product%20Management&utm_source=1103)** | Ankeny, IA | On Site | Jul 24 |
 | **[Benchling](https://www.benchling.com)** | **[Product Manager, Developer Productivity](https://jobright.ai/jobs/info/6882ec6c835a903aa07f1854?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 24 |
+| **[Universal Instruments Corporation](http://www.uic.com/)** | **[Product Manager I](https://jobright.ai/jobs/info/6884483dfbbf032d00066b2d?utm_campaign=Product%20Management&utm_source=1103)** | Conklin, NY | On Site | Jul 24 |
+| **[Hover-Davis](http://www.hoverdavis.com/)** | **[Product Manager I](https://jobright.ai/jobs/info/68844293b651c92cb78a5a8b?utm_campaign=Product%20Management&utm_source=1103)** | Conklin, NY | On Site | Jul 24 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Product Master Data Assistant](https://jobright.ai/jobs/info/6883f76a835a903aa07f96a0?utm_campaign=Product%20Management&utm_source=1103)** | 5600 Avenida Encinas, Carlsbad, CA 92008, USA | On Site | Jul 24 |
 | **[Benchling](https://www.benchling.com)** | **[Product Manager, Developer Productivity](https://jobright.ai/jobs/info/6882cfdcb54cac0f1e732dc6?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 24 |
 | **[Maverick Payments](https://www.MaverickPayments.com)** | **[Product Operations Associate I](https://jobright.ai/jobs/info/6882f7dc835a903aa07f203c?utm_campaign=Product%20Management&utm_source=1103)** | Calabasas, CA | On Site | Jul 24 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 1 - Checkout Experience (Hybrid - Seattle)](https://jobright.ai/jobs/info/68814e7af4f06100f3a25e8d?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Jul 23 |
 | **[Custom Ink](https://www.customink.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/688134e416ea5743a37372b2?utm_campaign=Product%20Management&utm_source=1103)** | Ohio, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/688134c516ea5743a373729e?utm_campaign=Product%20Management&utm_source=1103)** | Detroit, MI | Remote | Jul 23 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881343d16ea5743a373724e?utm_campaign=Product%20Management&utm_source=1103)** | Louisiana, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881343d16ea5743a373724f?utm_campaign=Product%20Management&utm_source=1103)** | Indiana, United States | Remote | Jul 23 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881343d16ea5743a373724e?utm_campaign=Product%20Management&utm_source=1103)** | Louisiana, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68813386f4f06100f3a25113?utm_campaign=Product%20Management&utm_source=1103)** | West Virginia, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881336829ad6b2744ae0322?utm_campaign=Product%20Management&utm_source=1103)** | New Mexico, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/688132d6f4f06100f3a250b7?utm_campaign=Product%20Management&utm_source=1103)** | Delaware, United States | Remote | Jul 23 |
@@ -125,9 +127,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881303a29ad6b2744ae003e?utm_campaign=Product%20Management&utm_source=1103)** | Tennessee, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68814e8929ad6b2744ae1070?utm_campaign=Product%20Management&utm_source=1103)** | North Carolina, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68814cb029ad6b2744ae0f15?utm_campaign=Product%20Management&utm_source=1103)** | Georgia, United States | Remote | Jul 23 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/688159cd16ea5743a37387ca?utm_campaign=Product%20Management&utm_source=1103)** | Oregon, United States | Remote | Jul 23 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881557cf4f06100f3a2629b?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68815855f4f06100f3a26467?utm_campaign=Product%20Management&utm_source=1103)** | California, United States | Remote | Jul 23 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881557cf4f06100f3a2629b?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | Remote | Jul 23 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/688159cd16ea5743a37387ca?utm_campaign=Product%20Management&utm_source=1103)** | Oregon, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881536829ad6b2744ae14fa?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881544af4f06100f3a261d0?utm_campaign=Product%20Management&utm_source=1103)** | Pennsylvania, United States | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881516029ad6b2744ae1238?utm_campaign=Product%20Management&utm_source=1103)** | Wisconsin, United States | Remote | Jul 23 |
@@ -151,18 +153,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/688111abf4f06100f3a238b0?utm_campaign=Product%20Management&utm_source=1103)** | Pennsylvania - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/688111a2f4f06100f3a238a1?utm_campaign=Product%20Management&utm_source=1103)** | Maine - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68811194f4f06100f3a23889?utm_campaign=Product%20Management&utm_source=1103)** | Arizona - Remote | Remote | Jul 23 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881118ff4f06100f3a2387e?utm_campaign=Product%20Management&utm_source=1103)** | Maryland - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881118ff4f06100f3a2387f?utm_campaign=Product%20Management&utm_source=1103)** | Delaware - Remote | Remote | Jul 23 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68811189f4f06100f3a23874?utm_campaign=Product%20Management&utm_source=1103)** | Tennessee - Remote | Remote | Jul 23 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881118ff4f06100f3a2387e?utm_campaign=Product%20Management&utm_source=1103)** | Maryland - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68811189f4f06100f3a23876?utm_campaign=Product%20Management&utm_source=1103)** | Rhode Island - Remote | Remote | Jul 23 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881118316ea5743a37359c1?utm_campaign=Product%20Management&utm_source=1103)** | Mississippi - Remote | Remote | Jul 23 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68811189f4f06100f3a23874?utm_campaign=Product%20Management&utm_source=1103)** | Tennessee - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881118316ea5743a37359c2?utm_campaign=Product%20Management&utm_source=1103)** | Illinois - Remote | Remote | Jul 23 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881118316ea5743a37359c1?utm_campaign=Product%20Management&utm_source=1103)** | Mississippi - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68811179f4f06100f3a23861?utm_campaign=Product%20Management&utm_source=1103)** | New Jersey - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881117816ea5743a37359ad?utm_campaign=Product%20Management&utm_source=1103)** | California - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881117816ea5743a37359ac?utm_campaign=Product%20Management&utm_source=1103)** | Utah- Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881116b29ad6b2744adebf8?utm_campaign=Product%20Management&utm_source=1103)** | Georgia - Remote | Remote | Jul 23 |
-| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881115b29ad6b2744adebd8?utm_campaign=Product%20Management&utm_source=1103)** | Indiana - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881115b29ad6b2744adebdb?utm_campaign=Product%20Management&utm_source=1103)** | Colorado - Remote | Remote | Jul 23 |
+| ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881115b29ad6b2744adebd8?utm_campaign=Product%20Management&utm_source=1103)** | Indiana - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881115b16ea5743a3735969?utm_campaign=Product%20Management&utm_source=1103)** | Detroit - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881114129ad6b2744adebab?utm_campaign=Product%20Management&utm_source=1103)** | New Mexico - Remote | Remote | Jul 23 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/6881112e29ad6b2744adeb8c?utm_campaign=Product%20Management&utm_source=1103)** | Oregon - Remote | Remote | Jul 23 |
@@ -183,11 +185,10 @@ For a complete list, click the following sortable link below:
 | **[Snap Inc.](https://careers.snap.com/)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/6880f34616ea5743a373451a?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jul 23 |
 | **[National Debt Relief, LLC](http://www.nationaldebtrelief.com)** | **[Associate Product Manager (Technical)](https://jobright.ai/jobs/info/6863515f060dab0b62ab65f3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 23 |
 | **[JDI Distribution](https://www.jdidistribution.com)** | **[Product Lister](https://jobright.ai/jobs/info/6881926016ea5743a373a047?utm_campaign=Product%20Management&utm_source=1103)** | Redlands, CA | On Site | Jul 23 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18hr + Commission)](https://jobright.ai/jobs/info/6881bfcbee15177ae9716b2c?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Jul 22 |
 | **[Rivian and Volkswagen Group Technologies](https://www.rivianvw.tech)** | **[Product Manager, Digital Workplace & AI Solutions](https://jobright.ai/jobs/info/68805b972097a271a89a3608?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, Michigan | On Site | Jul 22 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18hr + Commission)](https://jobright.ai/jobs/info/68843f8eb651c92cb78a571d?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Jul 22 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Product Management Specialist II](https://jobright.ai/jobs/info/6881d14841fbda106ee6d6bf?utm_campaign=Product%20Management&utm_source=1103)** | Fort Collins, CO | On Site | Jul 22 |
 | **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/6881149d29ad6b2744aded6c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jul 22 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/68814a76f4f06100f3a25c6d?utm_campaign=Product%20Management&utm_source=1103)** | Warrenton, OR | On Site | Jul 22 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6880720a2097a271a89a4ce0?utm_campaign=Product%20Management&utm_source=1103)** | La Mirada, CA | On Site | Jul 22 |
 | **[Kaiko](http://www.kaiko.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/68809f3229ad6b2744ada7db?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 22 |
 | **[Blick Art Materials](https://www.dickblick.com)** | **[Product Information Specialist I](https://jobright.ai/jobs/info/685c317e70d50b3beefc3acf?utm_campaign=Product%20Management&utm_source=1103)** | Galesburg, IL | Hybrid | Jul 22 |
