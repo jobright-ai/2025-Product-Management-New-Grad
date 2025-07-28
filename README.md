@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Puffy](https://puffy.com)** | **[AI Product Analyst (Relocate to Dubai to build an AI-native global brand)](https://jobright.ai/jobs/info/68872546fbbf032d00072c86?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 28 |
 | **[Tarro](https://www.tarro.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/684d63723812082309cbfeac?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | Hybrid | Jul 27 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Data Management Specialist](https://jobright.ai/jobs/info/68867e17fbbf032d00070253?utm_campaign=Product%20Management&utm_source=1103)** | USA - Oklahoma City, OK | On Site | Jul 27 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Data Management Specialist](https://jobright.ai/jobs/info/68867e974174df41e0f9a3fe?utm_campaign=Product%20Management&utm_source=1103)** | USA - Oklahoma City, OK | On Site | Jul 27 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[1371 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6885af9f4174df41e0f98419?utm_campaign=Product%20Management&utm_source=1103)** | Tomball, TX | On Site | Jul 27 |
 | ↳ | **[850 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6886f2f9b651c92cb78b0a14?utm_campaign=Product%20Management&utm_source=1103)** | Garland, TX | On Site | Jul 27 |
 | **[Supermicro](http://www.supermicro.com)** | **[Chassis Product Manager](https://jobright.ai/jobs/info/6848fa6cd025b78e83f30c21?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 27 |
@@ -81,8 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/688420776fcd973d15ae5ad0?utm_campaign=Product%20Management&utm_source=1103)** | Nashville, TN | On Site | Jul 25 |
 | **[Lexipol](https://www.lexipol.com/)** | **[Product Manager](https://jobright.ai/jobs/info/688401ec835a903aa07f996e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 25 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Product Master Data Assistant](https://jobright.ai/jobs/info/6883f594b54cac0f1e73b44d?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Jul 25 |
-| **[Salesforce](https://www.salesforce.com)** | **[Associate Product Manager (starting summer 2026)](https://jobright.ai/jobs/info/6883f4de835a903aa07f94df?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 25 |
-| ↳ | **[Associate Product Manager (starting summer 2026)](https://jobright.ai/jobs/info/6883ecac835a903aa07f8eb0?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | Hybrid | Jul 25 |
+| **[Salesforce](https://www.salesforce.com)** | **[Associate Product Manager (starting summer 2026)](https://jobright.ai/jobs/info/6883ecac835a903aa07f8eb0?utm_campaign=Product%20Management&utm_source=1103)** | California - San Francisco | Hybrid | Jul 25 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Analyst, Experimentation](https://jobright.ai/jobs/info/6883ec81835a903aa07f8e7f?utm_campaign=Product%20Management&utm_source=1103)** | NY New York 30 Hudson Yards | Hybrid | Jul 25 |
 | ↳ | **[Analyst, Experimentation](https://jobright.ai/jobs/info/6883eb8eb54cac0f1e73adb1?utm_campaign=Product%20Management&utm_source=1103)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Jul 25 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Analyst - Product Management](https://jobright.ai/jobs/info/6883ead7835a903aa07f8d5d?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Jul 25 |
@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Manager - Partnerships Trade Credit](https://jobright.ai/jobs/info/6865c9b6caf5fdf6e88a7b25?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jul 25 |
 | **[Casey's](https://www.caseys.com/)** | **[Associate Product Master Data Specialist](https://jobright.ai/jobs/info/68832b2cb54cac0f1e7365f9?utm_campaign=Product%20Management&utm_source=1103)** | Ankeny, IA | On Site | Jul 24 |
 | ↳ | **[Associate Product Master Data Specialist](https://jobright.ai/jobs/info/688333cc835a903aa07f4d69?utm_campaign=Product%20Management&utm_source=1103)** | Ankeny, IA | On Site | Jul 24 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/68870f50b651c92cb78b1d48?utm_campaign=Product%20Management&utm_source=1103)** | Summerville, SC | On Site | Jul 24 |
 | **[Benchling](https://www.benchling.com)** | **[Product Manager, Developer Productivity](https://jobright.ai/jobs/info/6882ec6c835a903aa07f1854?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 24 |
 | **[Universal Instruments Corporation](http://www.uic.com/)** | **[Product Manager I](https://jobright.ai/jobs/info/6884483dfbbf032d00066b2d?utm_campaign=Product%20Management&utm_source=1103)** | Conklin, NY | On Site | Jul 24 |
 | **[Hover-Davis](http://www.hoverdavis.com/)** | **[Product Manager I](https://jobright.ai/jobs/info/68844293b651c92cb78a5a8b?utm_campaign=Product%20Management&utm_source=1103)** | Conklin, NY | On Site | Jul 24 |
@@ -143,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18hr + Commission)](https://jobright.ai/jobs/info/6881bfcbee15177ae9716b2c?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Jul 22 |
 | **[Rivian and Volkswagen Group Technologies](https://www.rivianvw.tech)** | **[Product Manager, Digital Workplace & AI Solutions](https://jobright.ai/jobs/info/68805b972097a271a89a3608?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, Michigan | On Site | Jul 22 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Product Management Specialist II](https://jobright.ai/jobs/info/6881d14841fbda106ee6d6bf?utm_campaign=Product%20Management&utm_source=1103)** | Fort Collins, CO | On Site | Jul 22 |
-| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/68814a76f4f06100f3a25c6d?utm_campaign=Product%20Management&utm_source=1103)** | Warrenton, OR | On Site | Jul 22 |
-| ↳ | **[Product Representative](https://jobright.ai/jobs/info/6881149d29ad6b2744aded6c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jul 22 |
+| **[Renuity](http://renuityhome.com/)** | **[Product Representative](https://jobright.ai/jobs/info/6881149d29ad6b2744aded6c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jul 22 |
+| ↳ | **[Product Representative](https://jobright.ai/jobs/info/68814a76f4f06100f3a25c6d?utm_campaign=Product%20Management&utm_source=1103)** | Warrenton, OR | On Site | Jul 22 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6880720a2097a271a89a4ce0?utm_campaign=Product%20Management&utm_source=1103)** | La Mirada, CA | On Site | Jul 22 |
 | **[Kaiko](http://www.kaiko.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/68809f3229ad6b2744ada7db?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 22 |
 | **[Blick Art Materials](https://www.dickblick.com)** | **[Product Information Specialist I](https://jobright.ai/jobs/info/685c317e70d50b3beefc3acf?utm_campaign=Product%20Management&utm_source=1103)** | Galesburg, IL | Hybrid | Jul 22 |
@@ -168,5 +167,4 @@ For a complete list, click the following sortable link below:
 | **[Zoro.com](http://zoro.com)** | **[Associate Category Manager](https://jobright.ai/jobs/info/687e954c764c3d7411c44962?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jul 21 |
 | ↳ | **[Associate Category Manager](https://jobright.ai/jobs/info/687e90bcdb19f31cf0d6b29b?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Jul 21 |
 | **[TBWA\Chiat\Day](http://tbwachiatday.com)** | **[Analyst, Product Integration](https://jobright.ai/jobs/info/687eb46f764c3d7411c459dc?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jul 21 |
-| **[Red Ventures](http://www.redventures.com)** | **[Associate Product Manager / Lonely Planet](https://jobright.ai/jobs/info/687910d7ed63844c94498552?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
