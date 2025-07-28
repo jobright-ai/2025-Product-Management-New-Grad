@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beyond Finance](http://www.beyondfinance.com)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/67f1c456ee915c106e6a7386?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
 | **[Puffy](https://puffy.com)** | **[AI Product Analyst (Relocate to Dubai to build an AI-native global brand)](https://jobright.ai/jobs/info/68872546fbbf032d00072c86?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 28 |
 | **[Tarro](https://www.tarro.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/684d63723812082309cbfeac?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | Hybrid | Jul 27 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Data Management Specialist](https://jobright.ai/jobs/info/68867e974174df41e0f9a3fe?utm_campaign=Product%20Management&utm_source=1103)** | USA - Oklahoma City, OK | On Site | Jul 27 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Analyst, Experimentation](https://jobright.ai/jobs/info/6884333eb54cac0f1e73cc29?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 25 |
 | **[Optimum Financial Group](https://www.groupe-optimum.com/fr)** | **[Product Analyst I](https://jobright.ai/jobs/info/688457944174df41e0f91e09?utm_campaign=Product%20Management&utm_source=1103)** | Bethpage, NY | On Site | Jul 25 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Analyst, Experimentation](https://jobright.ai/jobs/info/68842cf5835a903aa07fa9bf?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Jul 25 |
+| **[Salesforce](https://www.salesforce.com)** | **[Associate Product Manager (starting summer 2026)](https://jobright.ai/jobs/info/688776ecfbbf032d000743ef?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Jul 25 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/688420776fcd973d15ae5ad0?utm_campaign=Product%20Management&utm_source=1103)** | Nashville, TN | On Site | Jul 25 |
 | **[Lexipol](https://www.lexipol.com/)** | **[Product Manager](https://jobright.ai/jobs/info/688401ec835a903aa07f996e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 25 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Product Master Data Assistant](https://jobright.ai/jobs/info/6883f594b54cac0f1e73b44d?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Jul 25 |
