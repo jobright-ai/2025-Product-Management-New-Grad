@@ -162,7 +162,4 @@ For a complete list, click the following sortable link below:
 | **[mdxhealth](http://mdxhealth.com)** | **[Product Development Associate I](https://jobright.ai/jobs/info/68823c406fcd973d15ad7980?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Jul 22 |
 | **[SENKO Advanced Components, Inc.](http://senko.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68634e1fa95141c2a0f5011e?utm_campaign=Product%20Management&utm_source=1103)** | Poway, CA | Hybrid | Jul 22 |
 | **[Deckers Brands](http://deckers.com)** | **[Product Operations Coordinator - Emerging Brands](https://jobright.ai/jobs/info/68478aa15ea3c85dd1485eba?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | Hybrid | Jul 22 |
-| **[Xpansiv](https://www.xpansiv.com)** | **[Product Manager](https://jobright.ai/jobs/info/6885b525fbbf032d0006e591?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Jul 22 |
-| **[Nelnet](https://nelnetinc.com)** | **[FACTS SIS K-12 Product Owner](https://jobright.ai/jobs/info/685deefb2fb4aba079998b8e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 22 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Business Cards & Payments](https://jobright.ai/jobs/info/6844dcf1fb8614e5d22fa09a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
