@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optiwatt](https://getoptiwatt.com/)** | **[Founding Consumer Product Analyst](https://jobright.ai/jobs/info/688a1c1a9f961617fe219742?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Jul 30 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c8bfaab47a17f6705979?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jul 30 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c88caab47a17f6705965?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 30 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c6d209808a6103e4b7b9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 30 |
@@ -141,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[West Elm](https://www.westelm.com/)** | **[Product Operations Coordinator - West Elm](https://jobright.ai/jobs/info/688273beb54cac0f1e72fa1b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 24 |
 | **[PTC](http://www.ptc.com)** | **[Associate Product Manager - Retail](https://jobright.ai/jobs/info/685626a1976f7ca2097c72f2?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Jul 24 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Product Operations Coordinator - West Elm](https://jobright.ai/jobs/info/688266ae835a903aa07ed3df?utm_campaign=Product%20Management&utm_source=1103)** | West Elm, 3rd Floor, Brooklyn, NY, 11201, US | On Site | Jul 24 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/6887b4bb73e3e13cbd93f66f?utm_campaign=Product%20Management&utm_source=1103)** | Summerville, SC | On Site | Jul 24 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT PRICING ANALYST II](https://jobright.ai/jobs/info/688245d56fcd973d15ad7d1e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 24 |
 | **[Rent-A-Center](https://www.rentacenter.com)** | **[Representante de Cuentas con Entrega de Productos](https://jobright.ai/jobs/info/68499f74c718e5370c51c398?utm_campaign=Product%20Management&utm_source=1103)** | Santa Isabel, CO | On Site | Jul 24 |
 | **[Go Port](https://www.goport.com/)** | **[Technical Product Manager](https://jobright.ai/jobs/info/688246bc835a903aa07ec480?utm_campaign=Product%20Management&utm_source=1103)** | Merritt Island, FL | On Site | Jul 24 |
@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/684845d28e2810eee5d6a9f8?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS | On Site | Jul 24 |
 | **[Rivian](http://www.rivian.com)** | **[Product Manager, Digital Workplace & AI Solutions](https://jobright.ai/jobs/info/6889b8d809808a6103e4ad4a?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, MI | On Site | Jul 23 |
 | **[enGen](https://goengen.com)** | **[Associate Product Owner](https://jobright.ai/jobs/info/68831c2b6fcd973d15adf52b?utm_campaign=Product%20Management&utm_source=1103)** | Erie-Meadville Area | On Site | Jul 23 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Product Manager 1 - Checkout Experience (Hybrid - Seattle)](https://jobright.ai/jobs/info/6881616029ad6b2744ae1b2e?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
