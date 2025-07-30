@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Trade Desk](http://thetradedesk.com)** | **[Product Manager II](https://jobright.ai/jobs/info/688a8f2f09808a6103e4fb8d?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Jul 30 |
 | **[BNY](https://www.bny.com)** | **[Associate, Product Management II](https://jobright.ai/jobs/info/688a761baab47a17f6708f05?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 30 |
 | ↳ | **[Associate,  Product Management II](https://jobright.ai/jobs/info/688a6db79f961617fe21b848?utm_campaign=Product%20Management&utm_source=1103)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Jul 30 |
 | **[ATEC Spine](https://atecspine.com)** | **[Product Manager, Robotics & Navigation](https://jobright.ai/jobs/info/688a642609808a6103e4e423?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Jul 30 |
