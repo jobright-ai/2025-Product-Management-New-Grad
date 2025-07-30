@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNY](https://www.bny.com)** | **[Associate, Product Management II](https://jobright.ai/jobs/info/688a761baab47a17f6708f05?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 30 |
+| ↳ | **[Associate,  Product Management II](https://jobright.ai/jobs/info/688a6db79f961617fe21b848?utm_campaign=Product%20Management&utm_source=1103)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Jul 30 |
+| **[ATEC Spine](https://atecspine.com)** | **[Product Manager, Robotics & Navigation](https://jobright.ai/jobs/info/688a642609808a6103e4e423?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Jul 30 |
 | **[G/FORE](https://www.gfore.com)** | **[G/FORE Product Development Assistant](https://jobright.ai/jobs/info/688a5c729f961617fe21afc8?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jul 30 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Product Manager](https://jobright.ai/jobs/info/688a5b0eaab47a17f670824d?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Jul 30 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[G/FORE Product Development Assistant](https://jobright.ai/jobs/info/688a57fbaab47a17f6708003?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jul 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Product Associate, Enterprise Application Solutions](https://jobright.ai/jobs/info/688a50619f961617fe21aa86?utm_campaign=Product%20Management&utm_source=1103)** | 10 S Dearborn St, Chicago, IL, 60603, US | On Site | Jul 30 |
 | **[Chase](https://www.chase.com/)** | **[Product Associate, Enterprise Application Solutions](https://jobright.ai/jobs/info/688a4a969f961617fe21a7fa?utm_campaign=Product%20Management&utm_source=1103)** | 10 S Dearborn St, Chicago, IL, 60603, US | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Anti-Fraud Strategy Product Manager Graduate (TikTok Shop - Governance & Experience) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/688a39ad09808a6103e4d1cf?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Jul 30 |
+| **[Paradigm Senior Services](https://www.paradigmseniors.com/)** | **[Product Analyst - Healthcare SaaS](https://jobright.ai/jobs/info/67ddf8f77ce2c24e4f46c248?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Jul 30 |
 | **[Optiwatt](https://getoptiwatt.com/)** | **[Founding Consumer Product Analyst](https://jobright.ai/jobs/info/688a1c1a9f961617fe219742?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Jul 30 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c8bfaab47a17f6705979?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jul 30 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c88caab47a17f6705965?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 30 |
@@ -151,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok-Product-Social and Creation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6879d035ed63844c9449e5c5?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 24 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Manager - Partnerships Trade Credit](https://jobright.ai/jobs/info/6865c9b6caf5fdf6e88a7ace?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jul 24 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/684845d28e2810eee5d6a9f8?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS | On Site | Jul 24 |
-| **[enGen](https://goengen.com)** | **[Associate Product Owner](https://jobright.ai/jobs/info/68831c2b6fcd973d15adf52b?utm_campaign=Product%20Management&utm_source=1103)** | Erie-Meadville Area | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
