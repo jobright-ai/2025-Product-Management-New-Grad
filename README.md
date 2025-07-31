@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benchling](https://www.benchling.com)** | **[Product Manager, Developer Productivity](https://jobright.ai/jobs/info/6882ec6c835a903aa07f1854?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 31 |
 | **[NA](http://schnadig.com)** | **[Associate, Product Management II](https://jobright.ai/jobs/info/688b3bfd1808534a89cb1ba7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 31 |
 | **[Mastercard](http://www.mastercard.com)** | **[Specialist, Product Management](https://jobright.ai/jobs/info/68887eb727fa3c629236804e?utm_campaign=Product%20Management&utm_source=1103)** | Purchase, NY | On Site | Jul 31 |
 | **[Chase](https://www.chase.com/)** | **[Product Implementation Analyst](https://jobright.ai/jobs/info/688a9e32aab47a17f670a410?utm_campaign=Product%20Management&utm_source=1103)** | 4201 Congress St, Charlotte, NC, 28209, US | On Site | Jul 31 |
-| **[Benchling](https://www.benchling.com)** | **[Product Manager, Developer Productivity](https://jobright.ai/jobs/info/6882ec6c835a903aa07f1854?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 31 |
 | **[Old National Bank](http://www.oldnational.com)** | **[Platform Product Analyst](https://jobright.ai/jobs/info/68891f7209808a6103e45280?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jul 31 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c6d209808a6103e4b7b9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 31 |
 | **[Chase](https://www.chase.com/)** | **[Product Associate, Enterprise Application Solutions](https://jobright.ai/jobs/info/688a4a969f961617fe21a7fa?utm_campaign=Product%20Management&utm_source=1103)** | 10 S Dearborn St, Chicago, IL, 60603, US | On Site | Jul 31 |
@@ -155,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Product Management Analyst](https://jobright.ai/jobs/info/688153ce29ad6b2744ae1534?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA | On Site | Jul 24 |
 | **[Jennifer Fisher Jewelry](https://jenniferfisherjewelry.com/)** | **[Associate, Product Development (Jennifer Fisher Fine Jewelry)](https://jobright.ai/jobs/info/68813adb29ad6b2744ae06f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 24 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/6880d81cf4f06100f3a21525?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 24 |
-| **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/68828ce2835a903aa07eeb7c?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
