@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hanna Andersson](http://www.hannaandersson.com)** | **[Associate, Merchandise Operations](https://jobright.ai/jobs/info/688ad7099f961617fe21e74c?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | On Site | Jul 30 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[Product Manager II](https://jobright.ai/jobs/info/688ac4f99f961617fe21e0ce?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Jul 30 |
 | **[Hanna Andersson](http://www.hannaandersson.com)** | **[Associate, Merchandise Operations](https://jobright.ai/jobs/info/688ac32109808a6103e511c8?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Jul 30 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[Product Manager II](https://jobright.ai/jobs/info/688a8f2f09808a6103e4fb8d?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Jul 30 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Anti-Fraud Strategy Product Manager Graduate (TikTok Shop - Governance & Experience) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/688a39ad09808a6103e4d1cf?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Jul 30 |
 | **[Paradigm Senior Services](https://www.paradigmseniors.com/)** | **[Product Analyst - Healthcare SaaS](https://jobright.ai/jobs/info/67ddf8f77ce2c24e4f46c248?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Jul 30 |
 | **[Optiwatt](https://getoptiwatt.com/)** | **[Founding Consumer Product Analyst](https://jobright.ai/jobs/info/688a1c1a9f961617fe219742?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Jul 30 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/688adf5309808a6103e51d3e?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Jul 30 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c8bfaab47a17f6705979?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jul 30 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c88caab47a17f6705965?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 30 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c6d209808a6103e4b7b9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 30 |
