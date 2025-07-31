@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Trade Desk](http://thetradedesk.com)** | **[Product Manager II](https://jobright.ai/jobs/info/688ac4f99f961617fe21e0ce?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Jul 30 |
+| **[Hanna Andersson](http://www.hannaandersson.com)** | **[Associate, Merchandise Operations](https://jobright.ai/jobs/info/688ac32109808a6103e511c8?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Jul 30 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[Product Manager II](https://jobright.ai/jobs/info/688a8f2f09808a6103e4fb8d?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Jul 30 |
 | **[BNY](https://www.bny.com)** | **[Associate, Product Management II](https://jobright.ai/jobs/info/688a761baab47a17f6708f05?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 30 |
 | ↳ | **[Associate,  Product Management II](https://jobright.ai/jobs/info/688a6db79f961617fe21b848?utm_campaign=Product%20Management&utm_source=1103)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Jul 30 |
@@ -72,8 +74,10 @@ For a complete list, click the following sortable link below:
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c8bfaab47a17f6705979?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jul 30 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c88caab47a17f6705965?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 30 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c6d209808a6103e4b7b9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 30 |
+| **[Mattel, Inc.](http://www.mattel.com)** | **[Space Insights Analyst](https://jobright.ai/jobs/info/6850bb921091b631468ac542?utm_campaign=Product%20Management&utm_source=1103)** | El Segundo, CA | On Site | Jul 29 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor-2](https://jobright.ai/jobs/info/68896e6909808a6103e47585?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Jul 29 |
-| ↳ | **[Product Specialist Advisor-2](https://jobright.ai/jobs/info/68893f5f9f961617fe2130b2?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Jul 29 |
+| **[SpaceX](https://www.spacex.com)** | **[Starlink Localization Associate, Product Growth](https://jobright.ai/jobs/info/68510dff3fa9df254f03778c?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Jul 29 |
+| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor-2](https://jobright.ai/jobs/info/68893f5f9f961617fe2130b2?utm_campaign=Product%20Management&utm_source=1103)** | Roseville, CA | On Site | Jul 29 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Data Management Specialist](https://jobright.ai/jobs/info/68893c3809808a6103e460e4?utm_campaign=Product%20Management&utm_source=1103)** | Oklahoma City, OK | On Site | Jul 29 |
 | **[Scientia Vascular](https://www.scientiavascular.com)** | **[Product Builder](https://jobright.ai/jobs/info/68892fe009808a6103e459b3?utm_campaign=Product%20Management&utm_source=1103)** | West Valley City, UT | On Site | Jul 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager - October 2025 Start Date](https://jobright.ai/jobs/info/68892a7aaab47a17f66ff8cd?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Jul 29 |
@@ -152,7 +156,4 @@ For a complete list, click the following sortable link below:
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT PRICING ANALYST II](https://jobright.ai/jobs/info/688245d56fcd973d15ad7d1e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 24 |
 | **[Rent-A-Center](https://www.rentacenter.com)** | **[Representante de Cuentas con Entrega de Productos](https://jobright.ai/jobs/info/68499f74c718e5370c51c398?utm_campaign=Product%20Management&utm_source=1103)** | Santa Isabel, CO | On Site | Jul 24 |
 | **[Go Port](https://www.goport.com/)** | **[Technical Product Manager](https://jobright.ai/jobs/info/688246bc835a903aa07ec480?utm_campaign=Product%20Management&utm_source=1103)** | Merritt Island, FL | On Site | Jul 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok-Product-Social and Creation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6879d035ed63844c9449e5c5?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 24 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Manager - Partnerships Trade Credit](https://jobright.ai/jobs/info/6865c9b6caf5fdf6e88a7ace?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jul 24 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/684845d28e2810eee5d6a9f8?utm_campaign=Product%20Management&utm_source=1103)** | Kansas City, KS | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
