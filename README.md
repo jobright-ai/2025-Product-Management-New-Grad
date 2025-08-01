@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perry Ellis International](http://www.pery.com)** | **[Product Developer](https://jobright.ai/jobs/info/688cd1823a30793eb9646607?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Aug 01 |
+| **[Vuori](https://www.vuoriclothing.com/)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/68701a7e06ad7073463bb136?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate(Commerce Ads ) - 2026 (BS/MS)](https://jobright.ai/jobs/info/688c87ab1808534a89cbc81e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 01 |
 | **[Faraday Future](https://www.ff.com)** | **[Product Manager](https://jobright.ai/jobs/info/67f491c0d59cd29b655df159?utm_campaign=Product%20Management&utm_source=1103)** | Gardena, California, United States | On Site | Aug 01 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68844c8fb651c92cb78a63f6?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 01 |
@@ -167,5 +169,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Content Recommendation Strategy Product Manager Graduate (TikTok Content Ecosystem-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6885a4324174df41e0f978b5?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 25 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Analyst, Experimentation](https://jobright.ai/jobs/info/6884333eb54cac0f1e73cc29?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 25 |
 | ↳ | **[Analyst, Experimentation](https://jobright.ai/jobs/info/68842cf5835a903aa07fa9bf?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Jul 25 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/688420776fcd973d15ae5ad0?utm_campaign=Product%20Management&utm_source=1103)** | Nashville, TN | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
