@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate(Commerce Ads ) - 2026 (BS/MS)](https://jobright.ai/jobs/info/688c87ab1808534a89cbc81e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 01 |
 | **[Faraday Future](https://www.ff.com)** | **[Product Manager](https://jobright.ai/jobs/info/67f491c0d59cd29b655df159?utm_campaign=Product%20Management&utm_source=1103)** | Gardena, California, United States | On Site | Aug 01 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68844c8fb651c92cb78a63f6?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Associate- AI Solutions & Business Enablement](https://jobright.ai/jobs/info/68751a1e299cbc74b875208b?utm_campaign=Product%20Management&utm_source=1103)** | 383 Madison Ave, New York, NY, 10179, US | Hybrid | Jul 31 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[AXS](https://www.axs.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6876bd465cebcd1dd51cbebc?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, California | On Site | Jul 31 |
 | **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - AXS](https://jobright.ai/jobs/info/6876c64e299cbc74b87607d8?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jul 31 |
 | **[AXS](https://www.axs.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6877214d299cbc74b8763d6a?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Jul 31 |
-| **[UBS](https://www.ubs.com)** | **[Product Manager, Digital Client Platforms](https://jobright.ai/jobs/info/687b9cf9764c3d7411c3430c?utm_campaign=Product%20Management&utm_source=1103)** | Weehawken, NJ | On Site | Jul 31 |
 | **[West Elm](https://www.westelm.com/)** | **[Product Development Assistant - West Elm](https://jobright.ai/jobs/info/687939baa7fc8904e3960dfd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 31 |
 | **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright.ai/jobs/info/68007b2b1a8539f9ff936e4a?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Jul 31 |
 | **[Publicis Communications](http://www.publicisgroupe.com/en/services/services-publicis-communications-en)** | **[Senior Product Manager, Media Analytics](https://jobright.ai/jobs/info/687af97d764c3d7411c30488?utm_campaign=Product%20Management&utm_source=1103)** | Miami, Florida | Hybrid | Jul 31 |
@@ -114,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Chase](https://www.chase.com/)** | **[Product Implementation Analyst](https://jobright.ai/jobs/info/688a9e32aab47a17f670a410?utm_campaign=Product%20Management&utm_source=1103)** | 4201 Congress St, Charlotte, NC, 28209, US | On Site | Jul 31 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/6889c6d209808a6103e4b7b9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Jul 31 |
 | **[Chase](https://www.chase.com/)** | **[Product Associate, Enterprise Application Solutions](https://jobright.ai/jobs/info/688a4a969f961617fe21a7fa?utm_campaign=Product%20Management&utm_source=1103)** | 10 S Dearborn St, Chicago, IL, 60603, US | On Site | Jul 31 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - US Card](https://jobright.ai/jobs/info/6850b4517cb65033a70dd616?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Jul 31 |
 | **[Hanna Andersson](http://www.hannaandersson.com)** | **[Associate, Merchandise Operations](https://jobright.ai/jobs/info/688ad7099f961617fe21e74c?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | On Site | Jul 30 |
 | ↳ | **[Associate, Merchandise Operations](https://jobright.ai/jobs/info/688ac32109808a6103e511c8?utm_campaign=Product%20Management&utm_source=1103)** | Portland, OR | Hybrid | Jul 30 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68520626db5513fbb925e3a0?utm_campaign=Product%20Management&utm_source=1103)** | Longmont, CO | On Site | Jul 30 |
@@ -151,7 +152,7 @@ For a complete list, click the following sortable link below:
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[New Product Introduction Coordinator](https://jobright.ai/jobs/info/6887d5144174df41e0fa0f66?utm_campaign=Product%20Management&utm_source=1103)** | Wilmington, MA | On Site | Jul 28 |
 | **[Argo Group](http://www.argogroup.com)** | **[Product Systems Assistant](https://jobright.ai/jobs/info/68884ad14174df41e0fa476e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Jul 28 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6887b697fbbf032d00075da8?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, Washington | On Site | Jul 28 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Data Management Specialist](https://jobright.ai/jobs/info/6887df63fbbf032d00077141?utm_campaign=Product%20Management&utm_source=1103)** | USA - Oklahoma City, OK | On Site | Jul 28 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Data Management Specialist](https://jobright.ai/jobs/info/6887e0884174df41e0fa14c0?utm_campaign=Product%20Management&utm_source=1103)** | USA - Oklahoma City, OK | On Site | Jul 28 |
 | **[Salesforce](https://www.salesforce.com)** | **[Associate Product Manager (starting summer 2026)](https://jobright.ai/jobs/info/688791f673e3e13cbd93e78a?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 28 |
 | **[Full Circle Brands](https://www.fullcirclebrands.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6888975d9f961617fe20f1bc?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Jul 28 |
 | **[Puffy](https://puffy.com)** | **[AI Product Analyst (Relocate to Dubai to build an AI-native global brand)](https://jobright.ai/jobs/info/68872546fbbf032d00072c86?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Jul 28 |
@@ -180,6 +181,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst - Product Management](https://jobright.ai/jobs/info/6883e4376fcd973d15ae42d2?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Jul 25 |
 | **[Weee!](http://www.sayweee.com)** | **[Product Manager](https://jobright.ai/jobs/info/688131ec16ea5743a373709e?utm_campaign=Product%20Management&utm_source=1103)** | Fremont, California, United States | On Site | Jul 25 |
 | **[PURE Insurance](https://www.pureinsurance.com/index)** | **[Product Analyst (P&C)](https://jobright.ai/jobs/info/6866e95b184aaa777787aac6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Jul 25 |
-| **[Connection](http://www.pcconnection.com)** | **[Product Data Management Specialist](https://jobright.ai/jobs/info/6883f390835a903aa07f937a?utm_campaign=Product%20Management&utm_source=1103)** | Exton, PA | On Site | Jul 25 |
-| **[StepStone Group](https://www.stepstonegroup.com)** | **[Analyst - Product Management](https://jobright.ai/jobs/info/6883b8e46fcd973d15ae2a38?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore | La Jolla | Charlotte | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
