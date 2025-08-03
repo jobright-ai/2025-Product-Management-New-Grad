@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verisk](https://www.verisk.com)** | **[Product Configuration Analyst 1 / Prod Conf Analyst I (XW)](https://jobright.ai/jobs/info/685db0ade59184cc07334217?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT, United States | On Site | Aug 03 |
+| **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/68828a22835a903aa07ee976?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, Arizona, United States | Hybrid | Aug 03 |
+| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/686d506f9ef07cdd3d254540?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Aug 02 |
+| **[EliseAI](http://www.eliseai.com)** | **[Product Strategy & Operations Senior Associate - New Verticals](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21398?utm_campaign=Product%20Management&utm_source=1103)** | New York City | On Site | Aug 02 |
+| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/686e66719d6b16c9484093c6?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Aug 02 |
+| **[Chase](https://www.chase.com/)** | **[Associate- AI Solutions & Business Enablement](https://jobright.ai/jobs/info/6875313a299cbc74b8752ba5?utm_campaign=Product%20Management&utm_source=1103)** | 383 Madison Ave, New York, NY, 10179, US | On Site | Aug 02 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[Winchester - Product Management Specialist](https://jobright.ai/jobs/info/6886490fb651c92cb78af20c?utm_campaign=Product%20Management&utm_source=1103)** | Clayton, MO | On Site | Aug 02 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/688d82cee5cead4afd4560d1?utm_campaign=Product%20Management&utm_source=1103)** | Costa Mesa, CA | On Site | Aug 02 |
 | **[SimplyInsured](http://www.simplyinsured.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/688d43ab1808534a89cc2475?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 02 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Associate Product Manager](https://jobright.ai/jobs/info/688d63c01808534a89cc2f63?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 02 |
 | **[Keywords Studios](http://www.keywordsstudios.com)** | **[Product Planner](https://jobright.ai/jobs/info/688ec346e5cead4afd45d2b0?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Remote | Aug 02 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/6854a177536967a6bdc280a5?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 02 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[1244 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/688ef5d3cdbd821a36643d4c?utm_campaign=Product%20Management&utm_source=1103)** | Arnold, MO | On Site | Aug 02 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[834 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/688f0179e5cead4afd45f9c3?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, SC | On Site | Aug 02 |
+| ↳ | **[1244 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/688ef5d3cdbd821a36643d4c?utm_campaign=Product%20Management&utm_source=1103)** | Arnold, MO | On Site | Aug 02 |
 | ↳ | **[834 - Product Demonstrator](https://jobright.ai/jobs/info/688ee633e5cead4afd45e86e?utm_campaign=Product%20Management&utm_source=1103)** | Lexington, SC | On Site | Aug 02 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/687611b2ae2f413e4a5acb65?utm_campaign=Product%20Management&utm_source=1103)** | West Coxsackie, NY | On Site | Aug 02 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/688dba0dcdbd821a3663e784?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Aug 02 |
@@ -89,16 +96,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cef5927f9022553c07f12?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Iowa | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cef4a27f9022553c07ef7?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Alabama | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cef3f27f9022553c07ee9?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Minnesota | Hybrid | Aug 01 |
-| ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cef1f27f9022553c07eb4?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-District of Columbia | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cef1f27f9022553c07eb5?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Illinois | Hybrid | Aug 01 |
+| ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cef1f27f9022553c07eb4?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-District of Columbia | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cef0f1808534a89cbfc8f?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Virginia | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceefc1808534a89cbfc79?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Pennsylvania | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceef83a30793eb9647529?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Mississippi | Hybrid | Aug 01 |
-| ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceef727f9022553c07e73?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Ohio | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceef727f9022553c07e72?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Texas | Hybrid | Aug 01 |
+| ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceef727f9022553c07e73?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Ohio | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceef027f9022553c07e65?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Florida | Hybrid | Aug 01 |
-| ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceee91808534a89cbfc62?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Missouri | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceee91808534a89cbfc63?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Georgia | Hybrid | Aug 01 |
+| ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceee91808534a89cbfc62?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Missouri | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceee427f9022553c07e4b?utm_campaign=Product%20Management&utm_source=1103)** | CT - Work from home | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceed81808534a89cbfc49?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Oklahoma | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688ceed41808534a89cbfc3f?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-New York | Hybrid | Aug 01 |
@@ -127,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cee0d3a30793eb96473c0?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Oregon | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cee053a30793eb96473b4?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-South Carolina | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cee001808534a89cbfb04?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Maryland | Hybrid | Aug 01 |
-| ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cedf83a30793eb964739c?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Colorado | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cedf83a30793eb964739b?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Nebraska | Hybrid | Aug 01 |
+| ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cedf83a30793eb964739c?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-Colorado | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cedf03a30793eb964738f?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-New Hampshire | Hybrid | Aug 01 |
 | ↳ | **[Product Implementation Senior Analyst](https://jobright.ai/jobs/info/688cedd73a30793eb9647363?utm_campaign=Product%20Management&utm_source=1103)** | Work At Home-West Virginia | Hybrid | Aug 01 |
 | **[Perry Ellis International](http://www.pery.com)** | **[Product Developer](https://jobright.ai/jobs/info/688cd1823a30793eb9646607?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Aug 01 |
