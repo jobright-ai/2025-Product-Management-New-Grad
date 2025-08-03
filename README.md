@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/6854a177536967a6bdc280a5?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 02 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[834 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/688b078e9f961617fe2209db?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, SC | On Site | Aug 02 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[834 - Product Demonstrator](https://jobright.ai/jobs/info/68899ff39f961617fe216536?utm_campaign=Product%20Management&utm_source=1103)** | Lexington, SC | On Site | Aug 02 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/687611b2ae2f413e4a5acb65?utm_campaign=Product%20Management&utm_source=1103)** | West Coxsackie, NY | On Site | Aug 02 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/688dba0dcdbd821a3663e784?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Aug 02 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/688db9b5cdbd821a3663e756?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 02 |
@@ -158,6 +158,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate [TikTok-Product-Product Infrastructure]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/688c36281808534a89cb965d?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Jul 31 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/688c0d34906ac06e1d1d04aa?utm_campaign=Product%20Management&utm_source=1103)** | Mansfield, TX | On Site | Jul 31 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6852ade8dc95ed1bb9289612?utm_campaign=Product%20Management&utm_source=1103)** | Fountain, CO | On Site | Jul 31 |
+| ↳ | **[Product Specialist](https://jobright.ai/jobs/info/68520626db5513fbb925e3a1?utm_campaign=Product%20Management&utm_source=1103)** | Kingston, NY | On Site | Jul 31 |
 | **[Kaiko](http://www.kaiko.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/68809f3229ad6b2744ada7db?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Jul 31 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Governance Product Manager - Sr. Associate](https://jobright.ai/jobs/info/6881316b29ad6b2744ae0210?utm_campaign=Product%20Management&utm_source=1103)** | 575 Washington Blvd, Jersey City, NJ, 07310, US | On Site | Jul 31 |
 | **[Chase](https://www.chase.com/)** | **[Governance Product Manager - Sr. Associate](https://jobright.ai/jobs/info/68813196f4f06100f3a24f90?utm_campaign=Product%20Management&utm_source=1103)** | 575 Washington Blvd, Jersey City, NJ, 07310, US | On Site | Jul 31 |
