@@ -57,5 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Beyond Finance](http://www.beyondfinance.com)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/6896a4a58c6d6b44267840a5?utm_campaign=Product%20Management&utm_source=1103)** | Chicago | On Site | Aug 06 |
+| **[Hive](https://thehive.ai/)** | **[Product Analyst - Sports, Media, & Marketing](https://jobright.ai/jobs/info/6745d84317314312922bec8f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco | On Site | Aug 04 |
+| **[Fliff Inc](https://getfliff.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6745d84317314312922bec34?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
