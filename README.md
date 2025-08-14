@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JetBlue](http://www.jetblue.com/)** | **[Associate Product Manager Digital Prod](https://jobright.ai/jobs/info/689e1fdb79a9f96662547235?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 14 |
+| **[BioSpace](http://www.biospace.com/)** | **[Associate Director, CTF Product Owner, Trial Management Systems](https://jobright.ai/jobs/info/689e1f25faa4e875e8276e59?utm_campaign=Product%20Management&utm_source=1103)** | Indianapolis, IN | On Site | Aug 14 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Recoveries: Asset Sales](https://jobright.ai/jobs/info/689e111cfaa4e875e827677a?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Aug 14 |
+| **[JetBlue](http://www.jetblue.com/)** | **[Associate Product Manager Digital Prod](https://jobright.ai/jobs/info/689e1f1afaa4e875e8276e51?utm_campaign=Product%20Management&utm_source=1103)** | Long Island City, NY | Hybrid | Aug 14 |
 | **[Zenoti](http://www.zenoti.com)** | **[Product Specialist](https://jobright.ai/jobs/info/689df593faa4e875e82759da?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, Washington, United States | Hybrid | Aug 14 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Product Management Analyst](https://jobright.ai/jobs/info/687739a5299cbc74b87659d0?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 14 |
 | **[Green Dot Corporation](http://www.greendot.com)** | **[Remote - Product Integration Coordinator](https://jobright.ai/jobs/info/689dd92a79a9f96662544e6c?utm_campaign=Product%20Management&utm_source=1103)** | Work Remotely from Anywhere - U.S. | Remote | Aug 14 |
@@ -144,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[Retail Product Demonstrator](https://jobright.ai/jobs/info/689045334c7e851b90ac57a1?utm_campaign=Product%20Management&utm_source=1103)** | Suffolk, VA | On Site | Aug 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Risk Management](https://jobright.ai/jobs/info/6840e2c36cf487fc61a1f956?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 09 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Associate Product Manager (Austin, TX – NCG)](https://jobright.ai/jobs/info/6897a4f773b3a600fe89cdc7?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Aug 09 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Systems Analysis Associate II](https://jobright.ai/jobs/info/68983a2083d13d1f5b68c402?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/685e8eed181384c673d7dfed?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 09 |
 | **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - AXS](https://jobright.ai/jobs/info/6824ddfea05210536c909670?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Aug 09 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr)](https://jobright.ai/jobs/info/6892fc92f5ee707a15dcb207?utm_campaign=Product%20Management&utm_source=1103)** | Apex, NC | On Site | Aug 09 |
@@ -154,9 +157,9 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/689af19c83d13d1f5b69e61b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 09 |
 | ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/689af1bffaa4e875e825e649?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 09 |
 | ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/689af0705574fd6bc0c881af?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 09 |
-| ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/689af24f83d13d1f5b69e700?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 09 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/689aefc25574fd6bc0c8811d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 09 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/689af24dfaa4e875e825e704?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 09 |
+| ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/689af24f83d13d1f5b69e700?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 09 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/6840e72e07b00d797a861d20?utm_campaign=Product%20Management&utm_source=1103)** | Georgetown, KY | On Site | Aug 08 |
 | **[ENC - ElDorado National California Inc.](https://www.eldorado-ca.com)** | **[Product Data Management (PDM) & Document Control Clerk](https://jobright.ai/jobs/info/68759337299cbc74b8756149?utm_campaign=Product%20Management&utm_source=1103)** | Riverside, CA | On Site | Aug 08 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Internet Coordinator - GreenRow](https://jobright.ai/jobs/info/68986691faa4e875e824ff9d?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 08 |
@@ -200,11 +203,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Associate, Product Manager - Partnerships Trade Credit](https://jobright.ai/jobs/info/689779ed73b3a600fe899c13?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 07 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/6895690973b3a600fe887345?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | On Site | Aug 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/689733dd73b3a600fe89486e?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Aug 07 |
-| **[Scientia Vascular](https://www.scientiavascular.com)** | **[Product Builder](https://jobright.ai/jobs/info/68955bcc4ed2ea559ca55420?utm_campaign=Product%20Management&utm_source=1103)** | West Valley City, UT | On Site | Aug 07 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689559ad73b3a600fe886d4f?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Aug 07 |
-| ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/6895599c4ed2ea559ca552fa?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 07 |
-| ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
-| ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/6895546b4ed2ea559ca55060?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 07 |
-| ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689553b44ed2ea559ca54faf?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | On Site | Aug 07 |
-| ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/6895533673b3a600fe8869e2?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
