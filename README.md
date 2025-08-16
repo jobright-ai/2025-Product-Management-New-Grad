@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allied Benefit Systems](https://alliedbenefit.com)** | **[Stop Loss Data Specialist-Product](https://jobright.ai/jobs/info/68a0f16acc9ee94dc9120ce6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 16 |
 | **[American Financial Network Inc.](https://www.afncorp.com)** | **[Product and Pricing Engine Assistant](https://jobright.ai/jobs/info/689e9cccfaa4e875e827e218?utm_campaign=Product%20Management&utm_source=1103)** | Brea, CA | Hybrid | Aug 16 |
 | **[TabaPay](https://www.tabapay.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/689d393583d13d1f5b6ae323?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | Hybrid | Aug 16 |
 | **[Adobe](http://www.adobe.com)** | **[Product Manager](https://jobright.ai/jobs/info/689d90bd83d13d1f5b6b1d9d?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | Aug 16 |
@@ -120,7 +121,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr.Associate, Product Management, Decisioning Fulfillment](https://jobright.ai/jobs/info/689dd6fa79a9f96662544d9e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 14 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/6880fb74f4f06100f3a22a7a?utm_campaign=Product%20Management&utm_source=1103)** | SD Metro Area | On Site | Aug 14 |
 | **[Jennifer Fisher Jewelry](https://jenniferfisherjewelry.com/)** | **[Associate, Product Development (Jennifer Fisher Fine Jewelry)](https://jobright.ai/jobs/info/68813adb29ad6b2744ae06f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 14 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Associate Mako Product Specialist, San Luis Obispo](https://jobright.ai/jobs/info/689efb9f79a9f966625541e7?utm_campaign=Product%20Management&utm_source=1103)** | Laguna Niguel, CA | On Site | Aug 14 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Associate Mako Product Specialist, San Luis Obispo](https://jobright.ai/jobs/info/689efd5183d13d1f5b6c3f20?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | On Site | Aug 14 |
 | **[Adelaide](https://www.adelaidemetrics.com/)** | **[Technical Account Manager - Product Team](https://jobright.ai/jobs/info/689efc8979a9f966625543de?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Aug 14 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Portfolio Associate - Hips](https://jobright.ai/jobs/info/689d6d91faa4e875e826ffec?utm_campaign=Product%20Management&utm_source=1103)** | Mahwah, NJ | Hybrid | Aug 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Small Business Card) - Business Cards & Payments](https://jobright.ai/jobs/info/68972bde73b3a600fe893c12?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 13 |
@@ -140,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Decagon](https://decagon.ai)** | **[Agent Product Manager, Associate](https://jobright.ai/jobs/info/689cf4d279a9f9666253c61d?utm_campaign=Product%20Management&utm_source=1103)** | New York City | On Site | Aug 12 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator - $18/HR + Commission](https://jobright.ai/jobs/info/689bd3c883d13d1f5b6a3c54?utm_campaign=Product%20Management&utm_source=1103)** | Reynoldsburg, OH | Hybrid | Aug 12 |
 | ↳ | **[Product Demonstrator - $18/HR + Commission](https://jobright.ai/jobs/info/689bd3ac83d13d1f5b6a3c31?utm_campaign=Product%20Management&utm_source=1103)** | South Lebanon, OH | On Site | Aug 12 |
-| **[WeTransfer](http://www.wetransfer.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689b9b3079a9f96662531dc5?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 12 |
 | **[Deckers Brands](http://deckers.com)** | **[Product Operations Coordinator - Emerging Brands](https://jobright.ai/jobs/info/68478aa15ea3c85dd1485eba?utm_campaign=Product%20Management&utm_source=1103)** | Santa Barbara, CA | Hybrid | Aug 12 |
 | **[Corgi Insurance (YC S24)](https://www.corgi.insure)** | **[Product & Account Manager](https://jobright.ai/jobs/info/689ae67483d13d1f5b69dbaa?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX, US | On Site | Aug 12 |
 | **[Usul (YC S24)](usul.com)** | **[Founding Technical Product Manager (PM)](https://jobright.ai/jobs/info/689ae64a5574fd6bc0c875ee?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Office | On Site | Aug 12 |
@@ -189,5 +189,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr)](https://jobright.ai/jobs/info/688dbf1e6a4aac5783cd6c9f?utm_campaign=Product%20Management&utm_source=1103)** | Canandaigua, NY | On Site | Aug 10 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Analyst – Icons & Concepts, Product Development](https://jobright.ai/jobs/info/6843354ac765a3b6f7e5cc7b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 10 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Product Control, Middle Office, Hedge Fund Services](https://jobright.ai/jobs/info/6898afcf5574fd6bc0c7a60e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Aug 10 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/685e8eed181384c673d7e081?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
