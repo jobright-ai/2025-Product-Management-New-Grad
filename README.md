@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Super Micro Computer Spain, S.L.](http://www.supermicro.es)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/68a0a407cc9ee94dc911ff45?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 16 |
 | **[WeTransfer](http://www.wetransfer.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fcdbf83d13d1f5b6cb0f2?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Aug 16 |
 | **[Optum](https://www.optum.com/)** | **[Technical Product Manager - 2307052](https://jobright.ai/jobs/info/689fc95fcc9ee94dc9119c62?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Hybrid | Aug 16 |
 | **[Winchester Ammunition](https://www.winchester.com)** | **[Winchester - Product Management Specialist](https://jobright.ai/jobs/info/6886490fb651c92cb78af20c?utm_campaign=Product%20Management&utm_source=1103)** | Clayton, MO | On Site | Aug 16 |
@@ -192,5 +193,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/687b7c3aed63844c944a7f63?utm_campaign=Product%20Management&utm_source=1103)** | Hugo, MN | On Site | Aug 09 |
 | **[Master Electronics](https://www.masterelectronics.com/)** | **[Product Manager/ Buyer](https://jobright.ai/jobs/info/6825400eac870f2435d30be2?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 09 |
 | **[ALO](https://www.aloyoga.com/)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/687b1f83ed63844c944a6ab3?utm_campaign=Product%20Management&utm_source=1103)** | Commerce, CA | On Site | Aug 09 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Retail Product Demonstrator](https://jobright.ai/jobs/info/689045334c7e851b90ac57a1?utm_campaign=Product%20Management&utm_source=1103)** | Suffolk, VA | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
