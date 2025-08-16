@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WeTransfer](http://www.wetransfer.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fcdbf83d13d1f5b6cb0f2?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Aug 15 |
+| **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fca14faa4e875e828b1da?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fca00faa4e875e828b190?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 15 |
+| **[Optum](https://www.optum.com/)** | **[Technical Product Manager - 2307052](https://jobright.ai/jobs/info/689fc95fcc9ee94dc9119c62?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Hybrid | Aug 15 |
+| **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fc95dcc9ee94dc9119c5d?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 15 |
+| **[WeTransfer](http://www.wetransfer.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fc95ccc9ee94dc9119c5c?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 15 |
+| **[Optum](https://www.optum.com/)** | **[Technical Product Manager - 2307052](https://jobright.ai/jobs/info/689fc957cc9ee94dc9119c40?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Remote | Aug 15 |
+| **[WeTransfer](http://www.wetransfer.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fc954cc9ee94dc9119c33?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c10?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 15 |
+| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c0e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
+| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc7c883d13d1f5b6cafba?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 15 |
+| **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fc7b783d13d1f5b6caf66?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Aug 15 |
+| **[The New York Times](https://www.nytco.com/)** | **[Associate Product Manager, Storytelling](https://jobright.ai/jobs/info/689fb67483d13d1f5b6ca73b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 15 |
 | **[Scorpion](https://www.scorpion.co)** | **[Ranking Product Specialist](https://jobright.ai/jobs/info/689f9cb3faa4e875e828a182?utm_campaign=Product%20Management&utm_source=1103)** | Remote - United States | Remote | Aug 15 |
 | **[Arizona State University](http://www.asu.edu)** | **[Product Coordinator](https://jobright.ai/jobs/info/689f9753b3e889632cf08e0f?utm_campaign=Product%20Management&utm_source=1103)** | Scottsdale, AZ | Hybrid | Aug 15 |
 | **[Orion](https://orionadvisortech.com/)** | **[Trading Product Specialist (9:00 AM-6:00 PM CT)](https://jobright.ai/jobs/info/689f8f43faa4e875e8289b7a?utm_campaign=Product%20Management&utm_source=1103)** | Philadelphia, PA | Hybrid | Aug 15 |
@@ -181,11 +194,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr)](https://jobright.ai/jobs/info/6892fc92f5ee707a15dcb207?utm_campaign=Product%20Management&utm_source=1103)** | Apex, NC | On Site | Aug 09 |
 | **[Corning Incorporated](https://www.corning.com/)** | **[Product Line Manager, Gorilla Glass](https://jobright.ai/jobs/info/689782fa73b3a600fe89a6b9?utm_campaign=Product%20Management&utm_source=1103)** | Corning, NY | On Site | Aug 09 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/685f56a5f014ba49e810b4b5?utm_campaign=Product%20Management&utm_source=1103)** | Onalaska, WI | On Site | Aug 09 |
-| **[Blackstone](http://blackstone.com)** | **[Real Estate ICS - Product Analyst](https://jobright.ai/jobs/info/68786074ae2f413e4a5c1fff?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Aug 09 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/689af19c83d13d1f5b69e61b?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 09 |
-| ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/689af1bffaa4e875e825e649?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 09 |
-| ↳ | **[Senior Associate, Product Management](https://jobright.ai/jobs/info/689af0705574fd6bc0c881af?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 09 |
-| ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/689aefc25574fd6bc0c8811d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 09 |
-| ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/689af24f83d13d1f5b69e700?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 09 |
-| ↳ | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/689af24dfaa4e875e825e704?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
