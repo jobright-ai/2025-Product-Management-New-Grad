@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[Product Manager](https://jobright.ai/jobs/info/689d90bd83d13d1f5b6b1d9d?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | Aug 17 |
 | **[Allied Benefit Systems](https://alliedbenefit.com)** | **[Stop Loss Data Specialist-Product](https://jobright.ai/jobs/info/68a0f16acc9ee94dc9120ce6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 16 |
 | **[American Financial Network Inc.](https://www.afncorp.com)** | **[Product and Pricing Engine Assistant](https://jobright.ai/jobs/info/689e9cccfaa4e875e827e218?utm_campaign=Product%20Management&utm_source=1103)** | Brea, CA | Hybrid | Aug 16 |
 | **[TabaPay](https://www.tabapay.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/689d393583d13d1f5b6ae323?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | Hybrid | Aug 16 |
-| **[Adobe](http://www.adobe.com)** | **[Product Manager](https://jobright.ai/jobs/info/689d90bd83d13d1f5b6b1d9d?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | Aug 16 |
 | **[PURE Insurance](https://www.pureinsurance.com/index)** | **[Product Analyst (P&C)](https://jobright.ai/jobs/info/6866e95b184aaa777787aac6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Aug 16 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Analyst, Experimentation](https://jobright.ai/jobs/info/68842cf5835a903aa07fa9bf?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Aug 16 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Product Master Data Assistant](https://jobright.ai/jobs/info/6883f594b54cac0f1e73b44d?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Aug 16 |
@@ -125,6 +125,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr.Associate, Product Management, Decisioning Fulfillment](https://jobright.ai/jobs/info/689dd6fa79a9f96662544d9e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 14 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/6880fb74f4f06100f3a22a7a?utm_campaign=Product%20Management&utm_source=1103)** | SD Metro Area | On Site | Aug 14 |
 | **[Jennifer Fisher Jewelry](https://jenniferfisherjewelry.com/)** | **[Associate, Product Development (Jennifer Fisher Fine Jewelry)](https://jobright.ai/jobs/info/68813adb29ad6b2744ae06f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 14 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Associate Mako Product Specialist, San Luis Obispo](https://jobright.ai/jobs/info/689efb9f79a9f966625541e7?utm_campaign=Product%20Management&utm_source=1103)** | Laguna Niguel, CA | On Site | Aug 14 |
 | **[Adelaide](https://www.adelaidemetrics.com/)** | **[Technical Account Manager - Product Team](https://jobright.ai/jobs/info/689efc8979a9f966625543de?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Aug 14 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Portfolio Associate - Hips](https://jobright.ai/jobs/info/689d6d91faa4e875e826ffec?utm_campaign=Product%20Management&utm_source=1103)** | Mahwah, NJ | Hybrid | Aug 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Small Business Card) - Business Cards & Payments](https://jobright.ai/jobs/info/68972bde73b3a600fe893c12?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 13 |
@@ -185,5 +186,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok-PGC) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68999f2afaa4e875e8253c34?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok-Product-Social and Creation) - 2025 Start (MBA)](https://jobright.ai/jobs/info/689c1c3efaa4e875e826621c?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 10 |
 | **[Code and Theory](http://www.codeandtheory.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/68995a26faa4e875e8251865?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Aug 10 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/685e8eed181384c673d7e077?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
