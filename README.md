@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xe.com](http://www.xe.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/686434ab3b01d176faa6feeb?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Aug 18 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68a38f17403ad4363b1c22fc?utm_campaign=Product%20Management&utm_source=1103)** | Cerritos, CA | Hybrid | Aug 18 |
 | **[Green Dot Corporation](http://www.greendot.com)** | **[Remote - Product Integration Coordinator](https://jobright.ai/jobs/info/68a384501ab5f8579e8a691c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/68a380161ab5f8579e8a66cd?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 18 |
 | **[American Financial Network Inc.](https://www.afncorp.com)** | **[Product and Pricing Engine Assistant](https://jobright.ai/jobs/info/689e9cccfaa4e875e827e218?utm_campaign=Product%20Management&utm_source=1103)** | Brea, CA | Hybrid | Aug 18 |
@@ -137,7 +139,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr.Associate, Product Management, Decisioning Fulfillment](https://jobright.ai/jobs/info/689dd6fa79a9f96662544d9e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 14 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/6880fb74f4f06100f3a22a7a?utm_campaign=Product%20Management&utm_source=1103)** | SD Metro Area | On Site | Aug 14 |
 | **[Jennifer Fisher Jewelry](https://jenniferfisherjewelry.com/)** | **[Associate, Product Development (Jennifer Fisher Fine Jewelry)](https://jobright.ai/jobs/info/68813adb29ad6b2744ae06f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 14 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Associate Mako Product Specialist, San Luis Obispo](https://jobright.ai/jobs/info/689efd5183d13d1f5b6c3f20?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | On Site | Aug 14 |
 | **[Adelaide](https://www.adelaidemetrics.com/)** | **[Technical Account Manager - Product Team](https://jobright.ai/jobs/info/689efc8979a9f966625543de?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Aug 14 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Portfolio Associate - Hips](https://jobright.ai/jobs/info/689d6d91faa4e875e826ffec?utm_campaign=Product%20Management&utm_source=1103)** | Mahwah, NJ | Hybrid | Aug 13 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/689d42b179a9f9666253eb3c?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | On Site | Aug 13 |
@@ -174,8 +175,4 @@ For a complete list, click the following sortable link below:
 | **[Tennr](https://www.tennr.com)** | **[Technical Product Manager](https://jobright.ai/jobs/info/689a81f083d13d1f5b69966a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Manager - Secured Card, Money Movement](https://jobright.ai/jobs/info/689af1befaa4e875e825e644?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Aug 12 |
 | **[Spice Data](https://spicedata.com/)** | **[Product Associate (New Grad)](https://jobright.ai/jobs/info/689ae6cf5574fd6bc0c87738?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA, US | Hybrid | Aug 12 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/689adc58faa4e875e825d1be?utm_campaign=Product%20Management&utm_source=1103)** | Towson, MD | Hybrid | Aug 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/67f6f50c1001995c103f5b50?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 11 |
-| **[PAX Spices & Labs Inc.](www.paxspices.com)** | **[Seasonings Product Development Specialist](https://jobright.ai/jobs/info/689a094c83d13d1f5b69585f?utm_campaign=Product%20Management&utm_source=1103)** | Covina, CA | On Site | Aug 11 |
-| **[Canoe Intelligence](https://canoeintelligence.com)** | **[Product Owner](https://jobright.ai/jobs/info/689a8236faa4e875e82593d5?utm_campaign=Product%20Management&utm_source=1103)** | Jacksonville, FL | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
