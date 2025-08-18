@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Financial Network Inc.](https://www.afncorp.com)** | **[Product and Pricing Engine Assistant](https://jobright.ai/jobs/info/689e9cccfaa4e875e827e218?utm_campaign=Product%20Management&utm_source=1103)** | Brea, CA | Hybrid | Aug 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager, Ads Privacy & Targeting Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/68a2d9fbda4b7a7e730743d3?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 18 |
 | ↳ | **[Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/68a2d9d6ff570d7ffd65e4ff?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 18 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68a27d2dfaa4e875e829615c?utm_campaign=Product%20Management&utm_source=1103)** | Marlborough, MA | On Site | Aug 17 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Tarro](https://www.tarro.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/684d63723812082309cbfeac?utm_campaign=Product%20Management&utm_source=1103)** | Menlo Park, CA | Hybrid | Aug 16 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Analyst - Product Management](https://jobright.ai/jobs/info/6883e4376fcd973d15ae42d2?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Aug 16 |
 | **[Allied Benefit Systems](https://alliedbenefit.com)** | **[Stop Loss Data Specialist-Product](https://jobright.ai/jobs/info/68a0f16acc9ee94dc9120ce6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 16 |
-| **[American Financial Network Inc.](https://www.afncorp.com)** | **[Product and Pricing Engine Assistant](https://jobright.ai/jobs/info/689e9cccfaa4e875e827e218?utm_campaign=Product%20Management&utm_source=1103)** | Brea, CA | Hybrid | Aug 16 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[846 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/689198464c7e851b90ad0658?utm_campaign=Product%20Management&utm_source=1103)** | Plymouth, IN | On Site | Aug 16 |
 | **[TabaPay](https://www.tabapay.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/689d393583d13d1f5b6ae323?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | Hybrid | Aug 16 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Analyst, Experimentation](https://jobright.ai/jobs/info/68842cf5835a903aa07fa9bf?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Aug 16 |
@@ -133,7 +133,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr.Associate, Product Management, Decisioning Fulfillment](https://jobright.ai/jobs/info/689dd6fa79a9f96662544d9e?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 14 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/6880fb74f4f06100f3a22a7a?utm_campaign=Product%20Management&utm_source=1103)** | SD Metro Area | On Site | Aug 14 |
 | **[Jennifer Fisher Jewelry](https://jenniferfisherjewelry.com/)** | **[Associate, Product Development (Jennifer Fisher Fine Jewelry)](https://jobright.ai/jobs/info/68813adb29ad6b2744ae06f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 14 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Associate Mako Product Specialist, San Luis Obispo](https://jobright.ai/jobs/info/689efd5183d13d1f5b6c3f20?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | On Site | Aug 14 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Associate Mako Product Specialist, San Luis Obispo](https://jobright.ai/jobs/info/689efb9f79a9f966625541e7?utm_campaign=Product%20Management&utm_source=1103)** | Laguna Niguel, CA | On Site | Aug 14 |
 | **[Adelaide](https://www.adelaidemetrics.com/)** | **[Technical Account Manager - Product Team](https://jobright.ai/jobs/info/689efc8979a9f966625543de?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Aug 14 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Portfolio Associate - Hips](https://jobright.ai/jobs/info/689d6d91faa4e875e826ffec?utm_campaign=Product%20Management&utm_source=1103)** | Mahwah, NJ | Hybrid | Aug 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management (Small Business Card) - Business Cards & Payments](https://jobright.ai/jobs/info/68972bde73b3a600fe893c12?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 13 |
@@ -187,5 +187,4 @@ For a complete list, click the following sortable link below:
 | **[Canoe Intelligence](https://canoeintelligence.com)** | **[Product Owner](https://jobright.ai/jobs/info/689ae5875574fd6bc0c874f1?utm_campaign=Product%20Management&utm_source=1103)** | Jacksonville, NY | Hybrid | Aug 11 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Associate Director, CTF Product Owner, Trial Management Systems](https://jobright.ai/jobs/info/689a422183d13d1f5b697575?utm_campaign=Product%20Management&utm_source=1103)** | US, Indianapolis IN | On Site | Aug 11 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689a3fa05574fd6bc0c80dff?utm_campaign=Product%20Management&utm_source=1103)** | Schaumburg, IL | Hybrid | Aug 11 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/689a38a55574fd6bc0c80ade?utm_campaign=Product%20Management&utm_source=1103)** | Apollo, PA | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
