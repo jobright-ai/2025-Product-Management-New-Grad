@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WeTransfer](http://www.wetransfer.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/68a4bebd2d2a252445cd8baf?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Aug 19 |
+| ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/68a4be0e2d2a252445cd8ada?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 19 |
+| ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/68a4bc63e9f1c744da123af8?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 19 |
+| **[Crew](http://theboomlab.com)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/68a4b6102d2a252445cd879a?utm_campaign=Product%20Management&utm_source=1103)** | Minnetonka, MN | Hybrid | Aug 19 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Associate or Mid-Level Product Data Management Specialist](https://jobright.ai/jobs/info/68a4b41b541cc3479840d232?utm_campaign=Product%20Management&utm_source=1103)** | USA - North Charleston, SC | On Site | Aug 19 |
 | **[Ameriprise Financial Services, LLC](https://www.ameriprise.com/)** | **[Digital Product Owner Leadership Development Program Associate](https://jobright.ai/jobs/info/68a48b03e9f1c744da12250c?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, Minnesota | Hybrid | Aug 19 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Entry Level Product Data Management Specialist](https://jobright.ai/jobs/info/68a48afa2d2a252445cd76af?utm_campaign=Product%20Management&utm_source=1103)** | USA - Hazelwood, MO | On Site | Aug 19 |
 | **[RouteSmart - A FedEx Company](http://routesmart.com)** | **[Product Manager (Hybrid or Remote)](https://jobright.ai/jobs/info/68a48330541cc3479840be28?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, MD | Hybrid | Aug 19 |
@@ -104,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[The New York Times](https://www.nytco.com/)** | **[Associate Product Manager, Storytelling](https://jobright.ai/jobs/info/689ff1adfaa4e875e828c2bd?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 15 |
 | **[Stanbridge University](https://www.stanbridge.edu)** | **[Product Coordinator SaaS/LMS](https://jobright.ai/jobs/info/689fe0bd83d13d1f5b6cb9fc?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Aug 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fca00faa4e875e828b190?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 15 |
-| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c0e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c10?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 15 |
+| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c0e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc7c883d13d1f5b6cafba?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 15 |
 | **[Optum](https://www.optum.com/)** | **[Technical Product Manager - 2307052](https://jobright.ai/jobs/info/689fc957cc9ee94dc9119c40?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Remote | Aug 15 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68a25e1683d13d1f5b6d5d5f?utm_campaign=Product%20Management&utm_source=1103)** | Marlborough US-MA, United States |  N/A | Hybrid | Aug 15 |
@@ -154,6 +159,4 @@ For a complete list, click the following sortable link below:
 | **[Snap Inc.](https://careers.snap.com/)** | **[Product Operations Coordinator](https://jobright.ai/jobs/info/6880f34616ea5743a373451a?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Aug 13 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/68632f1ffb761b1eafaa2bdb?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Aug 13 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Analyst - Product Project Management](https://jobright.ai/jobs/info/6899dc2f83d13d1f5b6948c1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 13 |
-| **[ASU Gammage](https://www.asugammage.com/)** | **[Product Coordinator](https://jobright.ai/jobs/info/689be3bb79a9f96662534863?utm_campaign=Product%20Management&utm_source=1103)** | Off-Campus: Scottsdale | Hybrid | Aug 12 |
-| **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Product Coordinator](https://jobright.ai/jobs/info/689be3a183d13d1f5b6a4448?utm_campaign=Product%20Management&utm_source=1103)** | Off-Campus: Scottsdale | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
