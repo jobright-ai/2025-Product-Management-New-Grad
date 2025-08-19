@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Wholesale Product Coordinator](https://jobright.ai/jobs/info/68a3bbd6403ad4363b1c358f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 18 |
 | **[Xe.com](http://www.xe.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/686434ab3b01d176faa6feeb?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Aug 18 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68a38f17403ad4363b1c22fc?utm_campaign=Product%20Management&utm_source=1103)** | Cerritos, CA | Hybrid | Aug 18 |
 | **[Green Dot Corporation](http://www.greendot.com)** | **[Remote - Product Integration Coordinator](https://jobright.ai/jobs/info/68a384501ab5f8579e8a691c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 18 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/68a2d9d6ff570d7ffd65e4ff?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 18 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68a27d2dfaa4e875e829615c?utm_campaign=Product%20Management&utm_source=1103)** | Marlborough, MA | On Site | Aug 17 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68a27ba083d13d1f5b6d60d1?utm_campaign=Product%20Management&utm_source=1103)** | Marlborough, MA | On Site | Aug 17 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/68a2be85ff570d7ffd65d904?utm_campaign=Product%20Management&utm_source=1103)** | Woodmere, OH | On Site | Aug 17 |
-| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68a2be90ff570d7ffd65d91f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 17 |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/68a2be90ff570d7ffd65d91f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 17 |
+| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68a2be85ff570d7ffd65d904?utm_campaign=Product%20Management&utm_source=1103)** | Woodmere, OH | On Site | Aug 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/6897309a8c6d6b4426786b7b?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 17 |
 | **[Adobe](http://www.adobe.com)** | **[Product Manager](https://jobright.ai/jobs/info/689d90bd83d13d1f5b6b1d9d?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | Aug 17 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[850 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6894c9b34ed2ea559ca50671?utm_campaign=Product%20Management&utm_source=1103)** | Garland, TX | On Site | Aug 17 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fc95dcc9ee94dc9119c5d?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 15 |
 | **[WeTransfer](http://www.wetransfer.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fc95ccc9ee94dc9119c5c?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 15 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fc954cc9ee94dc9119c33?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c0e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
-| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c10?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c10?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 15 |
+| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c0e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc7c883d13d1f5b6cafba?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 15 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/689fc7b783d13d1f5b6caf66?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Aug 15 |
 | **[Optum](https://www.optum.com/)** | **[Technical Product Manager - 2307052](https://jobright.ai/jobs/info/689fc957cc9ee94dc9119c40?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Remote | Aug 15 |
@@ -172,7 +173,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6894b0484ed2ea559ca4f75b?utm_campaign=Product%20Management&utm_source=1103)** | Chapel Hill, NC | On Site | Aug 12 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/687ee6342097a271a8998c04?utm_campaign=Product%20Management&utm_source=1103)** | Lakeville, MN | On Site | Aug 12 |
 | **[Advertising Specialty Institute](http://asicentral.com/)** | **[Seasonal Optimizer](https://jobright.ai/jobs/info/688ba0381808534a89cb4813?utm_campaign=Product%20Management&utm_source=1103)** | Trevose, PA | Hybrid | Aug 12 |
-| **[Tennr](https://www.tennr.com)** | **[Technical Product Manager](https://jobright.ai/jobs/info/689a81f083d13d1f5b69966a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 12 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Manager - Secured Card, Money Movement](https://jobright.ai/jobs/info/689af1befaa4e875e825e644?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Aug 12 |
-| **[Spice Data](https://spicedata.com/)** | **[Product Associate (New Grad)](https://jobright.ai/jobs/info/689ae6cf5574fd6bc0c87738?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA, US | Hybrid | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
