@@ -156,7 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Analyst - Product Project Management](https://jobright.ai/jobs/info/6899dc2f83d13d1f5b6948c1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 13 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Product Coordinator](https://jobright.ai/jobs/info/689be3bb79a9f96662534863?utm_campaign=Product%20Management&utm_source=1103)** | Off-Campus: Scottsdale | Hybrid | Aug 12 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Product Coordinator](https://jobright.ai/jobs/info/689be3a183d13d1f5b6a4448?utm_campaign=Product%20Management&utm_source=1103)** | Off-Campus: Scottsdale | Hybrid | Aug 12 |
-| **[Decagon](https://decagon.ai)** | **[Agent Product Manager, Associate](https://jobright.ai/jobs/info/689cf4d279a9f9666253c61d?utm_campaign=Product%20Management&utm_source=1103)** | New York City | On Site | Aug 12 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator - $18/HR + Commission](https://jobright.ai/jobs/info/689bd3c883d13d1f5b6a3c54?utm_campaign=Product%20Management&utm_source=1103)** | Reynoldsburg, OH | Hybrid | Aug 12 |
-| ↳ | **[Product Demonstrator - $18/HR + Commission](https://jobright.ai/jobs/info/689bd3ac83d13d1f5b6a3c31?utm_campaign=Product%20Management&utm_source=1103)** | South Lebanon, OH | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
