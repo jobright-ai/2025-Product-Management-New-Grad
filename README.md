@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Product Manager](https://jobright.ai/jobs/info/68a5eadf33dd7158bbc9c84b?utm_campaign=Product%20Management&utm_source=1103)** | San Jose | On Site | Aug 20 |
+| ↳ | **[2026 University Graduate - Product Manager](https://jobright.ai/jobs/info/68a5e9f9b6a3617d7fa73faf?utm_campaign=Product%20Management&utm_source=1103)** | Lehi | On Site | Aug 20 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2026 Product Management Rotational Program](https://jobright.ai/jobs/info/68a5dc0c33dd7158bbc9c26a?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | Hybrid | Aug 20 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Product Management Specialist II](https://jobright.ai/jobs/info/68a5af1233dd7158bbc9b615?utm_campaign=Product%20Management&utm_source=1103)** | Fort Collins, CO | On Site | Aug 20 |
 | **[Motorq](https://motorq.com/)** | **[Associate Product Manager - Data Integrations](https://jobright.ai/jobs/info/689cfbc183d13d1f5b6ac850?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 19 |
 | **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - AXS](https://jobright.ai/jobs/info/6876c64e299cbc74b87607d8?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Aug 19 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/68a00f14cc9ee94dc911bc9d?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 15 |
 | **[Stanbridge University](https://www.stanbridge.edu)** | **[Product Coordinator SaaS/LMS](https://jobright.ai/jobs/info/689fe0bd83d13d1f5b6cb9fc?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Aug 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fca00faa4e875e828b190?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 15 |
-| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c0e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c10?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 15 |
+| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c0e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc7c883d13d1f5b6cafba?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 15 |
 | **[Optum](https://www.optum.com/)** | **[Technical Product Manager - 2307052](https://jobright.ai/jobs/info/689fc957cc9ee94dc9119c40?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Remote | Aug 15 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68a25e1683d13d1f5b6d5d5f?utm_campaign=Product%20Management&utm_source=1103)** | Marlborough US-MA, United States |  N/A | Hybrid | Aug 15 |
