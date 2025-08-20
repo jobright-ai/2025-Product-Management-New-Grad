@@ -171,5 +171,4 @@ For a complete list, click the following sortable link below:
 | **[Adelaide](https://www.adelaidemetrics.com/)** | **[Technical Account Manager - Product Team](https://jobright.ai/jobs/info/689efc8979a9f966625543de?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Aug 14 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/689d42b179a9f9666253eb3c?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | On Site | Aug 13 |
 | **[Decagon](https://decagon.ai)** | **[Agent Product Manager, Associate](https://jobright.ai/jobs/info/689d35eb83d13d1f5b6ae0cf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 13 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/689d05d179a9f9666253cf9c?utm_campaign=Product%20Management&utm_source=1103)** | NJM - Trenton | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
