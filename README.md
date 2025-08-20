@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advanced Energy](http://www.advancedenergy.com)** | **[Product Management Specialist II](https://jobright.ai/jobs/info/68a5af1233dd7158bbc9b615?utm_campaign=Product%20Management&utm_source=1103)** | Fort Collins, CO | On Site | Aug 20 |
 | **[Motorq](https://motorq.com/)** | **[Associate Product Manager - Data Integrations](https://jobright.ai/jobs/info/689cfbc183d13d1f5b6ac850?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 19 |
 | **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - AXS](https://jobright.ai/jobs/info/6876c64e299cbc74b87607d8?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Code and Theory](http://www.codeandtheory.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/68995a26faa4e875e8251865?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | On Site | Aug 19 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/68a00f14cc9ee94dc911bc9d?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 15 |
 | **[Stanbridge University](https://www.stanbridge.edu)** | **[Product Coordinator SaaS/LMS](https://jobright.ai/jobs/info/689fe0bd83d13d1f5b6cb9fc?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Aug 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fca00faa4e875e828b190?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Aug 15 |
-| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c10?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c0e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
+| ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc948cc9ee94dc9119c10?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 15 |
 | ↳ | **[Sr. Associate, Product Management - Card Enterprise Platform](https://jobright.ai/jobs/info/689fc7c883d13d1f5b6cafba?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 15 |
 | **[Optum](https://www.optum.com/)** | **[Technical Product Manager - 2307052](https://jobright.ai/jobs/info/689fc957cc9ee94dc9119c40?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | Remote | Aug 15 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68a25e1683d13d1f5b6d5d5f?utm_campaign=Product%20Management&utm_source=1103)** | Marlborough US-MA, United States |  N/A | Hybrid | Aug 15 |
@@ -171,6 +172,4 @@ For a complete list, click the following sortable link below:
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/689d42b179a9f9666253eb3c?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | On Site | Aug 13 |
 | **[Decagon](https://decagon.ai)** | **[Agent Product Manager, Associate](https://jobright.ai/jobs/info/689d35eb83d13d1f5b6ae0cf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 13 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/689d05d179a9f9666253cf9c?utm_campaign=Product%20Management&utm_source=1103)** | NJM - Trenton | On Site | Aug 13 |
-| **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Product Coordinator](https://jobright.ai/jobs/info/689cf82079a9f9666253c84d?utm_campaign=Product%20Management&utm_source=1103)** | Scottsdale, AZ | Hybrid | Aug 13 |
-| **[Roanoke Insurance Group Inc.](https://www.roanokegroup.com/)** | **[MRSGM NA Regional Product Manager, Logistics Insurance](https://jobright.ai/jobs/info/689ce2ac79a9f9666253bda3?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
