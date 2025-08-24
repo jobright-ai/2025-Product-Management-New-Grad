@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Next](https://www.horizon-next.com)** | **[Analyst, Product Management](https://jobright.ai/jobs/info/688cda5a1808534a89cbf05e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 24 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/68701a7e06ad7073463bb136?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Aug 23 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6895868473b3a600fe88848d?utm_campaign=Product%20Management&utm_source=1103)** | Lansing, MI | On Site | Aug 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Audit](https://jobright.ai/jobs/info/68971abe73b3a600fe89200d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 23 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator - PT](https://jobright.ai/jobs/info/68a8a6f96acf96396f72184e?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, NC | On Site | Aug 22 |
 | ↳ | **[Product Demonstrator-4991](https://jobright.ai/jobs/info/68a8a3a0d627244576e342d9?utm_campaign=Product%20Management&utm_source=1103)** | Cocoa, FL | On Site | Aug 22 |
 | **[UPMC](https://www.upmc.com/)** | **[Digital Product Manager I](https://jobright.ai/jobs/info/68a88bb36acf96396f720b39?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 22 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Product Manager](https://jobright.ai/jobs/info/688c57d8906ac06e1d1d369c?utm_campaign=Product%20Management&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Aug 22 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/6891785af5ee707a15dbeb23?utm_campaign=Product%20Management&utm_source=1103)** | League City, TX | On Site | Aug 22 |
 | ↳ | **[Product Demonstrator - $18/hr + Commission](https://jobright.ai/jobs/info/688d9cb8cdbd821a3663cb16?utm_campaign=Product%20Management&utm_source=1103)** | Bowling Green, KY | On Site | Aug 22 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[Product Manager II](https://jobright.ai/jobs/info/68a84ae2758f2e4ac3ff1e50?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Aug 22 |
@@ -110,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[ATEC Spine](https://atecspine.com)** | **[Product Manager, Robotics & Navigation](https://jobright.ai/jobs/info/688a642609808a6103e4e423?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Aug 21 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Product Manager](https://jobright.ai/jobs/info/688a5b0eaab47a17f670824d?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Aug 21 |
 | **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/68a70bd1758f2e4ac3fe918c?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Aug 21 |
+| **[R2 Global](http://www.r2-global.com)** | **[Associate Product Manager - up to $115,000 base salary - Hybrid - Temp to Hire](https://jobright.ai/jobs/info/68a61e6b33dd7158bbc9e08c?utm_campaign=Product%20Management&utm_source=1103)** | Thousand Oaks, CA | Hybrid | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/689fe0cbcc9ee94dc911a700?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Graduate (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/688e2c4ae5cead4afd45bf36?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/68a2d9d6ff570d7ffd65e4ff?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
@@ -169,7 +170,9 @@ For a complete list, click the following sortable link below:
 | **[Green Dot Corporation](http://www.greendot.com)** | **[Remote - Product Integration Coordinator](https://jobright.ai/jobs/info/68a384501ab5f8579e8a691c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/68a380161ab5f8579e8a66cd?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager, Ads Privacy & Targeting Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/68a6d6fab6a3617d7fa7af29?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 18 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[899 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/68948fa573b3a600fe8802e3?utm_campaign=Product%20Management&utm_source=1103)** | Williamsburg, VA | On Site | Aug 18 |
+| ↳ | **[1371 - Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/689038de4c7e851b90ac4a1b?utm_campaign=Product%20Management&utm_source=1103)** | Tomball, TX | On Site | Aug 18 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/689825145574fd6bc0c74a3f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 17 |
-| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/68a2be85ff570d7ffd65d904?utm_campaign=Product%20Management&utm_source=1103)** | Woodmere, OH | On Site | Aug 17 |
-| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68a2be90ff570d7ffd65d91f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 17 |
+| **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/68a2be90ff570d7ffd65d91f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 17 |
+| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68a2be85ff570d7ffd65d904?utm_campaign=Product%20Management&utm_source=1103)** | Woodmere, OH | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
