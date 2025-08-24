@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/68ab582fd627244576e3f7d3?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Aug 24 |
 | **[Horizon Next](https://www.horizon-next.com)** | **[Analyst, Product Management](https://jobright.ai/jobs/info/688cda5a1808534a89cbf05e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 24 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/689424edf47efe2113969d6e?utm_campaign=Product%20Management&utm_source=1103)** | Lexington, SC | On Site | Aug 24 |
+| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr)](https://jobright.ai/jobs/info/68971a411b9e81727f193438?utm_campaign=Product%20Management&utm_source=1103)** | Delavan, WI | On Site | Aug 23 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/68701a7e06ad7073463bb136?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Aug 23 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6895868473b3a600fe88848d?utm_campaign=Product%20Management&utm_source=1103)** | Lansing, MI | On Site | Aug 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Audit](https://jobright.ai/jobs/info/68971abe73b3a600fe89200d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 23 |
@@ -106,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, Home Textiles](https://jobright.ai/jobs/info/685088e907b5879386962a61?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate(Commerce Ads ) - 2026 (BS/MS)](https://jobright.ai/jobs/info/688c87ab1808534a89cbc81e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Graduate](https://jobright.ai/jobs/info/68a71f9733dd7158bbca48fa?utm_campaign=Product%20Management&utm_source=1103)** | Spring, TX | Hybrid | Aug 21 |
-| ↳ | **[Product Management Graduate](https://jobright.ai/jobs/info/68a7157bd627244576e297c3?utm_campaign=Product%20Management&utm_source=1103)** | Spring, Texas, United States of America | Hybrid | Aug 21 |
+| ↳ | **[Product Management Graduate](https://jobright.ai/jobs/info/68a715f7d627244576e298b7?utm_campaign=Product%20Management&utm_source=1103)** | Spring, Texas, United States of America | Hybrid | Aug 21 |
 | **[ATEC Spine](https://atecspine.com)** | **[Product Manager, Robotics & Navigation](https://jobright.ai/jobs/info/688a642609808a6103e4e423?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Aug 21 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Product Manager](https://jobright.ai/jobs/info/688a5b0eaab47a17f670824d?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Aug 21 |
 | **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/68a70bd1758f2e4ac3fe918c?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Aug 21 |
