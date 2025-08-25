@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Manager - New to Credit](https://jobright.ai/jobs/info/68abf7b6daf1431824c929a5?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Aug 24 |
+| ↳ | **[Sr Associate, Product Manager - New to Credit](https://jobright.ai/jobs/info/68abf5cfd627244576e4354a?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | Aug 24 |
 | **[NYCM Insurance](https://www.nycm.com)** | **[Product Analyst (Hybrid)](https://jobright.ai/jobs/info/68ab7fe3daf1431824c8efff?utm_campaign=Product%20Management&utm_source=1103)** | Edmeston, NY | Hybrid | Aug 24 |
 | **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/68ab582fd627244576e3f7d3?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Aug 24 |
 | **[Horizon Next](https://www.horizon-next.com)** | **[Analyst, Product Management](https://jobright.ai/jobs/info/688cda5a1808534a89cbf05e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 24 |
@@ -108,11 +110,10 @@ For a complete list, click the following sortable link below:
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Product Management Assistant, Home Textiles](https://jobright.ai/jobs/info/685088e907b5879386962a61?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate(Commerce Ads ) - 2026 (BS/MS)](https://jobright.ai/jobs/info/688c87ab1808534a89cbc81e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Graduate](https://jobright.ai/jobs/info/68a71f9733dd7158bbca48fa?utm_campaign=Product%20Management&utm_source=1103)** | Spring, TX | Hybrid | Aug 21 |
-| ↳ | **[Product Management Graduate](https://jobright.ai/jobs/info/68a7157bd627244576e297c3?utm_campaign=Product%20Management&utm_source=1103)** | Spring, Texas, United States of America | Hybrid | Aug 21 |
+| ↳ | **[Product Management Graduate](https://jobright.ai/jobs/info/68a715f7d627244576e298b7?utm_campaign=Product%20Management&utm_source=1103)** | Spring, Texas, United States of America | Hybrid | Aug 21 |
 | **[ATEC Spine](https://atecspine.com)** | **[Product Manager, Robotics & Navigation](https://jobright.ai/jobs/info/688a642609808a6103e4e423?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Aug 21 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Product Manager](https://jobright.ai/jobs/info/688a5b0eaab47a17f670824d?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | Hybrid | Aug 21 |
 | **[Paxos](https://www.paxos.com)** | **[Product Operations Associate](https://jobright.ai/jobs/info/68a70bd1758f2e4ac3fe918c?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Aug 21 |
-| **[R2 Global](http://www.r2-global.com)** | **[Associate Product Manager - up to $115,000 base salary - Hybrid - Temp to Hire](https://jobright.ai/jobs/info/68a61e6b33dd7158bbc9e08c?utm_campaign=Product%20Management&utm_source=1103)** | Thousand Oaks, CA | Hybrid | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/689fe0cbcc9ee94dc911a700?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Graduate (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/688e2c4ae5cead4afd45bf36?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/68a2d9d6ff570d7ffd65e4ff?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
@@ -172,6 +173,4 @@ For a complete list, click the following sortable link below:
 | **[Green Dot Corporation](http://www.greendot.com)** | **[Remote - Product Integration Coordinator](https://jobright.ai/jobs/info/68a384501ab5f8579e8a691c?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/68a380161ab5f8579e8a66cd?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager, Ads Privacy & Targeting Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/68a6d6fab6a3617d7fa7af29?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Aug 18 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/68948fa573b3a600fe8802e3?utm_campaign=Product%20Management&utm_source=1103)** | Williamsburg, VA | On Site | Aug 18 |
-| ↳ | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/689038de4c7e851b90ac4a1b?utm_campaign=Product%20Management&utm_source=1103)** | Tomball, TX | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
