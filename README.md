@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/68a8b6b86acf96396f721ea1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/68a8b3f1758f2e4ac3ff47d0?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Aug 22 |
 | ↳ | **[Graduate Product Manager (relocate to Europe)](https://jobright.ai/jobs/info/68a8b29c758f2e4ac3ff46b9?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 22 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator - PT](https://jobright.ai/jobs/info/68a8a6f96acf96396f72184e?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, NC | On Site | Aug 22 |
 | **[UPMC](https://www.upmc.com/)** | **[Digital Product Manager I](https://jobright.ai/jobs/info/68a88bb36acf96396f720b39?utm_campaign=Product%20Management&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/6891785af5ee707a15dbeb23?utm_campaign=Product%20Management&utm_source=1103)** | League City, TX | On Site | Aug 22 |
 | ↳ | **[Product Demonstrator - $18/hr + Commission](https://jobright.ai/jobs/info/688d9cb8cdbd821a3663cb16?utm_campaign=Product%20Management&utm_source=1103)** | Bowling Green, KY | On Site | Aug 22 |
