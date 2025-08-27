@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Numerator](http://numerator.com)** | **[Assoc. Product Manager](https://jobright.ai/jobs/info/68ae47add627244576e52d61?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 26 |
+| **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Associate, Digital Product Management](https://jobright.ai/jobs/info/68ae46cedaf1431824ca1f80?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 26 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate, Digital Product Management](https://jobright.ai/jobs/info/68ae0fdfdaf1431824ca0625?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Aug 26 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68adff37daf1431824c9f98d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 26 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Platform Manager](https://jobright.ai/jobs/info/68adff1ddaf1431824c9f971?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 26 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Platform Manager](https://jobright.ai/jobs/info/68ade3a9d627244576e4fa33?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Hybrid | Aug 26 |
 | ↳ | **[Platform Manager](https://jobright.ai/jobs/info/68ade377daf1431824c9eb80?utm_campaign=Product%20Management&utm_source=1103)** | Saint Paul, MN | Hybrid | Aug 26 |
 | ↳ | **[Platform Manager](https://jobright.ai/jobs/info/68ade36cdaf1431824c9eb7c?utm_campaign=Product%20Management&utm_source=1103)** | Oshkosh, WI | Hybrid | Aug 26 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Treasury Product Associate - Global Payment Solutions Product Risk Execution Associate](https://jobright.ai/jobs/info/68ade363d627244576e4fa11?utm_campaign=Product%20Management&utm_source=1103)** | Chicago | On Site | Aug 26 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Treasury Product Associate - Global Payment Solutions Product Risk Execution Associate](https://jobright.ai/jobs/info/68ade2d2daf1431824c9eb04?utm_campaign=Product%20Management&utm_source=1103)** | Chicago | On Site | Aug 26 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Platform Manager](https://jobright.ai/jobs/info/68ade2c4d627244576e4f99b?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | Hybrid | Aug 26 |
 | ↳ | **[Platform Manager](https://jobright.ai/jobs/info/68ade27d758f2e4ac300f42d?utm_campaign=Product%20Management&utm_source=1103)** | Fargo, ND | Hybrid | Aug 26 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Treasury Product Associate - Global Payment Solutions Product Risk Execution Associate](https://jobright.ai/jobs/info/68ade270758f2e4ac300f41f?utm_campaign=Product%20Management&utm_source=1103)** | New York | On Site | Aug 26 |
@@ -209,5 +211,4 @@ For a complete list, click the following sortable link below:
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr)](https://jobright.ai/jobs/info/6890457e4c7e851b90ac5829?utm_campaign=Product%20Management&utm_source=1103)** | Nashville, TN | On Site | Aug 20 |
 | **[SpaceX](https://www.spacex.com)** | **[Starlink Localization Associate, Product Growth](https://jobright.ai/jobs/info/68510dff3fa9df254f03778c?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Aug 20 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Product Management Specialist II](https://jobright.ai/jobs/info/68a5af1233dd7158bbc9b615?utm_campaign=Product%20Management&utm_source=1103)** | Fort Collins, CO | On Site | Aug 20 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/68971c661b9e81727f1939f5?utm_campaign=Product%20Management&utm_source=1103)** | Ames, IA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
