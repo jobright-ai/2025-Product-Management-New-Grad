@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/689733c81b9e81727f196122?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 29 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/68b23f1ef4e41a61efd82f4d?utm_campaign=Product%20Management&utm_source=1103)** | Victoria, TX | On Site | Aug 29 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Associate Product Manager I - Vascular Access](https://jobright.ai/jobs/info/68b239e01ade4306aa635015?utm_campaign=Product%20Management&utm_source=1103)** | Bethlehem, PA | Hybrid | Aug 29 |
+| **[Scientia Vascular](https://www.scientiavascular.com)** | **[Product Builder](https://jobright.ai/jobs/info/68955bcc4ed2ea559ca55420?utm_campaign=Product%20Management&utm_source=1103)** | West Valley City, UT | On Site | Aug 29 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68b1fff1bc187f64e1bd89d8?utm_campaign=Product%20Management&utm_source=1103)** | Frisco, TX | On Site | Aug 29 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68b1fdd4f4e41a61efd81764?utm_campaign=Product%20Management&utm_source=1103)** | Overland Park, KS | On Site | Aug 29 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68b1fdb9bc187f64e1bd8827?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Aug 29 |
@@ -211,16 +212,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate - Digital Product Management](https://jobright.ai/jobs/info/68acbe17d627244576e48b5f?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 25 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9cc4daf1431824c9679d?utm_campaign=Product%20Management&utm_source=1103)** | Paramus, NJ | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator Part Time  Kingston, NY](https://jobright.ai/jobs/info/68ac9c85758f2e4ac3006fb6?utm_campaign=Product%20Management&utm_source=1103)** | Kingston, NY | On Site | Aug 25 |
+| ↳ | **[Product Demonstrator - PT](https://jobright.ai/jobs/info/68ac9c31758f2e4ac3006f45?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator Part Time - #8102](https://jobright.ai/jobs/info/68ac9c11758f2e4ac3006f1d?utm_campaign=Product%20Management&utm_source=1103)** | Mobile, AL | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9be3daf1431824c96679?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator - PT](https://jobright.ai/jobs/info/68ac9b54758f2e4ac3006e6f?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, NC | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator Part Time - 6305](https://jobright.ai/jobs/info/68ac9b50daf1431824c965e0?utm_campaign=Product%20Management&utm_source=1103)** | Cleveland, OH | On Site | Aug 25 |
-| ↳ | **[Product Demonstrator - PT](https://jobright.ai/jobs/info/68ac9a88d627244576e4734d?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator Part Time - #4973](https://jobright.ai/jobs/info/68ac99f6d627244576e472a6?utm_campaign=Product%20Management&utm_source=1103)** | Dubuque, IA | On Site | Aug 25 |
 | **[ADI Global Distribution](https://www.adiglobal.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68ac999ed627244576e4722c?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | Hybrid | Aug 25 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68ac9808d627244576e47051?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 25 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator - PT](https://jobright.ai/jobs/info/68ac9470758f2e4ac3006b1b?utm_campaign=Product%20Management&utm_source=1103)** | Lodi, NJ | On Site | Aug 25 |
 | **[Resideo](https://www.resideo.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68ac928fd627244576e46e61?utm_campaign=Product%20Management&utm_source=1103)** | 1800 Continental Blvd., Charlotte, NC, 28273, US | Hybrid | Aug 25 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Manager - New to Credit](https://jobright.ai/jobs/info/68abf7b6daf1431824c929a5?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | Hybrid | Aug 24 |
-| ↳ | **[Sr Associate, Product Manager - New to Credit](https://jobright.ai/jobs/info/68abf5cfd627244576e4354a?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | Hybrid | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
