@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Snowshoe Mountain](http://www.snowshoemountain.com/jobs)** | **[Retail Product Coordinator](https://jobright.ai/jobs/info/68b4e3251ade4306aa63ecf2?utm_campaign=Product%20Management&utm_source=1103)** | Snowshoe, WV | On Site | Aug 31 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689d82bf83d13d1f5b6b0f62?utm_campaign=Product%20Management&utm_source=1103)** | Glendale, CA | On Site | Aug 31 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[SF Risk - Product Management - Associate](https://jobright.ai/jobs/info/68b44d2ebc187f64e1be32ce?utm_campaign=Product%20Management&utm_source=1103)** | Reston, VA | Hybrid | Aug 31 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Evangelist](https://jobright.ai/jobs/info/68b396f91ade4306aa63b599?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 30 |
@@ -160,8 +161,8 @@ For a complete list, click the following sortable link below:
 | **[Mastercard](http://www.mastercard.com)** | **[Associate Product Specialist, Product Management](https://jobright.ai/jobs/info/68af7f212daaba398441ecc5?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, California | On Site | Aug 27 |
 | ↳ | **[Associate Product Specialist, Launch Program 2026 - United States](https://jobright.ai/jobs/info/68af7aec1f0a2a568a0621ae?utm_campaign=Product%20Management&utm_source=1103)** | Purchase, New York | On Site | Aug 27 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Aftermarket Product Associate](https://jobright.ai/jobs/info/68af7a56962903596357d267?utm_campaign=Product%20Management&utm_source=1103)** | McConnellsburg, Pennsylvania, United States | On Site | Aug 27 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr.Associate, Product Management, CCI](https://jobright.ai/jobs/info/68af6e932daaba398441e3a7?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 27 |
-| ↳ | **[Sr.Associate, Product Management, CCI](https://jobright.ai/jobs/info/68af6dc11f0a2a568a0619ca?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 27 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr.Associate, Product Management, CCI](https://jobright.ai/jobs/info/68af6e602daaba398441e38f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 27 |
+| ↳ | **[Sr.Associate, Product Management, CCI](https://jobright.ai/jobs/info/68af6e201f0a2a568a061a52?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 27 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Strategy Product Manager Anti-Fraud Solutions](https://jobright.ai/jobs/info/68af6cda1f0a2a568a06189f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Aug 27 |
 | **[F.W. Webb Company](https://www.fwwebb.com)** | **[Customer Product Growth Specialist Trainee](https://jobright.ai/jobs/info/68af9e0b1f0a2a568a062dc9?utm_campaign=Product%20Management&utm_source=1103)** | Syracuse, NY | On Site | Aug 27 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate Product Manager, Portfolio Risk Platform, AVP](https://jobright.ai/jobs/info/68af5fe42daaba398441dbbe?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 27 |
@@ -212,11 +213,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate - Digital Product Management](https://jobright.ai/jobs/info/68acbe17d627244576e48b5f?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 25 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9cc4daf1431824c9679d?utm_campaign=Product%20Management&utm_source=1103)** | Paramus, NJ | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator Part Time  Kingston, NY](https://jobright.ai/jobs/info/68ac9c85758f2e4ac3006fb6?utm_campaign=Product%20Management&utm_source=1103)** | Kingston, NY | On Site | Aug 25 |
-| ↳ | **[Product Demonstrator - PT](https://jobright.ai/jobs/info/68ac9c31758f2e4ac3006f45?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator Part Time - #8102](https://jobright.ai/jobs/info/68ac9c11758f2e4ac3006f1d?utm_campaign=Product%20Management&utm_source=1103)** | Mobile, AL | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9be3daf1431824c96679?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator - PT](https://jobright.ai/jobs/info/68ac9b54758f2e4ac3006e6f?utm_campaign=Product%20Management&utm_source=1103)** | Burlington, NC | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator Part Time - 6305](https://jobright.ai/jobs/info/68ac9b50daf1431824c965e0?utm_campaign=Product%20Management&utm_source=1103)** | Cleveland, OH | On Site | Aug 25 |
+| ↳ | **[Product Demonstrator - PT](https://jobright.ai/jobs/info/68ac9a88d627244576e4734d?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Aug 25 |
 | ↳ | **[Product Demonstrator Part Time - #4973](https://jobright.ai/jobs/info/68ac99f6d627244576e472a6?utm_campaign=Product%20Management&utm_source=1103)** | Dubuque, IA | On Site | Aug 25 |
 | **[ADI Global Distribution](https://www.adiglobal.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68ac999ed627244576e4722c?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | Hybrid | Aug 25 |
 | ↳ | **[Associate Product Manager](https://jobright.ai/jobs/info/68ac9808d627244576e47051?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 25 |
