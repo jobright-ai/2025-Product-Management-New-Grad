@@ -202,6 +202,4 @@ For a complete list, click the following sortable link below:
 | **[Arthrex](https://www.arthrex.com/)** | **[Associate Product Manager, Global Endoscopy](https://jobright.ai/jobs/info/68afc6a5e723db6c9b7b346c?utm_campaign=Product%20Management&utm_source=1103)** | Naples, FL | On Site | Aug 27 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Aftermarket Product Associate](https://jobright.ai/jobs/info/68afd45613563e782a9f199a?utm_campaign=Product%20Management&utm_source=1103)** | McConnellsburg, PA | On Site | Aug 27 |
 | **[xo, Fetti](http://www.xofetti.com)** | **[Product Development Associate](https://jobright.ai/jobs/info/68afcc9913563e782a9f1197?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Aug 27 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/68af9fdf1f0a2a568a062edb?utm_campaign=Product%20Management&utm_source=1103)** | Avon, IN | On Site | Aug 27 |
-| ↳ | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/68af9cf8962903596357de2d?utm_campaign=Product%20Management&utm_source=1103)** | Franklin, IN | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
