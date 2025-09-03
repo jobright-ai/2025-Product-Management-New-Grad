@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68b88d1a5b42bc456282561f?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 03 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[Product Manager, I](https://jobright.ai/jobs/info/68b8770dea901c0d269f661c?utm_campaign=Product%20Management&utm_source=1103)** | Lincolnshire, IL | On Site | Sep 03 |
 | **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68b873ca5b42bc4562824987?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 03 |
 | **[Lucidworks](http://www.lucidworks.com)** | **[Product Manager, Connectors](https://jobright.ai/jobs/info/68b871f85b42bc4562824813?utm_campaign=Product%20Management&utm_source=1103)** | Remote - US | Remote | Sep 03 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Sr. Associate, Product Management - Customer Services & Strategy (US Card)](https://jobright.ai/jobs/info/68b8711fea901c0d269f6387?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | Hybrid | Sep 03 |
 | **[Holman](http://www.holmanauto.com)** | **[BMW Product Genius - BMW Mt. Laurel](https://jobright.ai/jobs/info/68b81669a9f2422e4b2256f2?utm_campaign=Product%20Management&utm_source=1103)** | Mount Laurel, NJ | On Site | Sep 03 |
 | **[Dynamo AI](https://www.dynamo.ai/)** | **[Product Manager - AI](https://jobright.ai/jobs/info/68b7e8155e55be5e2604f39c?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA, US | Remote | Sep 03 |
-| **[eBay](https://www.ebay.com/)** | **[Technical Product Manager 2, TCGplayer](https://jobright.ai/jobs/info/68b7d1ad5e55be5e2604e511?utm_campaign=Product%20Management&utm_source=1103)** | Pennsylvania, United States | Remote | Sep 02 |
 | **[Cribl](https://www.cribl.io)** | **[Business Systems Analyst, Enterprise Applications](https://jobright.ai/jobs/info/68b797e41ade4306aa64c647?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 02 |
 | **[Amazon](https://amazon.com)** | **[Product Manager III - AMZ24026.1](https://jobright.ai/jobs/info/68b79a5a1ade4306aa64c8d0?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Sep 02 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Associate Product Manager, Early Career](https://jobright.ai/jobs/info/68b798941ade4306aa64c6e2?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Sep 02 |
@@ -200,5 +200,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6893ac1ff47efe2113965eaa?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Product Owner](https://jobright.ai/jobs/info/68b00aace723db6c9b7b5a60?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | On Site | Aug 28 |
 | **[Maybern](https://maybern.com)** | **[Implementation Analyst](https://jobright.ai/jobs/info/68aff89de723db6c9b7b5023?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 27 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Associate Product Manager, Global Endoscopy](https://jobright.ai/jobs/info/68afc6a5e723db6c9b7b346c?utm_campaign=Product%20Management&utm_source=1103)** | Naples, FL | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
