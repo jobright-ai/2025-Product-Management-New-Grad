@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Obsidian Security](https://www.obsidiansecurity.com)** | **[Product Manager - Agentic AI & Security](https://jobright.ai/jobs/info/68b8d5f307090163b6ba552e?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Sep 03 |
+| ↳ | **[Product Manager - Agentic AI & Security](https://jobright.ai/jobs/info/68b8d02507090163b6ba52b4?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Sep 03 |
+| ↳ | **[Product Manager - Agentic AI & Security](https://jobright.ai/jobs/info/68b8c84d07090163b6ba4db5?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto CA | On Site | Sep 03 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Deposit Product Analyst](https://jobright.ai/jobs/info/68b8c7e707090163b6ba4d3e?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States of America | On Site | Sep 03 |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Deposit Product Analyst](https://jobright.ai/jobs/info/68b8c4e207090163b6ba4c50?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States of America | On Site | Sep 03 |
 | **[Collection XIIX, Ltd.](http://www.collection18.com)** | **[Associate Product Developer](https://jobright.ai/jobs/info/68b8b52bea901c0d269f8e14?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 03 |
-| **[Affinity Solutions](https://www.affinity.solutions)** | **[Product Management Analyst](https://jobright.ai/jobs/info/68b8ad0507090163b6ba4243?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 03 |
+| **[Affinity Solutions](https://www.affinity.solutions)** | **[Product Management Analyst (4_2025.3)](https://jobright.ai/jobs/info/68b8c903ea901c0d269f9734?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 03 |
+| ↳ | **[Product Management Analyst](https://jobright.ai/jobs/info/68b8ad0507090163b6ba4243?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 03 |
 | **[Athene](https://www.athene.com/)** | **[Product Analyst – Private Equity](https://jobright.ai/jobs/info/68b8a9ee5b42bc4562826c2f?utm_campaign=Product%20Management&utm_source=1103)** | New York City 9 West 57th Street | On Site | Sep 03 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Management Development Program - Digital Product Business Analyst-Wilmington, DE](https://jobright.ai/jobs/info/68b8a8365b42bc4562826a8f?utm_campaign=Product%20Management&utm_source=1103)** | Wilmington, DE | Hybrid | Sep 03 |
 | **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68b88d1a5b42bc456282561f?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 03 |
@@ -184,7 +190,6 @@ For a complete list, click the following sortable link below:
 | **[TurboTenant](http://www.turbotenant.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68b0f8b16fab621da7b08f4d?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Aug 28 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Manager -Digital Product Management](https://jobright.ai/jobs/info/68b0fba86fab621da7b09268?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 28 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Product - Senior Analyst/Analyst, Product Integration](https://jobright.ai/jobs/info/68b0cfeab47fb001d6895acb?utm_campaign=Product%20Management&utm_source=1103)** | Support Office (Vancouver) | On Site | Aug 28 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[Product Manager, I](https://jobright.ai/jobs/info/68b84b7007090163b6ba0b03?utm_campaign=Product%20Management&utm_source=1103)** | Holtsville, NY | On Site | Aug 28 |
 | **[maurices](https://www.maurices.com)** | **[Assistant, Product Management & Sourcing - maurices](https://jobright.ai/jobs/info/68b0ab1313563e782a9f8596?utm_campaign=Product%20Management&utm_source=1103)** | Corporate Office-maurices-Duluth, MN 55802 | On Site | Aug 28 |
 | **[Milestone AV Technologies](http://www.milestone.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68b0a6bb13563e782a9f80d7?utm_campaign=Product%20Management&utm_source=1103)** | MN-Minneapolis/St. Paul | On Site | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager - February 2026 Start Date](https://jobright.ai/jobs/info/68b0a4c4b47fb001d6894197?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
@@ -204,6 +209,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr.Associate, Product Management, CCI](https://jobright.ai/jobs/info/68b054fe2d46f6396cae4184?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 28 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Assistant Site Merchant - Strategy/Content](https://jobright.ai/jobs/info/6893fc3ba9199876488e1753?utm_campaign=Product%20Management&utm_source=1103)** | Northbrook, IL | Hybrid | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager](https://jobright.ai/jobs/info/6893ac1ff47efe2113965eaa?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
-| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Product Owner](https://jobright.ai/jobs/info/68b00aace723db6c9b7b5a60?utm_campaign=Product%20Management&utm_source=1103)** | Washington, DC | On Site | Aug 28 |
-| **[Maybern](https://maybern.com)** | **[Implementation Analyst](https://jobright.ai/jobs/info/68aff89de723db6c9b7b5023?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
