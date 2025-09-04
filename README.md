@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maverick Payments](https://www.MaverickPayments.com)** | **[Product Operations Associate I](https://jobright.ai/jobs/info/68b9f7386105227d11899cdf?utm_campaign=Product%20Management&utm_source=1103)** | Calabasas, CA | On Site | Sep 04 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Associate Product Analyst](https://jobright.ai/jobs/info/68b9f2916105227d118997f4?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | Remote | Sep 04 |
 | **[PrizePicks](https://prizepicks.com/)** | **[Game Operations - Product Operations Specialist](https://jobright.ai/jobs/info/68b9e3186105227d11898b07?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA preferred, Remote | Hybrid | Sep 04 |
 | **[Helen of Troy](https://www.helenoftroy.com)** | **[Product Development Coordinator, Liquids (Curlsmith, Drybar)](https://jobright.ai/jobs/info/68b9de815f38327491861843?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Sep 04 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Weekly Pay)](https://jobright.ai/jobs/info/68b9d9b18043103d4f21affe?utm_campaign=Product%20Management&utm_source=1103)** | Cincinnati, OH | On Site | Sep 04 |
@@ -69,10 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[Product Manager](https://jobright.ai/jobs/info/689d90bd83d13d1f5b6b1d9d?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | Sep 04 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Analyst - Product Management, Investor Relations](https://jobright.ai/jobs/info/6883b8e46fcd973d15ae2a38?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore | La Jolla | Charlotte | On Site | Sep 04 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68b948a807090163b6ba9c67?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 04 |
-| ↳ | **[Product Manager](https://jobright.ai/jobs/info/68b947fbea901c0d269fe536?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 04 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/68b941f75b42bc456282c619?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | Hybrid | Sep 04 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68b8fb6a07090163b6ba6954?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | On Site | Sep 03 |
-| ↳ | **[Product Manager](https://jobright.ai/jobs/info/68b8fb6907090163b6ba6953?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | Hybrid | Sep 03 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68b8fbc0ea901c0d269fb292?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | On Site | Sep 03 |
+| ↳ | **[Product Manager](https://jobright.ai/jobs/info/68b8fbbd07090163b6ba6969?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | Hybrid | Sep 03 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[Product Analyst – Private Equity](https://jobright.ai/jobs/info/68b8f2e75b42bc4562829358?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Sep 03 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Graduate (Colorado)](https://jobright.ai/jobs/info/68b9e2f68043103d4f21b680?utm_campaign=Product%20Management&utm_source=1103)** | Ft. Collins, Colorado, United States of America | Hybrid | Sep 03 |
 | **[ADP](http://www.adp.com)** | **[Product Change Specialist](https://jobright.ai/jobs/info/68b8f22f5b42bc45628292a5?utm_campaign=Product%20Management&utm_source=1103)** | Salem, NH | On Site | Sep 03 |
