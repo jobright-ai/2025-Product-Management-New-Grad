@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jennifer Fisher Jewelry](https://jenniferfisherjewelry.com/)** | **[Associate, Product Development (Jennifer Fisher Fine Jewelry)](https://jobright.ai/jobs/info/68813adb29ad6b2744ae06f1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 04 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Analyst - Product Management, Investor Relations](https://jobright.ai/jobs/info/6883b8e46fcd973d15ae2a38?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore | La Jolla | Charlotte | On Site | Sep 04 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68b948a807090163b6ba9c67?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 04 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/68b947fbea901c0d269fe536?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 04 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/68b941f75b42bc456282c619?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | Hybrid | Sep 04 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68b8fb6a07090163b6ba6954?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | On Site | Sep 03 |
-| ↳ | **[Product Manager](https://jobright.ai/jobs/info/68b8fb6907090163b6ba6953?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | Hybrid | Sep 03 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68b8fbc0ea901c0d269fb292?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | On Site | Sep 03 |
+| ↳ | **[Product Manager](https://jobright.ai/jobs/info/68b8fbbd07090163b6ba6969?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | Hybrid | Sep 03 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[Product Analyst – Private Equity](https://jobright.ai/jobs/info/68b8f2e75b42bc4562829358?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Sep 03 |
 | **[ADP](http://www.adp.com)** | **[Product Change Specialist](https://jobright.ai/jobs/info/68b8f22f5b42bc45628292a5?utm_campaign=Product%20Management&utm_source=1103)** | Salem, NH | On Site | Sep 03 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Deposit Product Analyst](https://jobright.ai/jobs/info/68b8eafb07090163b6ba62fa?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 03 |
@@ -199,6 +200,4 @@ For a complete list, click the following sortable link below:
 | **[TurboTenant](http://www.turbotenant.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68b0f8b16fab621da7b08f4d?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Aug 28 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Manager -Digital Product Management](https://jobright.ai/jobs/info/68b0fba86fab621da7b09268?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 28 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Product - Senior Analyst/Analyst, Product Integration](https://jobright.ai/jobs/info/68b0cfeab47fb001d6895acb?utm_campaign=Product%20Management&utm_source=1103)** | Support Office (Vancouver) | On Site | Aug 28 |
-| **[maurices](https://www.maurices.com)** | **[Assistant, Product Management & Sourcing - maurices](https://jobright.ai/jobs/info/68b0ab1313563e782a9f8596?utm_campaign=Product%20Management&utm_source=1103)** | Corporate Office-maurices-Duluth, MN 55802 | On Site | Aug 28 |
-| **[Milestone AV Technologies](http://www.milestone.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68b0a6bb13563e782a9f80d7?utm_campaign=Product%20Management&utm_source=1103)** | MN-Minneapolis/St. Paul | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
