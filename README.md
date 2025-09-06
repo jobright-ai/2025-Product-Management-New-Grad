@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/68bbd2ac6105227d118aa27a?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | On Site | Sep 05 |
 | **[SimplyInsured](http://www.simplyinsured.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68bb97ce5f3832749187081d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 05 |
 | **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGER II](https://jobright.ai/jobs/info/68bb936f6105227d118a7357?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Sep 05 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator (18hr + Commission)](https://jobright.ai/jobs/info/68bb7dc85f3832749186f809?utm_campaign=Product%20Management&utm_source=1103)** | Louisville, KY | On Site | Sep 05 |
@@ -202,5 +203,4 @@ For a complete list, click the following sortable link below:
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Product Operations Coordinator](https://jobright.ai/jobs/info/6841e7ada9cc09dc8db102e1?utm_campaign=Product%20Management&utm_source=1103)** | Inglewood, CA | On Site | Aug 30 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/68903da54c7e851b90ac523a?utm_campaign=Product%20Management&utm_source=1103)** | Louisville, KY | On Site | Aug 30 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Evangelist](https://jobright.ai/jobs/info/68b363641ade4306aa63b382?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Aug 30 |
-| **[Capital One](http://www.capitalone.com)** | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/685c56ea674c8f94e8e48890?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
