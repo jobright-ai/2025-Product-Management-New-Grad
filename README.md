@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kravet](http://www.kravet.com)** | **[Product Assistant, Floor Covering](https://jobright.ai/jobs/info/68c09dbd8e65e77df55c31e6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 09 |
+| **[Aerie by AEO, Inc.](https://www.aerie.com)** | **[Freelance Assistant - Product Development, Women's Denim](https://jobright.ai/jobs/info/68c099bf702aa35207aaf08d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, United States | Hybrid | Sep 09 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[MBA Product Management](https://jobright.ai/jobs/info/68c07bf38e65e77df55c18e1?utm_campaign=Product%20Management&utm_source=1103)** | Round Rock, Texas, United States | On Site | Sep 09 |
-| ↳ | **[MBA Product Management](https://jobright.ai/jobs/info/68c07ac95c5d5f14f46de16b?utm_campaign=Product%20Management&utm_source=1103)** | Hopkinton, Massachusetts, United States | On Site | Sep 09 |
+| **[Arc'teryx Equipment](http://arcteryx.com)** | **[Product Guide - Full-Time Seasonal](https://jobright.ai/jobs/info/68c0964c8e65e77df55c2e99?utm_campaign=Product%20Management&utm_source=1103)** | Park City, UT | On Site | Sep 09 |
+| **[Berkshire Hathaway Specialty Insurance](http://www.bhspecialty.com)** | **[Associate Product Specialist](https://jobright.ai/jobs/info/68c08903702aa35207aae60d?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Sep 09 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[MBA Product Management](https://jobright.ai/jobs/info/68c07ac95c5d5f14f46de16b?utm_campaign=Product%20Management&utm_source=1103)** | Hopkinton, Massachusetts, United States | On Site | Sep 09 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Product Delivery Analyst](https://jobright.ai/jobs/info/68af83322daaba398441edbe?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Sep 09 |
 | **[Route](https://route.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68c0744a5c5d5f14f46ddb4a?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 09 |
 | **[Belden Inc.](http://belden.com)** | **[ASSOCIATE PRODUCT MANAGER - Wire/Cable](https://jobright.ai/jobs/info/68c070dd8e65e77df55c1153?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Sep 09 |
@@ -109,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst - Product Management, Investor Relations](https://jobright.ai/jobs/info/6883e71e835a903aa07f8a7e?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | On Site | Sep 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Insurance Product Management Analyst](https://jobright.ai/jobs/info/68bbd2ac6105227d118aa27a?utm_campaign=Product%20Management&utm_source=1103)** | Trenton, NJ | On Site | Sep 05 |
 | **[Wizards of the Coast](http://company.wizards.com/)** | **[Associate Digital Product Manager - Arena](https://jobright.ai/jobs/info/689e30b179a9f9666254795f?utm_campaign=Product%20Management&utm_source=1103)** | Renton, WA | On Site | Sep 05 |
-| **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGER II](https://jobright.ai/jobs/info/68be5d583d31ec76b7e89cff?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Sep 05 |
 | **[SimplyInsured](http://www.simplyinsured.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68bb97ce5f3832749187081d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 05 |
+| **[TE Connectivity](http://www.te.com)** | **[PRODUCT MANAGER II](https://jobright.ai/jobs/info/68bd669fdf5eec448f63ca6c?utm_campaign=Product%20Management&utm_source=1103)** | Harrisburg, PA | On Site | Sep 05 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator (18hr + Commission)](https://jobright.ai/jobs/info/68bb7dc85f3832749186f809?utm_campaign=Product%20Management&utm_source=1103)** | Louisville, KY | On Site | Sep 05 |
 | **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Associate Development Editor - Health](https://jobright.ai/jobs/info/68bb791e5f3832749186f6d4?utm_campaign=Product%20Management&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 05 |
 | ↳ | **[Associate Development Editor - Health](https://jobright.ai/jobs/info/68bb77dc6105227d118a62bf?utm_campaign=Product%20Management&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Sep 05 |
@@ -146,7 +150,7 @@ For a complete list, click the following sortable link below:
 | **[Granicus](http://www.granicus.com)** | **[Technical Product Owner - Entry Level](https://jobright.ai/jobs/info/688155c5f4f06100f3a262b8?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 05 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/6894deb34ed2ea559ca513d1?utm_campaign=Product%20Management&utm_source=1103)** | Summerville, SC | On Site | Sep 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68baeb395f3832749186a92f?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | Hybrid | Sep 05 |
-| ↳ | **[Product Manager](https://jobright.ai/jobs/info/68baea316105227d118a1692?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 05 |
+| ↳ | **[Product Manager](https://jobright.ai/jobs/info/68bae9c66105227d118a1649?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 05 |
 | **[Henry Schein One](http://www.henryscheinone.com/)** | **[Product Manager (RCM)](https://jobright.ai/jobs/info/68baa35c5f38327491868d43?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 05 |
 | **[Henry Schein One](http://www.henryscheinone.com/)** | **[Product Manager (RCM)](https://jobright.ai/jobs/info/68ba86768043103d4f221422?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 04 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operation Educator](https://jobright.ai/jobs/info/68baa2978043103d4f222473?utm_campaign=Product%20Management&utm_source=1103)** | Oak Brook, IL | On Site | Sep 04 |
@@ -167,7 +171,7 @@ For a complete list, click the following sortable link below:
 | **[Advanced Alchemy](http://www.advanced-alchemy.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/68bbc01e5f383274918729d4?utm_campaign=Product%20Management&utm_source=1103)** | Commerce, CA | On Site | Sep 03 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68ba46c38043103d4f21f33d?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 03 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/68ba47048043103d4f21f368?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 03 |
-| ↳ | **[Product Manager](https://jobright.ai/jobs/info/68ba41696105227d1189c699?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | On Site | Sep 03 |
+| ↳ | **[Product Manager](https://jobright.ai/jobs/info/68ba416d8043103d4f21f159?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | On Site | Sep 03 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[Product Analyst – Private Equity](https://jobright.ai/jobs/info/68b8f2e75b42bc4562829358?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Sep 03 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Management Graduate (Colorado)](https://jobright.ai/jobs/info/68b9e2f68043103d4f21b680?utm_campaign=Product%20Management&utm_source=1103)** | Ft. Collins, Colorado, United States of America | Hybrid | Sep 03 |
 | **[ADP](http://www.adp.com)** | **[Product Change Specialist](https://jobright.ai/jobs/info/68b8f22f5b42bc45628292a5?utm_campaign=Product%20Management&utm_source=1103)** | Salem, NH | On Site | Sep 03 |
