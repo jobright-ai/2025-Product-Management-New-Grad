@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visa](https://www.visa.com)** | **[Associate Product Manager (APM), New College Graduate Rotational Program - 2026](https://jobright.ai/jobs/info/68c158774d652f0447757271?utm_campaign=Product%20Management&utm_source=1103)** | Foster City, CA | Hybrid | Sep 10 |
 | **[Imagine Pediatrics](https://www.imaginepediatrics.org)** | **[Associate Data Product Manager](https://jobright.ai/jobs/info/68c13334233c7d3e64d00ca3?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 10 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68bae9c66105227d118a1649?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 10 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/68baeb395f3832749186a92f?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | Hybrid | Sep 10 |
@@ -175,7 +176,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[Product Manager](https://jobright.ai/jobs/info/689d90bd83d13d1f5b6b1d9d?utm_campaign=Product%20Management&utm_source=1103)** | Lehi, UT | On Site | Sep 04 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Analyst - Product Management, Investor Relations](https://jobright.ai/jobs/info/6883b8e46fcd973d15ae2a38?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore | La Jolla | Charlotte | On Site | Sep 04 |
 | **[Advanced Alchemy](http://www.advanced-alchemy.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/68bbc01e5f383274918729d4?utm_campaign=Product%20Management&utm_source=1103)** | Commerce, CA | On Site | Sep 03 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68ba44a98043103d4f21f1c6?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 03 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Product Manager](https://jobright.ai/jobs/info/68ba46c38043103d4f21f33d?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 03 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/68ba47048043103d4f21f368?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, WI | On Site | Sep 03 |
 | ↳ | **[Product Manager](https://jobright.ai/jobs/info/68ba416d8043103d4f21f159?utm_campaign=Product%20Management&utm_source=1103)** | Chippewa Falls, Wisconsin, United States of America | On Site | Sep 03 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[Product Analyst – Private Equity](https://jobright.ai/jobs/info/68b8f2e75b42bc4562829358?utm_campaign=Product%20Management&utm_source=1103)** | NYC Metro Area | On Site | Sep 03 |
@@ -194,6 +195,4 @@ For a complete list, click the following sortable link below:
 | **[Affinity Solutions](https://www.affinity.solutions)** | **[Product Management Analyst](https://jobright.ai/jobs/info/68b8ad0507090163b6ba4243?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 03 |
 | **[Athene](https://www.athene.com/)** | **[Product Analyst – Private Equity](https://jobright.ai/jobs/info/68b8a9ee5b42bc4562826c2f?utm_campaign=Product%20Management&utm_source=1103)** | New York City 9 West 57th Street | On Site | Sep 03 |
 | **[M&T Bank](https://www3.mtb.com/)** | **[2026 Management Development Program - Digital Product Business Analyst-Wilmington, DE](https://jobright.ai/jobs/info/68b8a8365b42bc4562826a8f?utm_campaign=Product%20Management&utm_source=1103)** | Wilmington, DE | Hybrid | Sep 03 |
-| **[Newsela](http://newsela.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68b88d1a5b42bc456282561f?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 03 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/6895533673b3a600fe8869e2?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
