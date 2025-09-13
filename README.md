@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jazwares, LLC](http://jazwares.com)** | **[Global Brand Associate - Pokémon](https://jobright.ai/jobs/info/68c4c7b331e5763f188e384d?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 12 |
+| **[Jazwares, LLC](http://jazwares.com)** | **[Global Brand Associate - Pokémon](https://jobright.ai/jobs/info/68c4d21631e5763f188e3d3d?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 12 |
+| ↳ | **[Global Brand Associate - Pokémon](https://jobright.ai/jobs/info/68c4c7b331e5763f188e384d?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 12 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Product - Associate, Samples](https://jobright.ai/jobs/info/68c4947314bb275ce0194bce?utm_campaign=Product%20Management&utm_source=1103)** | Support Office (Vancouver) | On Site | Sep 12 |
 | **[Tennr](https://www.tennr.com)** | **[Technical Product Manager (Platform TPM)](https://jobright.ai/jobs/info/68c45c2c14bb275ce0192ba1?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 12 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/68c4abb531e5763f188e2725?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Sep 12 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate Product Manager, Portfolio Risk Platform, AVP](https://jobright.ai/jobs/info/68bbcba55f38327491873137?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 12 |
 | **[Meison](http://www.toula.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/68c3b82e6031587f8458e15c?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 11 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/68c3abda80e77b1fa6fcbd8c?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Sep 11 |
-| **[Jennifer Fisher Jewelry](https://jenniferfisherjewelry.com/)** | **[Product Development Associate (Jennifer Fisher Fine Jewelry)](https://jobright.ai/jobs/info/68c38b0e80e77b1fa6fca219?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 11 |
 | **[Piping Rock Health Products](https://www.pipingrock.com/)** | **[Product Testing Coordinator](https://jobright.ai/jobs/info/68c3744580e77b1fa6fc959a?utm_campaign=Product%20Management&utm_source=1103)** | 3900 Veterans Memorial Highway, 3900 Veterans Hwy., Bohemia, New York, United States of America | On Site | Sep 11 |
 | **[Aristocrat Gaming](https://www.aristocrat.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/68c370b480e77b1fa6fc9214?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA, US | Hybrid | Sep 11 |
 | **[Meison](http://www.toula.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/68c370ac6031587f8458abd7?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 11 |
@@ -83,10 +83,10 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Junior Product Manager](https://jobright.ai/jobs/info/68c3337863829b0a8a500c86?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Sep 11 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Business Systems Analyst - Product Illustrations / Hybrid](https://jobright.ai/jobs/info/68c32a425adaee6c9bda7cff?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | Hybrid | Sep 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/68c325d25001f8077bf619e4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 11 |
-| ↳ | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/68c325ab5adaee6c9bda7ad7?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Sep 11 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Junior Product Manager](https://jobright.ai/jobs/info/68c3252e63829b0a8a500352?utm_campaign=Product%20Management&utm_source=1103)** | San Jose | On Site | Sep 11 |
 | ↳ | **[2026 University Graduate - Junior Product Manager](https://jobright.ai/jobs/info/68c325295001f8077bf618b1?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco | On Site | Sep 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/68c3251663829b0a8a500339?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Sep 11 |
+| ↳ | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/68c325035adaee6c9bda79a4?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Sep 11 |
 | **[Athene](https://www.athene.com/)** | **[Real Estate Product Management Analyst](https://jobright.ai/jobs/info/68c31ef45001f8077bf6149f?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York | On Site | Sep 11 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/68c349bc80e77b1fa6fc7efc?utm_campaign=Product%20Management&utm_source=1103)** | Rogers, AR | On Site | Sep 11 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[Real Estate Product Management Analyst](https://jobright.ai/jobs/info/68c31f1e5adaee6c9bda75dc?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 11 |
@@ -174,9 +174,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory National - Product Strategy Associate - Summer/Fall 2026](https://jobright.ai/jobs/info/68bf1d205c5d5f14f46d3c0a?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Sep 08 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34ad580e77b1fa6fc809a?utm_campaign=Product%20Management&utm_source=1103)** | Manhasset, NY | On Site | Sep 08 |
 | ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c349986031587f84589907?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Sep 08 |
-| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34a486031587f84589a24?utm_campaign=Product%20Management&utm_source=1103)** | Appleton, WI | On Site | Sep 08 |
-| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34a6e6031587f84589a3d?utm_campaign=Product%20Management&utm_source=1103)** | San Antonio, TX | On Site | Sep 08 |
 | ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34af46031587f84589ab4?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | On Site | Sep 08 |
+| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34a6e6031587f84589a3d?utm_campaign=Product%20Management&utm_source=1103)** | San Antonio, TX | On Site | Sep 08 |
+| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34a486031587f84589a24?utm_campaign=Product%20Management&utm_source=1103)** | Appleton, WI | On Site | Sep 08 |
 | **[The Hartford](http://www.thehartford.com)** | **[Associate, Product Leadership Development Program](https://jobright.ai/jobs/info/68bf18995c5d5f14f46d3abb?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | Hybrid | Sep 08 |
 | **[O&M Halyard](https://www.halyardhealth.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68bf15b48e65e77df55b6cf4?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Sep 08 |
 | **[Figma](https://www.figma.com)** | **[Early Career, Associate Product Manager (2026)](https://jobright.ai/jobs/info/68bf0e928e65e77df55b68cc?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA • New York, NY | On Site | Sep 08 |
@@ -194,5 +194,4 @@ For a complete list, click the following sortable link below:
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Product Master Data Assistant](https://jobright.ai/jobs/info/6883f594b54cac0f1e73b44d?utm_campaign=Product%20Management&utm_source=1103)** | Carlsbad, CA | On Site | Sep 07 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34ae380e77b1fa6fc80a8?utm_campaign=Product%20Management&utm_source=1103)** | Hoboken, NJ | On Site | Sep 06 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Analyst - Product Management, Investor Relations](https://jobright.ai/jobs/info/6883ead7835a903aa07f8d5d?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | On Site | Sep 06 |
-| ↳ | **[Analyst - Product Management, Investor Relations](https://jobright.ai/jobs/info/6883e71e835a903aa07f8a7e?utm_campaign=Product%20Management&utm_source=1103)** | Baltimore, MD | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
