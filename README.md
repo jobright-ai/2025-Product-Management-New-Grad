@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Horizon Next](https://www.horizon-next.com)** | **[Analyst, Product Management](https://jobright.ai/jobs/info/68c664557d0db41142739862?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 14 |
-| **[GamblingCareers.com](www.gamblingcareers.com)** | **[Data Product Manager](https://jobright.ai/jobs/info/68c6024e7d0db411427357a4?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Sep 13 |
 | **[Gap Inc.](https://www.gapinc.com/en-us/)** | **[Assistant Manager, Product Operations - Valley Fair](https://jobright.ai/jobs/info/68c5914bdb52c07d28843412?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Sep 13 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/68942acba9199876488e318a?utm_campaign=Product%20Management&utm_source=1103)** | West Columbia, SC | On Site | Sep 13 |
 | ↳ | **[Product Demonstrator](https://jobright.ai/jobs/info/6891785af5ee707a15dbeb23?utm_campaign=Product%20Management&utm_source=1103)** | League City, TX | On Site | Sep 13 |
@@ -68,7 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Brand Associate - Pokémon](https://jobright.ai/jobs/info/68c4c7b331e5763f188e384d?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 12 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Product - Associate, Samples](https://jobright.ai/jobs/info/68c4947314bb275ce0194bce?utm_campaign=Product%20Management&utm_source=1103)** | Support Office (Vancouver) | On Site | Sep 12 |
 | **[Tennr](https://www.tennr.com)** | **[Technical Product Manager (Platform TPM)](https://jobright.ai/jobs/info/68c4f9e6db52c07d2883f1b6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 12 |
-| **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/68c43062e396b25cb5c65eba?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Sep 12 |
+| **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/68c4abb531e5763f188e2725?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Sep 12 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Product Owner I - Grievance and Appeals](https://jobright.ai/jobs/info/68c42fb814bb275ce0191548?utm_campaign=Product%20Management&utm_source=1103)** | Long Beach, CA | Hybrid | Sep 12 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate - Digital Product Management](https://jobright.ai/jobs/info/68c42f79e396b25cb5c65ddf?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Sep 12 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Product Implementation Specialist - Foundations](https://jobright.ai/jobs/info/68c41a0614bb275ce0190f92?utm_campaign=Product%20Management&utm_source=1103)** | 4201 Congress St, Charlotte, NC, 28209, US | On Site | Sep 12 |
@@ -92,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Allegiant](https://www.allegiantair.com/)** | **[Solutions Delivery Manager I](https://jobright.ai/jobs/info/68c35103b8c22d3828470e1f?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | Hybrid | Sep 11 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[Real Estate Product Management Analyst](https://jobright.ai/jobs/info/68c333ef5adaee6c9bda83ad?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 11 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Business Systems Analyst - Product Illustrations / Hybrid](https://jobright.ai/jobs/info/68c32a425adaee6c9bda7cff?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | Hybrid | Sep 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/68c326145001f8077bf61a62?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 11 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/68c325d25001f8077bf619e4?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 11 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Junior Product Manager](https://jobright.ai/jobs/info/68c3252e63829b0a8a500352?utm_campaign=Product%20Management&utm_source=1103)** | San Jose | On Site | Sep 11 |
 | ↳ | **[2026 University Graduate - Junior Product Manager](https://jobright.ai/jobs/info/68c325295001f8077bf618b1?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco | On Site | Sep 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Business Cards & Payments](https://jobright.ai/jobs/info/68c3251663829b0a8a500339?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Sep 11 |
@@ -175,14 +173,13 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Advisory National - Product Strategy Associate - Summer/Fall 2026](https://jobright.ai/jobs/info/68bf1ff2702aa35207aa3516?utm_campaign=Product%20Management&utm_source=1103)** | Buffalo-Niagara Area | On Site | Sep 08 |
 | ↳ | **[Advisory National - Product Strategy Associate - Summer/Fall 2026](https://jobright.ai/jobs/info/68bf1d205c5d5f14f46d3c0a?utm_campaign=Product%20Management&utm_source=1103)** | Dallas, TX | On Site | Sep 08 |
 | **[lululemon](http://shop.lululemon.com)** | **[Product Operations Lead](https://jobright.ai/jobs/info/68c349986031587f84589907?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | On Site | Sep 08 |
-| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34a486031587f84589a24?utm_campaign=Product%20Management&utm_source=1103)** | Appleton, WI | On Site | Sep 08 |
-| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34af46031587f84589ab4?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | On Site | Sep 08 |
 | ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34a6e6031587f84589a3d?utm_campaign=Product%20Management&utm_source=1103)** | San Antonio, TX | On Site | Sep 08 |
+| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34af46031587f84589ab4?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | On Site | Sep 08 |
+| ↳ | **[Product Operations Lead](https://jobright.ai/jobs/info/68c34a486031587f84589a24?utm_campaign=Product%20Management&utm_source=1103)** | Appleton, WI | On Site | Sep 08 |
 | **[O&M Halyard](https://www.halyardhealth.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68bf15b48e65e77df55b6cf4?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Sep 08 |
 | **[Figma](https://www.figma.com)** | **[Early Career, Associate Product Manager (2026)](https://jobright.ai/jobs/info/68bf0e928e65e77df55b68cc?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA • New York, NY | On Site | Sep 08 |
 | **[Apria](http://www.apria.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68bf09ae5c5d5f14f46d31a4?utm_campaign=Product%20Management&utm_source=1103)** | Alpharetta, GA | On Site | Sep 08 |
 | **[GEICO](http://www.geico.com)** | **[Product Deployment Analyst- Hybrid](https://jobright.ai/jobs/info/68bedeb15c5d5f14f46d1b71?utm_campaign=Product%20Management&utm_source=1103)** | Chevy Chase, MD | Hybrid | Sep 08 |
 | ↳ | **[Product Deployment Analyst- Hybrid](https://jobright.ai/jobs/info/68beddb7702aa35207aa10b7?utm_campaign=Product%20Management&utm_source=1103)** | Cleveland, OH | Hybrid | Sep 08 |
 | **[The Hartford](http://www.thehartford.com)** | **[Associate, Product Leadership Development Program](https://jobright.ai/jobs/info/68bed21b5c5d5f14f46d138a?utm_campaign=Product%20Management&utm_source=1103)** | Hartford, CT | Hybrid | Sep 08 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/6894c9b34ed2ea559ca50671?utm_campaign=Product%20Management&utm_source=1103)** | Garland, TX | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
