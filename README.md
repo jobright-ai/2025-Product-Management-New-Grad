@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apex Energy Solutions](http://apexenergygroup.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68d29a67f0d9af73038d99d2?utm_campaign=Product%20Management&utm_source=1103)** | US-OH-Twinsburg | Hybrid | Sep 23 |
 | **[Acuity Brands Lighting Canada](https://www.acuitybrands.ca/)** | **[Leadership Program - Data & Product Management Technology (Remote)](https://jobright.ai/jobs/info/68d24d11a54edb3bf3e1d4c9?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | Remote | Sep 22 |
 | **[Girl Scouts of Gateway Council](http://www.girlscouts-gateway.org/)** | **[Community Product Manager C8 and Product Booth Logistics Coordinator](https://jobright.ai/jobs/info/68d1f31217554c2d9eee1803?utm_campaign=Product%20Management&utm_source=1103)** | Jacksonville, FL 32216 | Hybrid | Sep 22 |
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1ec9a8c62e63bc7fd11c8?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Sep 22 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Junior Agile Business Analyst/Tester](https://jobright.ai/jobs/info/68d1df468c62e63bc7fd06f2?utm_campaign=Product%20Management&utm_source=1103)** | Crofton, MD | Hybrid | Sep 22 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[ASSOCIATE PRODUCT MANAGER](https://jobright.ai/jobs/info/68d1d9878c62e63bc7fd022c?utm_campaign=Product%20Management&utm_source=1103)** | Hunt Valley, MD | Hybrid | Sep 22 |
 | **[Securian Financial](https://www.securian.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/68d1d6f817554c2d9eee01e5?utm_campaign=Product%20Management&utm_source=1103)** | St Paul, MN | Hybrid | Sep 22 |
-| **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1cefb17554c2d9eedfe3a?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Sep 22 |
-| ↳ | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1ce3617554c2d9eedfd78?utm_campaign=Product%20Management&utm_source=1103)** | Fort Mill, SC | Hybrid | Sep 22 |
+| **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1ce178c62e63bc7fcfd20?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Sep 22 |
+| ↳ | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1cdc0a54edb3bf3e1647b?utm_campaign=Product%20Management&utm_source=1103)** | Fort Mill, SC | Hybrid | Sep 22 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Associate - Digital Product Management](https://jobright.ai/jobs/info/68d1e20f17554c2d9eee088b?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Sep 22 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Product Specialist](https://jobright.ai/jobs/info/68d1c5e017554c2d9eedfa58?utm_campaign=Product%20Management&utm_source=1103)** | Saint Paul, MN Campus | Hybrid | Sep 22 |
 | **[iSpot](http://www.ispot.tv)** | **[Product Manager](https://jobright.ai/jobs/info/68d1bccf17554c2d9eedf21d?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Sep 22 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Urban Outfitters](https://www.urbanoutfitters.com/)** | **[Urban Outfitters Product Flow Specialist](https://jobright.ai/jobs/info/68cea0fb846f0b04af67bb11?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Sep 19 |
 | **[Google](https://www.google.com)** | **[YouTube Content Partner Engineer](https://jobright.ai/jobs/info/68cd1b0de23def7af55b572c?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA, USA | On Site | Sep 19 |
 | ↳ | **[YouTube Content Partner Engineer](https://jobright.ai/jobs/info/68cd1acd1ad6b16f02895003?utm_campaign=Product%20Management&utm_source=1103)** | San Bruno, CA, USA | On Site | Sep 19 |
-| ↳ | **[YouTube Content Partner Engineer](https://jobright.ai/jobs/info/68cd1a991ad6b16f02894f99?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA, USA | On Site | Sep 19 |
 | ↳ | **[YouTube Content Partner Engineer](https://jobright.ai/jobs/info/68cd1a99b2a74e1837ed273e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Sep 19 |
+| ↳ | **[YouTube Content Partner Engineer](https://jobright.ai/jobs/info/68cd1a991ad6b16f02894f99?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA, USA | On Site | Sep 19 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Associate Product Manager, Global Endoscopy](https://jobright.ai/jobs/info/68afc6a5e723db6c9b7b346c?utm_campaign=Product%20Management&utm_source=1103)** | Naples, FL | On Site | Sep 19 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68af4bd82daaba398441cf5e?utm_campaign=Product%20Management&utm_source=1103)** | Branson, MO | On Site | Sep 18 |
 | **[Edmund Optics](http://www.edmundoptics.com/)** | **[Product Engineer, Brand Partners](https://jobright.ai/jobs/info/68cf9590dbd9fb154ede8e91?utm_campaign=Product%20Management&utm_source=1103)** | Cherry Hill, NJ | On Site | Sep 18 |
@@ -165,7 +166,6 @@ For a complete list, click the following sortable link below:
 | **[Selective Insurance](https://www.selective.com/)** | **[Associate Product Owner (Hybrid)](https://jobright.ai/jobs/info/6893ba09f47efe21139666a1?utm_campaign=Product%20Management&utm_source=1103)** | Dresher, PA | Hybrid | Sep 18 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Offer and Product Operations Specialist](https://jobright.ai/jobs/info/68cbef7d7342c7623ae5c631?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Sep 18 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68ce8c45dbd9fb154ede0afa?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Sep 18 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator ($18/hr + Commission)](https://jobright.ai/jobs/info/68cbee1e128dc347fd91c299?utm_campaign=Product%20Management&utm_source=1103)** | Franklin, IN | On Site | Sep 18 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68ccdab277add66568abab61?utm_campaign=Product%20Management&utm_source=1103)** | Wilsonville, OR | On Site | Sep 18 |
 | **[Aristocrat](http://www.aristocrat.com)** | **[Junior Product Manager](https://jobright.ai/jobs/info/68cd32881ad6b16f028965dd?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | On Site | Sep 18 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager (Hardware)](https://jobright.ai/jobs/info/68cd206fb2a74e1837ed2cf2?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clarita, CA | On Site | Sep 18 |
@@ -212,7 +212,4 @@ For a complete list, click the following sortable link below:
 | **[NOBLE KNIGHT GAMES, INC.](https://www.nobleknight.com)** | **[Game Curator (2nd Shift)](https://jobright.ai/jobs/info/68cb2286ba798c1a501cc3d0?utm_campaign=Product%20Management&utm_source=1103)** | Fitchburg, WI | On Site | Sep 16 |
 | **[Google](https://www.google.com)** | **[Associate Product Manager, University Graduate, 2026 Start](https://jobright.ai/jobs/info/68cf4f12dbd9fb154ede61f6?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Sep 16 |
 | **[BOXFOX, Inc.](http://shopBOXFOX.com)** | **[Seasonal Product Planning Coordinator](https://jobright.ai/jobs/info/68c9ea94f9c6ff7aedf1f278?utm_campaign=Product%20Management&utm_source=1103)** | Hawthorne, CA | On Site | Sep 16 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[MBA Product Management](https://jobright.ai/jobs/info/68cd5cf0e23def7af55b8c7c?utm_campaign=Product%20Management&utm_source=1103)** | Round Rock, TX | On Site | Sep 16 |
-| **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Analyst-U.S. Platinum Card Product Management - Go to Market](https://jobright.ai/jobs/info/68ca3de7f61c922772a757ed?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 16 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager - Capital One Travel](https://jobright.ai/jobs/info/68c9d777f9c6ff7aedf1e559?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
