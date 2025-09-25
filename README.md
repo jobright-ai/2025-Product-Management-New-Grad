@@ -98,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[CHAMP](http://www.champtitles.com)** | **[Product Analyst](https://jobright.ai/jobs/info/68d31aa217554c2d9eeeded3?utm_campaign=Product%20Management&utm_source=1103)** | Cleveland, OH | On Site | Sep 23 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management - Card Management & Security](https://jobright.ai/jobs/info/68d316898c62e63bc7fdda3f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 23 |
 | ↳ | **[Sr. Associate, Product Management - Card Management & Security](https://jobright.ai/jobs/info/68d315548c62e63bc7fdd8b7?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Sep 23 |
-| ↳ | **[Sr. Associate, Product Management - Card Management & Security](https://jobright.ai/jobs/info/68d3137c17554c2d9eeedb23?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Sep 23 |
+| ↳ | **[Sr. Associate, Product Management - Card Management & Security](https://jobright.ai/jobs/info/68d31288f0d9af73038ded40?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Sep 23 |
 | ↳ | **[Sr. Associate, Product Management - Card Management & Security](https://jobright.ai/jobs/info/68d3128817554c2d9eeed9fc?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Sep 23 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Product Management Analyst](https://jobright.ai/jobs/info/68d3009a17554c2d9eeecc3c?utm_campaign=Product%20Management&utm_source=1103)** | Cary, NC | On Site | Sep 23 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Product Lifecycle Management Specialist](https://jobright.ai/jobs/info/68d2f72417554c2d9eeec3be?utm_campaign=Product%20Management&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 23 |
@@ -185,5 +185,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[YouTube Content Partner Engineer](https://jobright.ai/jobs/info/68cd1a99b2a74e1837ed273e?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY, USA | On Site | Sep 19 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Associate Product Manager, Global Endoscopy](https://jobright.ai/jobs/info/68afc6a5e723db6c9b7b346c?utm_campaign=Product%20Management&utm_source=1103)** | Naples, FL | On Site | Sep 19 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68af4bd82daaba398441cf5e?utm_campaign=Product%20Management&utm_source=1103)** | Branson, MO | On Site | Sep 18 |
-| **[Edmund Optics](http://www.edmundoptics.com/)** | **[Product Engineer, Brand Partners](https://jobright.ai/jobs/info/68cf9590dbd9fb154ede8e91?utm_campaign=Product%20Management&utm_source=1103)** | Cherry Hill, NJ | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
