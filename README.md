@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cef5f7fb49c96ca6ea4814?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 06 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Product Manager, Lash Category](https://jobright.ai/jobs/info/68ce60a3846f0b04af67937a?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 05 |
 | **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/68d19a17cece431f8b585b6a?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Oct 04 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/689733c81b9e81727f196122?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 04 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Assistant Product Manager, Lash Category](https://jobright.ai/jobs/info/68ccce1ea77e5d7d744f5a24?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 04 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68a9060ed627244576e36eae?utm_campaign=Product%20Management&utm_source=1103)** | Chelsea, MI | On Site | Oct 04 |
 | **[Jennifer Fisher Jewelry](https://jenniferfisherjewelry.com/)** | **[Product Development Associate (Jennifer Fisher Fine Jewelry)](https://jobright.ai/jobs/info/68cfe7d9fb49c96ca6eac7be?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 04 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cef5f7fb49c96ca6ea4814?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 04 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Manager - New to Credit](https://jobright.ai/jobs/info/68c2caf45001f8077bf5e187?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (Measurement Signal and Privacy Product Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68cf6c4dfb49c96ca6ea888e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Brand Ads Product Manager Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd31cde23def7af55b6a6a?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
@@ -95,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Helen of Troy](https://www.helenoftroy.com)** | **[Product Development Coordinator, Liquids (Curlsmith, Drybar)](https://jobright.ai/jobs/info/68cd5c6cb2a74e1837ed5fc9?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Sep 30 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager (Hardware)](https://jobright.ai/jobs/info/68cd4b0c1ad6b16f028979ca?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Sep 30 |
 | **[Lyon-Waugh Auto Group](https://www.lyonwaugh.com)** | **[Product Genius-BMW of Peabody](https://jobright.ai/jobs/info/68db96ee34f2c406da6db651?utm_campaign=Product%20Management&utm_source=1103)** | Peabody, MA | On Site | Sep 30 |
-| **[Ramp](https://ramp.com)** | **[Product Operations Specialist / Procurement](https://jobright.ai/jobs/info/68db3b9634f2c406da6d57c7?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 29 |
-| ↳ | **[Product Operations Specialist / Procurement](https://jobright.ai/jobs/info/68db382ae19b9e63ba2096bf?utm_campaign=Product%20Management&utm_source=1103)** | Queens County, NY | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
