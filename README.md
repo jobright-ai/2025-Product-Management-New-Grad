@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/68ce42a4b2a74e1837ee0d7f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
 | **[Helen of Troy](https://www.helenoftroy.com)** | **[Product Development Coordinator, Liquids (Curlsmith, Drybar)](https://jobright.ai/jobs/info/68cd5c6cb2a74e1837ed5fc9?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Sep 30 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager (Hardware)](https://jobright.ai/jobs/info/68cd4b0c1ad6b16f028979ca?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Sep 30 |
-| **[Lyon-Waugh Auto Group](https://www.lyonwaugh.com)** | **[Product Genius-BMW of Peabody](https://jobright.ai/jobs/info/68db96ee34f2c406da6db651?utm_campaign=Product%20Management&utm_source=1103)** | Peabody, MA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
