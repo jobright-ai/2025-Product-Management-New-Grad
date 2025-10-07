@@ -87,7 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd43a9e23def7af55b7870?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cc7fe27342c7623ae65e97?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Oct 02 |
 | ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Oct 02 |
-| ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0c?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 02 |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/689722cd73b3a600fe89311d?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
+| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0c?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 02 |
 | ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd840fe23def7af55bb17e?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | On Site | Oct 02 |
 | **[Emerson](http://www.emerson.com)** | **[Product Management Engineer](https://jobright.ai/jobs/info/68ccc8dbd99309000e5a32a8?utm_campaign=Product%20Management&utm_source=1103)** | Eden Prairie, MN | On Site | Oct 02 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Assistant Manager, Strategic Product Planning and Development - Fashion / Accessory](https://jobright.ai/jobs/info/68cba3f49e3a822f5d249a1b?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 02 |
@@ -97,5 +98,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/6895690973b3a600fe887345?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | On Site | Oct 01 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/68c0b3c45c5d5f14f46e053f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Oct 01 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/68ce42a4b2a74e1837ee0d7f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
-| **[Helen of Troy](https://www.helenoftroy.com)** | **[Product Development Coordinator, Liquids (Curlsmith, Drybar)](https://jobright.ai/jobs/info/68cd5c6cb2a74e1837ed5fc9?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
