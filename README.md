@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/689733c81b9e81727f196122?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 06 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cef5f7fb49c96ca6ea4814?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 06 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Product Manager, Lash Category](https://jobright.ai/jobs/info/68ce60a3846f0b04af67937a?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 05 |
 | **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/68d19a17cece431f8b585b6a?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Oct 04 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/689733c81b9e81727f196122?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 04 |
-| ↳ | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 04 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 04 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/68984721faa4e875e824cccd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 04 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/6891785af5ee707a15dbeb23?utm_campaign=Product%20Management&utm_source=1103)** | League City, TX | On Site | Oct 04 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Assistant Product Manager, Lash Category](https://jobright.ai/jobs/info/68ccce1ea77e5d7d744f5a24?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 04 |
