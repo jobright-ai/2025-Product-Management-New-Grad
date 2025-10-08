@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cc7fe27342c7623ae65e97?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Oct 07 |
+| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cf6b87fb49c96ca6ea86cf?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 07 |
+| ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cc7fe27342c7623ae65e97?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Oct 07 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Product Management Associate (Asset Management)](https://jobright.ai/jobs/info/68ce37f51ad6b16f028a3220?utm_campaign=Product%20Management&utm_source=1103)** | Stamford, CT | On Site | Oct 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 06 |
 | ↳ | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/689733c81b9e81727f196122?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 06 |
