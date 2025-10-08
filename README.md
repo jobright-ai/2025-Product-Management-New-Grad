@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cc7fe27342c7623ae65e97?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Oct 07 |
+| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Product Management Associate (Asset Management)](https://jobright.ai/jobs/info/68ce37f51ad6b16f028a3220?utm_campaign=Product%20Management&utm_source=1103)** | Stamford, CT | On Site | Oct 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 06 |
 | ↳ | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/689733c81b9e81727f196122?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 06 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cef5f7fb49c96ca6ea4814?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 06 |
@@ -85,8 +87,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Graduate (International Advertising - Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce8110dbd9fb154ede0406?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Creative Product Manager Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cdaeda1ad6b16f0289d998?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd43a9e23def7af55b7870?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cc7fe27342c7623ae65e97?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Oct 02 |
-| ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Oct 02 |
+| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Oct 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/689722cd73b3a600fe89311d?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0c?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 02 |
 | ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd840fe23def7af55bb17e?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | On Site | Oct 02 |
@@ -97,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd39671ad6b16f028969bf?utm_campaign=Product%20Management&utm_source=1103)** | Glendale, CA | On Site | Oct 01 |
 | ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/6895690973b3a600fe887345?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | On Site | Oct 01 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Product Coordinator](https://jobright.ai/jobs/info/68c0b3c45c5d5f14f46e053f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Oct 01 |
-| **[Beyond Finance](http://www.beyondfinance.com)** | **[Associate Technical Product Manager](https://jobright.ai/jobs/info/68ce42a4b2a74e1837ee0d7f?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
