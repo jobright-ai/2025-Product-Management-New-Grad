@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Oct 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/689722cd73b3a600fe89311d?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0c?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 02 |
-| ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd840fe23def7af55bb17e?utm_campaign=Product%20Management&utm_source=1103)** | Atlanta, GA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
