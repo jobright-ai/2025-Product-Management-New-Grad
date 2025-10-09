@@ -88,5 +88,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Graduate (International Advertising - Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce8110dbd9fb154ede0406?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Creative Product Manager Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cdaeda1ad6b16f0289d998?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd43a9e23def7af55b7870?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
