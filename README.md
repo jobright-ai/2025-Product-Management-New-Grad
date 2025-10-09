@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager - Japan](https://jobright.ai/jobs/info/68cca87c16d00d2beeb227f6?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Oct 09 |
 | **[ZT Systems](https://www.ztsystems.com)** | **[New Product Introduction Coordinator](https://jobright.ai/jobs/info/68cc6d5b16d00d2beeb1f98d?utm_campaign=Product%20Management&utm_source=1103)** | Secaucus, NJ | On Site | Oct 09 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant - Beauty](https://jobright.ai/jobs/info/68af5e17962903596357c1e5?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Oct 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/689733c81b9e81727f196122?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 08 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68adf753758f2e4ac300ff21?utm_campaign=Product%20Management&utm_source=1103)** | Linden, NJ | On Site | Oct 08 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cf6b87fb49c96ca6ea86cf?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 07 |
 | ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cc7fe27342c7623ae65e97?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Oct 07 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Product Management Associate (Asset Management)](https://jobright.ai/jobs/info/68ce37f51ad6b16f028a3220?utm_campaign=Product%20Management&utm_source=1103)** | Stamford, CT | On Site | Oct 07 |
