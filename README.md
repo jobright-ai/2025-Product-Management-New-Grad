@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/689733c81b9e81727f196122?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 08 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cf6b87fb49c96ca6ea86cf?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 07 |
 | ↳ | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cc7fe27342c7623ae65e97?utm_campaign=Product%20Management&utm_source=1103)** | Plano, TX | On Site | Oct 07 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Product Management Associate (Asset Management)](https://jobright.ai/jobs/info/68ce37f51ad6b16f028a3220?utm_campaign=Product%20Management&utm_source=1103)** | Stamford, CT | On Site | Oct 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 06 |
-| ↳ | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/689733c81b9e81727f196122?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 06 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cef5f7fb49c96ca6ea4814?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 06 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/688d13c73a30793eb96485ec?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Oct 05 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Product Manager, Lash Category](https://jobright.ai/jobs/info/68ce60a3846f0b04af67937a?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 05 |
@@ -89,6 +89,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Product Manager Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cdaeda1ad6b16f0289d998?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd43a9e23def7af55b7870?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Oct 02 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/689722cd73b3a600fe89311d?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0c?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
