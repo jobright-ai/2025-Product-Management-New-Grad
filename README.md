@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Offer and Product Operations Specialist](https://jobright.ai/jobs/info/68cbef7d7342c7623ae5c631?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Oct 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/68984721faa4e875e824cccd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 09 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Oct 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 09 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Manager - New to Credit](https://jobright.ai/jobs/info/68ce3944b2a74e1837ee09d4?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 03 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Jan. 2026 - Product Sales and Marketing Specialist- IL](https://jobright.ai/jobs/info/68ccd1cab274cd205ab4f996?utm_campaign=Product%20Management&utm_source=1103)** | Lincolnshire, IL | On Site | Oct 03 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/68cd6016e23def7af55b9326?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
-| **[Edmund Optics](http://www.edmundoptics.com/)** | **[Product Engineer, Brand Partners](https://jobright.ai/jobs/info/68cf9590dbd9fb154ede8e91?utm_campaign=Product%20Management&utm_source=1103)** | Cherry Hill, NJ | On Site | Oct 03 |
 | **[Motive](http://gomotive.com)** | **[Solutions Engineer, Commercial](https://jobright.ai/jobs/info/68c332d45adaee6c9bda82b6?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Anti-Fraud Strategy Product Manager Graduate (TikTok Shop - Governance & Experience) - 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/68cc49ee7342c7623ae62366?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
 | ↳ | **[Product Manager Graduate(TikTok-Product-Social and Creation)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce19eb1ad6b16f028a1c2e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
@@ -113,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Ramp](https://ramp.com)** | **[Product Operations Specialist / Procurement](https://jobright.ai/jobs/info/68db3b9634f2c406da6d57c7?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 29 |
 | ↳ | **[Product Operations Specialist / Procurement](https://jobright.ai/jobs/info/68db382ae19b9e63ba2096bf?utm_campaign=Product%20Management&utm_source=1103)** | Queens County, NY | Hybrid | Sep 29 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6256](https://jobright.ai/jobs/info/68db0e93e9b48513789b195c?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, TN, United States | On Site | Sep 29 |
-| ↳ | **[Product Demonstrator Part Time - 4808](https://jobright.ai/jobs/info/68db0e67e9b48513789b18d3?utm_campaign=Product%20Management&utm_source=1103)** | Springdale, AR, United States | On Site | Sep 29 |
+| ↳ | **[Product Demonstrator Part Time - 4808](https://jobright.ai/jobs/info/68db0e67e9b48513789b18d2?utm_campaign=Product%20Management&utm_source=1103)** | Springdale, AR, United States | On Site | Sep 29 |
 | **[Procore Technologies](https://www.procore.com/en-sg)** | **[Product Manager, Open Items](https://jobright.ai/jobs/info/68daf77e07c157682e570408?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Sep 29 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6242](https://jobright.ai/jobs/info/68daf5a26df7b8311bb14cb1?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, OH, United States | On Site | Sep 29 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Product Development Coordinator](https://jobright.ai/jobs/info/68daec8b0dffed6f83d2ab6a?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Sep 29 |
@@ -122,9 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/68daba2a07c157682e56ce57?utm_campaign=Product%20Management&utm_source=1103)** | Des Moines, IA | On Site | Sep 29 |
 | ↳ | **[Product Operations Analyst](https://jobright.ai/jobs/info/68dab9da07c157682e56cda7?utm_campaign=Product%20Management&utm_source=1103)** | Des Moines, Iowa, United States | On Site | Sep 29 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6423](https://jobright.ai/jobs/info/68da9e406df7b8311bb101eb?utm_campaign=Product%20Management&utm_source=1103)** | Wallkill, NY, United States | On Site | Sep 29 |
-| ↳ | **[Product Demonstrator Part Time - 8150](https://jobright.ai/jobs/info/68da83c707c157682e56ab17?utm_campaign=Product%20Management&utm_source=1103)** | Port Saint Lucie, FL, United States | On Site | Sep 29 |
 | ↳ | **[Product Demonstrator Part Time - 8150](https://jobright.ai/jobs/info/68da83b70b832179ca4ae161?utm_campaign=Product%20Management&utm_source=1103)** | Port Saint Lucie, FL, United States | On Site | Sep 29 |
-| ↳ | **[Product Demonstrator Part Time - 4704](https://jobright.ai/jobs/info/68da839f0b832179ca4ae125?utm_campaign=Product%20Management&utm_source=1103)** | Fresno, CA, United States | On Site | Sep 29 |
+| ↳ | **[Product Demonstrator Part Time - 8150](https://jobright.ai/jobs/info/68da838307c157682e56aa85?utm_campaign=Product%20Management&utm_source=1103)** | Port Saint Lucie, FL, United States | On Site | Sep 29 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6189](https://jobright.ai/jobs/info/68da105a3c03cd327094277b?utm_campaign=Product%20Management&utm_source=1103)** | Apopka, FL, United States | On Site | Sep 28 |
 | ↳ | **[Product Demonstrator Part Time - 6218](https://jobright.ai/jobs/info/68d9f548061b716fa295b512?utm_campaign=Product%20Management&utm_source=1103)** | Orlando, FL, United States | On Site | Sep 28 |
 | ↳ | **[Product Demonstrator Part Time - 8116](https://jobright.ai/jobs/info/68d9f5409a8e451a446a5a4c?utm_campaign=Product%20Management&utm_source=1103)** | Jacksonville, FL, United States | On Site | Sep 28 |
