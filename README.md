@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Oct 13 |
 | **[AEG](http://www.aegworldwide.com)** | **[Associate Product Manager - AXS](https://jobright.ai/jobs/info/6824ddfea05210536c909670?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Oct 12 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/68ce431724dd5209002f1052?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Product Portfolio Associate](https://jobright.ai/jobs/info/68b1f4d4bc187f64e1bd8079?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 11 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[maurices](https://www.maurices.com)** | **[Product Operations Coordinator - maurices](https://jobright.ai/jobs/info/689113b54c7e851b90acbe13?utm_campaign=Product%20Management&utm_source=1103)** | Duluth, MN | On Site | Oct 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/68cebd11dbd9fb154ede26d3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/68984721faa4e875e824cccd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 09 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/689558228c6d6b442677914b?utm_campaign=Product%20Management&utm_source=1103)** | Columbus, OH | On Site | Oct 09 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68ccdab277add66568abab61?utm_campaign=Product%20Management&utm_source=1103)** | Wilsonville, OR | On Site | Oct 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 09 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager - Japan](https://jobright.ai/jobs/info/68cca87c16d00d2beeb227f6?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Oct 09 |
@@ -103,8 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/68cd8d4db2a74e1837ed8ac7?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Product Manager Graduate [TikTok-Product-Product Infrastructure]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cce0715954791a1d7004a8?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[Databricks](https://www.databricks.com)** | **[Associate Product Manager, New Grad (2026 Start)](https://jobright.ai/jobs/info/68cb6cf4ba798c1a501cf749?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Creative Product Operations Graduate (International Advertising - Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce8110dbd9fb154ede0406?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
-| ↳ | **[Creative Product Manager Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cdaeda1ad6b16f0289d998?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Creative Product Manager Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cdaeda1ad6b16f0289d998?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd43a9e23def7af55b7870?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/689722cd73b3a600fe89311d?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Oct 02 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cd32dbb2a74e1837ed3d0c?utm_campaign=Product%20Management&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 02 |
@@ -123,6 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Lyon-Waugh Auto Group](https://www.lyonwaugh.com)** | **[Product Genius-BMW of Peabody](https://jobright.ai/jobs/info/68db96ee34f2c406da6db651?utm_campaign=Product%20Management&utm_source=1103)** | Peabody, MA | On Site | Sep 30 |
 | **[Ramp](https://ramp.com)** | **[Product Operations Specialist / Procurement](https://jobright.ai/jobs/info/68db3b9634f2c406da6d57c7?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 29 |
 | ↳ | **[Product Operations Specialist / Procurement](https://jobright.ai/jobs/info/68db382ae19b9e63ba2096bf?utm_campaign=Product%20Management&utm_source=1103)** | Queens County, NY | Hybrid | Sep 29 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6256](https://jobright.ai/jobs/info/68db0e93e9b48513789b195c?utm_campaign=Product%20Management&utm_source=1103)** | Memphis, TN, United States | On Site | Sep 29 |
-| ↳ | **[Product Demonstrator Part Time - 4808](https://jobright.ai/jobs/info/68db0e67e9b48513789b18d3?utm_campaign=Product%20Management&utm_source=1103)** | Springdale, AR, United States | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
