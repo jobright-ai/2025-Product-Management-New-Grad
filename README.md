@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Demonstrator Part Time - 8239](https://jobright.ai/jobs/info/68dabe4c07c157682e56d07f?utm_campaign=Product%20Management&utm_source=1103)** | Lawton, OK, United States | On Site | Sep 29 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/68daba2a07c157682e56ce57?utm_campaign=Product%20Management&utm_source=1103)** | Des Moines, IA | On Site | Sep 29 |
 | ↳ | **[Product Operations Analyst](https://jobright.ai/jobs/info/68dab9da07c157682e56cda7?utm_campaign=Product%20Management&utm_source=1103)** | Des Moines, Iowa, United States | On Site | Sep 29 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6423](https://jobright.ai/jobs/info/68da9e5907c157682e56b80d?utm_campaign=Product%20Management&utm_source=1103)** | Wallkill, NY, United States | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
