@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cf6b87fb49c96ca6ea86cf?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1ec9a8c62e63bc7fd11c8?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Product Control, Middle Office, Hedge Fund Services](https://jobright.ai/jobs/info/6898afcf5574fd6bc0c7a60e?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Oct 13 |
 | **[Blackstone](http://www.blackstone.com)** | **[Real Estate ICS - Product Analyst](https://jobright.ai/jobs/info/68786074ae2f413e4a5c1fff?utm_campaign=Product%20Management&utm_source=1103)** | Miami, FL | On Site | Oct 13 |
@@ -86,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68ce711dfb49c96ca6ea074e?utm_campaign=Product%20Management&utm_source=1103)** | Kaysville, UT | On Site | Oct 08 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Associate Product Manager  New College Grad (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/68cd0b021ad6b16f02893d46?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9be3daf1431824c96679?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Oct 07 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cf6b87fb49c96ca6ea86cf?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
