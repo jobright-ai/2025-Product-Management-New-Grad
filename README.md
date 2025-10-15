@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68adf753758f2e4ac300ff21?utm_campaign=Product%20Management&utm_source=1103)** | Linden, NJ | On Site | Oct 08 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68ce711dfb49c96ca6ea074e?utm_campaign=Product%20Management&utm_source=1103)** | Kaysville, UT | On Site | Oct 08 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Associate Product Manager  New College Grad (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/68cd0b021ad6b16f02893d46?utm_campaign=Product%20Management&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9be3daf1431824c96679?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
