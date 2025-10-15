@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAR](http://aarcorp.com)** | **[Product Line Manager- Defense Distribution](https://jobright.ai/jobs/info/68b7da650514b74d7c3eb2b8?utm_campaign=Product%20Management&utm_source=1103)** | Wood Dale, IL | On Site | Oct 15 |
+| **[Cribl](https://www.cribl.io)** | **[Business Systems Analyst, Enterprise Applications](https://jobright.ai/jobs/info/68ccd8b3d11b445e0bee2b4a?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 14 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cf6b87fb49c96ca6ea86cf?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1ec9a8c62e63bc7fd11c8?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
