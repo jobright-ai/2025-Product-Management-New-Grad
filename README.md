@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genies](https://genies.com)** | **[Product Operations Associate – AI Avatars](https://jobright.ai/jobs/info/68d47db277769e778f5096b7?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Oct 16 |
 | **[Old National Bank](http://www.oldnational.com)** | **[Product Analyst](https://jobright.ai/jobs/info/68d8d141061b716fa295824c?utm_campaign=Product%20Management&utm_source=1103)** | Lake Elmo, MN | On Site | Oct 16 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/68d33f5717554c2d9eeef00a?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Oct 15 |
 | **[AAR](http://aarcorp.com)** | **[Product Line Manager- Defense Distribution](https://jobright.ai/jobs/info/68b7da650514b74d7c3eb2b8?utm_campaign=Product%20Management&utm_source=1103)** | Wood Dale, IL | On Site | Oct 15 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Legrand AV](https://www.legrandav.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68d00663846f0b04af686f8a?utm_campaign=Product%20Management&utm_source=1103)** | Minnetonka, MN | On Site | Oct 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 14 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager (Hardware)](https://jobright.ai/jobs/info/68cd4b0c1ad6b16f028979ca?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Oct 14 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Product Manager, Accounting](https://jobright.ai/jobs/info/68cf6b87fb49c96ca6ea86cf?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1ec9a8c62e63bc7fd11c8?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | ↳ | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1e791a54edb3bf3e176c4?utm_campaign=Product%20Management&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok Shop User Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68cd79ebb2a74e1837ed778f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 14 |
