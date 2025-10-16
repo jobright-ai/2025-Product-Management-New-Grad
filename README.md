@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Product Manager III - AMZ24026.1](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de4?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Oct 16 |
 | **[Genies](https://genies.com)** | **[Product Operations Associate – AI Avatars](https://jobright.ai/jobs/info/68d47db277769e778f5096b7?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Oct 16 |
 | **[Old National Bank](http://www.oldnational.com)** | **[Product Analyst](https://jobright.ai/jobs/info/68d8d141061b716fa295824c?utm_campaign=Product%20Management&utm_source=1103)** | Lake Elmo, MN | On Site | Oct 16 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate Product Manager, New Grad](https://jobright.ai/jobs/info/68d33f5717554c2d9eeef00a?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Oct 15 |
