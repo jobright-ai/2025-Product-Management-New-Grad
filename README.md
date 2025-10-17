@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68a9060ed627244576e36eae?utm_campaign=Product%20Management&utm_source=1103)** | Chelsea, MI | On Site | Oct 04 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Associate, Product Manager - New to Credit](https://jobright.ai/jobs/info/68c2caf45001f8077bf5e187?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (Measurement Signal and Privacy Product Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68cf6c4dfb49c96ca6ea888e?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
-| ↳ | **[Product Manager Graduate (TikTok Shop User Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cc48dd7342c7623ae6216a?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
