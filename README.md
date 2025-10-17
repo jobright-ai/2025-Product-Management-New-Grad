@@ -113,5 +113,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product) - 2026 (BS/MS)](https://jobright.ai/jobs/info/68cd8d4db2a74e1837ed8ac7?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Product Manager Graduate [TikTok-Product-Product Infrastructure]-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cce0715954791a1d7004a8?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[Databricks](https://www.databricks.com)** | **[Associate Product Manager, New Grad (2026 Start)](https://jobright.ai/jobs/info/68cb6cf4ba798c1a501cf749?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok-Product-Content Ecosystem) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd43a9e23def7af55b7870?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
