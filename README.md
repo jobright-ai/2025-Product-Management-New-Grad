@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Obsidian Security](https://www.obsidiansecurity.com)** | **[Product Manager - Agentic AI & Security](https://jobright.ai/jobs/info/68b8d5f307090163b6ba552e?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager - TikTok Social Interaction](https://jobright.ai/jobs/info/68cf15c0dbd9fb154ede5026?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 16 |
 | **[Amazon](https://amazon.com)** | **[Product Manager III - AMZ24250.1](https://jobright.ai/jobs/info/68ced01bdbd9fb154ede309f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 16 |
 | ↳ | **[Product Manager III - AMZ24026.1](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de4?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Oct 16 |
