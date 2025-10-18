@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/68d19a17cece431f8b585b6a?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Oct 04 |
 | **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/6891785af5ee707a15dbeb23?utm_campaign=Product%20Management&utm_source=1103)** | League City, TX | On Site | Oct 04 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Assistant Product Manager, Lash Category](https://jobright.ai/jobs/info/68ccce1ea77e5d7d744f5a24?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 04 |
-| **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68a9060ed627244576e36eae?utm_campaign=Product%20Management&utm_source=1103)** | Chelsea, MI | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
