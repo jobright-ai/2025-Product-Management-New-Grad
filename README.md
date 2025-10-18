@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Obsidian Security](https://www.obsidiansecurity.com)** | **[Product Manager - Agentic AI & Security](https://jobright.ai/jobs/info/68b8d5f307090163b6ba552e?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Oct 17 |
+| **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager (Hardware)](https://jobright.ai/jobs/info/68cd4b0c1ad6b16f028979ca?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Oct 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager - TikTok Social Interaction](https://jobright.ai/jobs/info/68cf15c0dbd9fb154ede5026?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 16 |
 | **[Amazon](https://amazon.com)** | **[Product Manager III - AMZ24250.1](https://jobright.ai/jobs/info/68ced01bdbd9fb154ede309f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 16 |
 | ↳ | **[Product Manager III - AMZ24026.1](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de4?utm_campaign=Product%20Management&utm_source=1103)** | Santa Clara, CA | On Site | Oct 16 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Legrand AV](https://www.legrandav.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68d00663846f0b04af686f8a?utm_campaign=Product%20Management&utm_source=1103)** | Minnetonka, MN | On Site | Oct 15 |
 | **[Securian Financial](https://www.securian.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/68d1d6f817554c2d9eee01e5?utm_campaign=Product%20Management&utm_source=1103)** | St Paul, MN | Hybrid | Oct 14 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 14 |
-| **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager (Hardware)](https://jobright.ai/jobs/info/68cd4b0c1ad6b16f028979ca?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Oct 14 |
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1ec9a8c62e63bc7fd11c8?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | ↳ | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1e791a54edb3bf3e176c4?utm_campaign=Product%20Management&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok Shop User Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68cd79ebb2a74e1837ed778f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 14 |
@@ -105,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/688d13c73a30793eb96485ec?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Oct 05 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Product Manager, Lash Category](https://jobright.ai/jobs/info/68ce60a3846f0b04af67937a?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 05 |
 | **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/68d19a17cece431f8b585b6a?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Oct 04 |
-| **[Leaf Home](https://www.leafhome.com/)** | **[Product Demonstrator](https://jobright.ai/jobs/info/6891785af5ee707a15dbeb23?utm_campaign=Product%20Management&utm_source=1103)** | League City, TX | On Site | Oct 04 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Assistant Product Manager, Lash Category](https://jobright.ai/jobs/info/68ccce1ea77e5d7d744f5a24?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
