@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9be3daf1431824c96679?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Oct 07 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/688d13c73a30793eb96485ec?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Oct 05 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Product Manager, Lash Category](https://jobright.ai/jobs/info/68ce60a3846f0b04af67937a?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Oct 05 |
-| **[Aristocrat Interactive](https://aristocratinteractive.com/)** | **[Data Product Manager](https://jobright.ai/jobs/info/68d19a17cece431f8b585b6a?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
