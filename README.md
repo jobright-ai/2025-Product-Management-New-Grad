@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/68ce431724dd5209002f1052?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
 | **[IXL Learning](https://www.ixl.com/)** | **[IXL Associate Product Manager](https://jobright.ai/jobs/info/68c878aff9c6ff7aedf0f1b2?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | On Site | Oct 11 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Product Owner I](https://jobright.ai/jobs/info/68dac60a07c157682e56d413?utm_campaign=Product%20Management&utm_source=1103)** | Tukwila, WA | On Site | Oct 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management, Card Data](https://jobright.ai/jobs/info/68cebd66846f0b04af67c906?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 11 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Product Owner I](https://jobright.ai/jobs/info/68da0b610b832179ca4aa97e?utm_campaign=Product%20Management&utm_source=1103)** | Richland, WA | On Site | Oct 10 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Associate Product Manager, Global Endoscopy](https://jobright.ai/jobs/info/68afc6a5e723db6c9b7b346c?utm_campaign=Product%20Management&utm_source=1103)** | Naples, FL | On Site | Oct 10 |
 | **[Samsara](http://www.samsara.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68ccb8dd16d00d2beeb2371e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Oct 10 |
@@ -88,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Product Owner, Service Desk AI & Automation-Associate Director](https://jobright.ai/jobs/info/68cfe25afb49c96ca6eac249?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/68cebd11dbd9fb154ede26d3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | ↳ | **[Sr. Associate, Product Management](https://jobright.ai/jobs/info/68984721faa4e875e824cccd?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Oct 09 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Product Separator](https://jobright.ai/jobs/info/68ce8f8dfb49c96ca6ea19b8?utm_campaign=Product%20Management&utm_source=1103)** | St Cloud, MN | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
