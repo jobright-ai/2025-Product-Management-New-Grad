@@ -95,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/688d13c73a30793eb96485ec?utm_campaign=Product%20Management&utm_source=1103)** | Fife, WA | On Site | Oct 05 |
 | **[Lyon-Waugh Auto Group](https://www.lyonwaugh.com)** | **[Product Genius-BMW of Peabody](https://jobright.ai/jobs/info/68db96ee34f2c406da6db651?utm_campaign=Product%20Management&utm_source=1103)** | Peabody, MA | On Site | Sep 30 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4808](https://jobright.ai/jobs/info/68db0e67e9b48513789b18d2?utm_campaign=Product%20Management&utm_source=1103)** | Springdale, AR, United States | On Site | Sep 29 |
-| ↳ | **[Product Demonstrator Part Time - 6242](https://jobright.ai/jobs/info/68daf5736df7b8311bb14bc2?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, OH, United States | On Site | Sep 29 |
+| ↳ | **[Product Demonstrator Part Time - 6242](https://jobright.ai/jobs/info/68daf57b6df7b8311bb14bf8?utm_campaign=Product%20Management&utm_source=1103)** | Dublin, OH, United States | On Site | Sep 29 |
 | ↳ | **[Product Demonstrator Part Time - 8239](https://jobright.ai/jobs/info/68dabe4c07c157682e56d07f?utm_campaign=Product%20Management&utm_source=1103)** | Lawton, OK, United States | On Site | Sep 29 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/68dab9da07c157682e56cda7?utm_campaign=Product%20Management&utm_source=1103)** | Des Moines, Iowa, United States | On Site | Sep 29 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6423](https://jobright.ai/jobs/info/68da9e406df7b8311bb101eb?utm_campaign=Product%20Management&utm_source=1103)** | Wallkill, NY, United States | On Site | Sep 29 |
@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Demonstrator Part Time - 6212](https://jobright.ai/jobs/info/68d9f419022fc803b48780ce?utm_campaign=Product%20Management&utm_source=1103)** | Orlando, FL, United States | On Site | Sep 28 |
 | ↳ | **[Product Demonstrator Part Time - 6637](https://jobright.ai/jobs/info/68d9f40e022fc803b48780b2?utm_campaign=Product%20Management&utm_source=1103)** | Coral Springs, FL, United States | On Site | Sep 28 |
 | **[Ramp](https://ramp.com)** | **[Product Operations Specialist / Procurement](https://jobright.ai/jobs/info/68db0bf76df7b8311bb15b52?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY (HQ) | On Site | Sep 28 |
-| **[Vida Shoes International](http://www.vidagroup.com/)** | **[Product Merchandising & Costing Coordinator](https://jobright.ai/jobs/info/68d6f587894705799a2ef2a3?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
