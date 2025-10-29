@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9be3daf1431824c96679?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | **[Obsidian Security](https://www.obsidiansecurity.com)** | **[Product Manager - Agentic AI & Security](https://jobright.ai/jobs/info/68b8d5f307090163b6ba552e?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Oct 17 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager (Hardware)](https://jobright.ai/jobs/info/68cd4b0c1ad6b16f028979ca?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Oct 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager - TikTok Social Interaction](https://jobright.ai/jobs/info/68cf15c0dbd9fb154ede5026?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 16 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Product Manager III - AMZ24218.1](https://jobright.ai/jobs/info/68cb80679e3a822f5d247305?utm_campaign=Product%20Management&utm_source=1103)** | Culver City, CA | On Site | Oct 15 |
 | **[Camping World](http://www.campingworld.com/)** | **[Product Specialist Advisor](https://jobright.ai/jobs/info/68b787dd2124650c1402373d?utm_campaign=Product%20Management&utm_source=1103)** | Eugene, OR | On Site | Oct 15 |
 | **[Legrand AV](https://www.legrandav.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68d00663846f0b04af686f8a?utm_campaign=Product%20Management&utm_source=1103)** | Minnetonka, MN | On Site | Oct 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cd2ba01ad6b16f02896006?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Oct 14 |
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1ec9a8c62e63bc7fd11c8?utm_campaign=Product%20Management&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | ↳ | **[New Grad 2026 - Technology, Product](https://jobright.ai/jobs/info/68d1e791a54edb3bf3e176c4?utm_campaign=Product%20Management&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok Shop User Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68cd79ebb2a74e1837ed778f?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Oct 14 |
@@ -89,6 +89,5 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager - Japan](https://jobright.ai/jobs/info/68cca87c16d00d2beeb227f6?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Oct 09 |
 | **[ZT Systems](https://www.ztsystems.com)** | **[New Product Introduction Coordinator](https://jobright.ai/jobs/info/68cc6d5b16d00d2beeb1f98d?utm_campaign=Product%20Management&utm_source=1103)** | Secaucus, NJ | On Site | Oct 09 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68adf753758f2e4ac300ff21?utm_campaign=Product%20Management&utm_source=1103)** | Linden, NJ | On Site | Oct 08 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9be3daf1431824c96679?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Oct 07 |
 | **[Lyon-Waugh Auto Group](https://www.lyonwaugh.com)** | **[Product Genius-BMW of Peabody](https://jobright.ai/jobs/info/68db96ee34f2c406da6db651?utm_campaign=Product%20Management&utm_source=1103)** | Peabody, MA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
