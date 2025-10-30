@@ -81,6 +81,5 @@ For a complete list, click the following sortable link below:
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Product Owner, Service Desk AI & Automation-Associate Director](https://jobright.ai/jobs/info/68cfe25afb49c96ca6eac249?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Product Separator](https://jobright.ai/jobs/info/68ce8f8dfb49c96ca6ea19b8?utm_campaign=Product%20Management&utm_source=1103)** | St Cloud, MN | On Site | Oct 09 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager - Japan](https://jobright.ai/jobs/info/68cca87c16d00d2beeb227f6?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Oct 09 |
-| **[ZT Systems](https://www.ztsystems.com)** | **[New Product Introduction Coordinator](https://jobright.ai/jobs/info/68cc6d5b16d00d2beeb1f98d?utm_campaign=Product%20Management&utm_source=1103)** | Secaucus, NJ | On Site | Oct 09 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68adf753758f2e4ac300ff21?utm_campaign=Product%20Management&utm_source=1103)** | Linden, NJ | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
