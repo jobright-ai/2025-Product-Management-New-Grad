@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68adf753758f2e4ac300ff21?utm_campaign=Product%20Management&utm_source=1103)** | Linden, NJ | On Site | Oct 30 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68ac9be3daf1431824c96679?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | **[Obsidian Security](https://www.obsidiansecurity.com)** | **[Product Manager - Agentic AI & Security](https://jobright.ai/jobs/info/68b8d5f307090163b6ba552e?utm_campaign=Product%20Management&utm_source=1103)** | Palo Alto, CA | On Site | Oct 17 |
 | **[Sunco.com](https://www.sunco.com/)** | **[Associate Product Manager (Hardware)](https://jobright.ai/jobs/info/68cd4b0c1ad6b16f028979ca?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Oct 16 |
@@ -77,5 +78,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA University Graduate - Product Manager](https://jobright.ai/jobs/info/68ce431724dd5209002f1052?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Product Owner I](https://jobright.ai/jobs/info/68dac60a07c157682e56d413?utm_campaign=Product%20Management&utm_source=1103)** | Tukwila, WA | On Site | Oct 11 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Product Owner I](https://jobright.ai/jobs/info/68da0b610b832179ca4aa97e?utm_campaign=Product%20Management&utm_source=1103)** | Richland, WA | On Site | Oct 10 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator- PT](https://jobright.ai/jobs/info/68adf753758f2e4ac300ff21?utm_campaign=Product%20Management&utm_source=1103)** | Linden, NJ | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
