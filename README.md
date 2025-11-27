@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Owner, Associate](https://jobright.ai/jobs/info/69285b44d47de4798ece291a?utm_campaign=Product%20Management&utm_source=1103)** | Oakland, CA | Hybrid | Nov 27 |
 | **[Arc'teryx Equipment](http://arcteryx.com)** | **[Product Development Assistant (Temporary)](https://jobright.ai/jobs/info/691e7cf709cc522e8773a50d?utm_campaign=Product%20Management&utm_source=1103)** | North Vancouver, British Columbia, Canada | On Site | Nov 27 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Product Owner, Associate](https://jobright.ai/jobs/info/69285a70d47de4798ece28ee?utm_campaign=Product%20Management&utm_source=1103)** | Oakland, CA | Hybrid | Nov 27 |
 | **[WHOOP](http://www.whoop.com/)** | **[Product Manager I, Growth](https://jobright.ai/jobs/info/690bb9df221b890c277f7579?utm_campaign=Product%20Management&utm_source=1103)** | Boston, MA | On Site | Nov 27 |
 | **[On Location](https://onlocationexp.com/)** | **[Coordinator, Product Build Specialist - Olympic & Paralympic Games](https://jobright.ai/jobs/info/690baf15d046ab6061ce672a?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Nov 27 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Associate Product Analyst](https://jobright.ai/jobs/info/69283961f0beb0723262fc09?utm_campaign=Product%20Management&utm_source=1103)** | Camden, NJ | On Site | Nov 27 |
@@ -77,9 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Authorium](https://authorium.com/)** | **[Product Manager](https://jobright.ai/jobs/info/68ffee560ab3b222462b02c9?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 26 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6562](https://jobright.ai/jobs/info/692771aaf0beb0723262a4aa?utm_campaign=Product%20Management&utm_source=1103)** | Muskegon, MI, United States | On Site | Nov 26 |
 | **[Veteran Benefits Guide](https://vetbenefitsguide.com)** | **[Product Manager](https://jobright.ai/jobs/info/69276aad91ceeb2e8a53efe9?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | On Site | Nov 26 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69276674d47de4798ecdc3c9?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Nov 26 |
 | **[HARTING Technology Group](https://www.harting.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/692765f7d47de4798ecdc35e?utm_campaign=Product%20Management&utm_source=1103)** | Elgin, IL | Hybrid | Nov 26 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69275622f0beb072326292cb?utm_campaign=Product%20Management&utm_source=1103)** | Schaumburg, IL | Hybrid | Nov 26 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69275f94d47de4798ecdbf93?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Nov 26 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/690a6a4fbcccf20de59e1f19?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 26 |
 | **[AUI™ (Augmented Intelligence)](http://www.aui.io)** | **[Product Operations Manager (Agents)](https://jobright.ai/jobs/info/691efc9c09cc522e8773cecf?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Nov 26 |
 | **[SpaceX](https://www.spacex.com)** | **[Starlink Localization Specialist (Product Growth)](https://jobright.ai/jobs/info/68d38564952b4a32e23d6a0e?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Nov 26 |
@@ -161,7 +163,6 @@ For a complete list, click the following sortable link below:
 | **[BMW of Manhattan](http://www.bmwnyc.com)** | **[MINI Product Genius](https://jobright.ai/jobs/info/6921dcf53f782d2f1afd40f9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 22 |
 | **[Finch](https://tryfinch.com)** | **[Product Operations Generalist](https://jobright.ai/jobs/info/68e9afcb0930fe0bc46284e9?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 22 |
 | **[Samsara](http://www.samsara.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68ccb8dd16d00d2beeb2371e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Nov 22 |
-| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Data](https://jobright.ai/jobs/info/6905071aff462851feff99d3?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Product Data Management Analyst](https://jobright.ai/jobs/info/69217dbd3f782d2f1afd2850?utm_campaign=Product%20Management&utm_source=1103)** | Warrendale, PA | On Site | Nov 22 |
 | **[OneRail](http://www.onerail.com)** | **[Product Analyst - Integrations](https://jobright.ai/jobs/info/6921322aa49a885af9a43e0e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 21 |
 | ↳ | **[Product Analyst - Integrations](https://jobright.ai/jobs/info/6921125200c9ee50eaecb73b?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 21 |
@@ -197,8 +198,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management - Balance Transfer](https://jobright.ai/jobs/info/691564099c388539cbdf325d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 21 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager - Key Components](https://jobright.ai/jobs/info/68cd6016e23def7af55b9326?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Nov 21 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Salesforce](https://jobright.ai/jobs/info/6903612eff462851fefeadc6?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 21 |
-| **[Product Connections](https://www.productconnections.com)** | **[Product Demonstrator Part -Time- 6675](https://jobright.ai/jobs/info/692029e13f782d2f1afc35c7?utm_campaign=Product%20Management&utm_source=1103)** | Erie, PA | On Site | Nov 20 |
 | **[Adelaide](https://www.adelaidemetrics.com/)** | **[Product Manager, Publishers](https://jobright.ai/jobs/info/692076bc00c9ee50eaec3fd8?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Nov 20 |
-| **[American Express](http://www.americanexpress.com)** | **[Associate-Digital Product Management](https://jobright.ai/jobs/info/691fb45909cc522e87744982?utm_campaign=Product%20Management&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 20 |
-| ↳ | **[Senior Analyst, Product Management - Global Dining](https://jobright.ai/jobs/info/692603f2d47de4798ecd392a?utm_campaign=Product%20Management&utm_source=1103)** | New York, New York, United States | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
