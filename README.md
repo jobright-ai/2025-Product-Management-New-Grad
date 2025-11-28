@@ -170,5 +170,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Analyst - Integrations](https://jobright.ai/jobs/info/6921125200c9ee50eaecb73b?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 21 |
 | **[Ferrero](https://www.ferrero.com)** | **[Product Flow Management Specialist](https://jobright.ai/jobs/info/692109baa49a885af9a423e2?utm_campaign=Product%20Management&utm_source=1103)** | Parsippany, NJ | Hybrid | Nov 21 |
 | **[Federal Signal Corporation](http://federalsignal.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/692104cf00c9ee50eaecad08?utm_campaign=Product%20Management&utm_source=1103)** | Streator, IL | On Site | Nov 21 |
-| **[Chase](https://www.chase.com/)** | **[Payments-Kinexys Product Analyst](https://jobright.ai/jobs/info/6920dcad3f782d2f1afcc548?utm_campaign=Product%20Management&utm_source=1103)** | 383 Madison Ave, New York, NY, 10179, US | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
