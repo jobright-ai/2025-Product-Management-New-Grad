@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8163](https://jobright.ai/jobs/info/692a2c22fa28370be26968f4?utm_campaign=Product%20Management&utm_source=1103)** | Columbia, MO, United States | On Site | Nov 28 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/68f137fee6870116b1f54ebb?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 28 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/68f13484f462172a5a7d4449?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Product Associate, Fashion/Accessory](https://jobright.ai/jobs/info/68f8abe76de2db04dc3e153b?utm_campaign=Product%20Management&utm_source=1103)** | Port Washington, NY | On Site | Nov 28 |
@@ -94,9 +95,9 @@ For a complete list, click the following sortable link below:
 | **[Authorium](https://authorium.com/)** | **[Product Manager](https://jobright.ai/jobs/info/68ffee560ab3b222462b02c9?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 26 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6562](https://jobright.ai/jobs/info/692771aaf0beb0723262a4aa?utm_campaign=Product%20Management&utm_source=1103)** | Muskegon, MI, United States | On Site | Nov 26 |
 | **[Veteran Benefits Guide](https://vetbenefitsguide.com)** | **[Product Manager](https://jobright.ai/jobs/info/69276aad91ceeb2e8a53efe9?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | On Site | Nov 26 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69276674d47de4798ecdc3c9?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Nov 26 |
 | **[HARTING Technology Group](https://www.harting.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/692765f7d47de4798ecdc35e?utm_campaign=Product%20Management&utm_source=1103)** | Elgin, IL | Hybrid | Nov 26 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69275622f0beb072326292cb?utm_campaign=Product%20Management&utm_source=1103)** | Schaumburg, IL | Hybrid | Nov 26 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69275f94d47de4798ecdbf93?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Nov 26 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/690a6a4fbcccf20de59e1f19?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 26 |
 | **[AUI™ (Augmented Intelligence)](http://www.aui.io)** | **[Product Operations Manager (Agents)](https://jobright.ai/jobs/info/691efc9c09cc522e8773cecf?utm_campaign=Product%20Management&utm_source=1103)** | New York, United States | On Site | Nov 26 |
 | **[SpaceX](https://www.spacex.com)** | **[Starlink Localization Specialist (Product Growth)](https://jobright.ai/jobs/info/68d38564952b4a32e23d6a0e?utm_campaign=Product%20Management&utm_source=1103)** | Redmond, WA | On Site | Nov 26 |
@@ -175,5 +176,4 @@ For a complete list, click the following sortable link below:
 | **[BMW of Manhattan](http://www.bmwnyc.com)** | **[MINI Product Genius](https://jobright.ai/jobs/info/6921dcf53f782d2f1afd40f9?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 22 |
 | **[Finch](https://tryfinch.com)** | **[Product Operations Generalist](https://jobright.ai/jobs/info/68e9afcb0930fe0bc46284e9?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 22 |
 | **[Samsara](http://www.samsara.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/68ccb8dd16d00d2beeb2371e?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Nov 22 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Product Data Management Analyst](https://jobright.ai/jobs/info/69217dbd3f782d2f1afd2850?utm_campaign=Product%20Management&utm_source=1103)** | Warrendale, PA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
