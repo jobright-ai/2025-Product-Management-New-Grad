@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flock Safety](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/68d5e79263d77d6f6f3f3247?utm_campaign=Product%20Management&utm_source=1103)** | United States | On Site | Nov 29 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager - February 2026 Start Date](https://jobright.ai/jobs/info/690e4da3d046ab6061cfc1da?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Nov 29 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Product Operations Associate, Air Defense](https://jobright.ai/jobs/info/690e6dba44146d3b6ec542fb?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | On Site | Nov 29 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/68f13957ef766b3f0fd0a0fb?utm_campaign=Product%20Management&utm_source=1103)** | Richmond, VA | On Site | Nov 29 |
 | ↳ | **[Senior Associate, Product Management - Enterprise Core Platform](https://jobright.ai/jobs/info/68f136c8e6870116b1f54d2b?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 29 |
 | **[Supermicro](http://www.supermicro.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/691a88a315b4156367188a4f?utm_campaign=Product%20Management&utm_source=1103)** | San Jose, CA | On Site | Nov 29 |
@@ -140,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[MES Product Analyst - Whitsett, NC](https://jobright.ai/jobs/info/690971a8d046ab6061cd55c1?utm_campaign=Product%20Management&utm_source=1103)** | North Carolina, United States | On Site | Nov 25 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/6925f64cf0beb07232620b25?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Nov 25 |
 | **[Informa Connect - Global Finance](https://www.icbi-events.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6925ef0ff0beb0723262078c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 25 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6249](https://jobright.ai/jobs/info/69264f71f0beb07232623e4c?utm_campaign=Product%20Management&utm_source=1103)** | Franklin, TN, United States | On Site | Nov 25 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6249](https://jobright.ai/jobs/info/69264420d47de4798ecd5feb?utm_campaign=Product%20Management&utm_source=1103)** | Franklin, TN, United States | On Site | Nov 25 |
 | **[iSpot](http://www.ispot.tv)** | **[Product Manager](https://jobright.ai/jobs/info/68d1e34217554c2d9eee0a64?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Nov 25 |
 | **[Intrepid Asia](https://www.intrepid.asia)** | **[Junior Content](https://jobright.ai/jobs/info/6925b290d47de4798ecd1033?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 25 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Associate Product Manager, Risk](https://jobright.ai/jobs/info/68ed576c81fdd1626d39b462?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 25 |
