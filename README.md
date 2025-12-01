@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bectran, Inc.](http://www.bectran.com)** | **[Product Operations Specialist](https://jobright.ai/jobs/info/690a9045bcccf20de59e3ef4?utm_campaign=Product%20Management&utm_source=1103)** | Greater Chicago Area | On Site | Dec 01 |
+| **[Macy's](http://www.macysjobs.com)** | **[Assistant, Product Management](https://jobright.ai/jobs/info/692db0b14c474121999d2c8a?utm_campaign=Product%20Management&utm_source=1103)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Dec 01 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6315](https://jobright.ai/jobs/info/692daf7766796e3028f959bb?utm_campaign=Product%20Management&utm_source=1103)** | Mishawaka, IN, United States | On Site | Dec 01 |
 | **[Wegmans Food Markets](http://www.wegmans.com)** | **[Warehouse Product Selector](https://jobright.ai/jobs/info/692b043566796e3028f8ff12?utm_campaign=Product%20Management&utm_source=1103)** | Virginia Service Center | On Site | Nov 29 |
 | **[Coach](https://uk.coach.com)** | **[Coordinator, Product Development](https://jobright.ai/jobs/info/68f1a787ef766b3f0fd1067b?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 29 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Product Deployment Specialist](https://jobright.ai/jobs/info/68d5e79263d77d6f6f3f3247?utm_campaign=Product%20Management&utm_source=1103)** | United States | On Site | Nov 29 |
@@ -156,7 +159,4 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/6925336027bf2f41a2c3d25d?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 24 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Product Manager - Summer 2026 Start Date](https://jobright.ai/jobs/info/69251c9ec0cefa13343e6aac?utm_campaign=Product%20Management&utm_source=1103)** | Northfield, IL | On Site | Nov 24 |
 | **[Centric Brands](https://centricbrands.com)** | **[Product Development Assistant](https://jobright.ai/jobs/info/6925092538cd5478a8d618fc?utm_campaign=Product%20Management&utm_source=1103)** | US-NY-New York | On Site | Nov 24 |
-| **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[TEMP Coordinator, Color Product Development](https://jobright.ai/jobs/info/6924f373c0cefa13343e49af?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 24 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6254](https://jobright.ai/jobs/info/6924f28fc0cefa13343e48bd?utm_campaign=Product%20Management&utm_source=1103)** | Maple Grove, MN, United States | On Site | Nov 24 |
-| **[American Express](http://www.americanexpress.com)** | **[Senior Analyst, Product Management - Global Dining](https://jobright.ai/jobs/info/6925f20ef0beb07232620870?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
