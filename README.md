@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8243](https://jobright.ai/jobs/info/692e09834c474121999d57ff?utm_campaign=Product%20Management&utm_source=1103)** | Raymore, MO, United States | On Site | Dec 01 |
+| **[JetBlue](http://www.jetblue.com/)** | **[Analyst Inflight Entertainment](https://jobright.ai/jobs/info/692e06acef4b48533d13bc24?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 01 |
+| **[Egan-Jones](https://www.egan-jones.com/)** | **[Associate, Product and Business Development](https://jobright.ai/jobs/info/692e05fefa28370be26a0682?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 01 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Product Development Engineer](https://jobright.ai/jobs/info/692de50666796e3028f97083?utm_campaign=Product%20Management&utm_source=1103)** | Needham, MA | On Site | Dec 01 |
+| **[Roller Rabbit](http://rollerrabbit.com)** | **[Product Development/Production Assistant](https://jobright.ai/jobs/info/692dfa89ef4b48533d13b4bf?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 01 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Associate Product Owner](https://jobright.ai/jobs/info/692e06d1ef4b48533d13bc44?utm_campaign=Product%20Management&utm_source=1103)** | 10713 Gilroy Road, Hunt Valley, MD, 21030, US | On Site | Dec 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Manager (Mobile) - Business Cards & Payments](https://jobright.ai/jobs/info/692dd5cc4c474121999d3adb?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 01 |
 | **[American Express](http://www.americanexpress.com)** | **[Associate, Digital Product Management-Contactless Payments Growth](https://jobright.ai/jobs/info/692dd36d66796e3028f9680f?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | Hybrid | Dec 01 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4920](https://jobright.ai/jobs/info/692dcde7fa28370be269e8e3?utm_campaign=Product%20Management&utm_source=1103)** | St Joseph, MO, United States | On Site | Dec 01 |
@@ -154,5 +159,4 @@ For a complete list, click the following sortable link below:
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[Analyst/Associate, Product Strategy (Liquid Credit)](https://jobright.ai/jobs/info/690916b24a1b456627afc411?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Graduate (TikTok Shop User Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6916ec106f36db06ef05abd7?utm_campaign=Product%20Management&utm_source=1103)** | Seattle, WA | On Site | Nov 25 |
 | **[Housecall Pro](http://www.housecallpro.com)** | **[Associate Product Manager, Risk](https://jobright.ai/jobs/info/68ed4b0370b66e2345d3c36f?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Nov 25 |
-| **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Manager, Product Operations - Fulton Street Mall](https://jobright.ai/jobs/info/6925548f27bf2f41a2c3e22b?utm_campaign=Product%20Management&utm_source=1103)** | Brooklyn, NY | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
