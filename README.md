@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VertoTech](vertotech.us)** | **[Product Operations Analyst](https://jobright.ai/jobs/info/692f28384c474121999dcb6a?utm_campaign=Product%20Management&utm_source=1103)** | Texas, United States | On Site | Dec 02 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4769](https://jobright.ai/jobs/info/692f2543fa28370be26a7b8e?utm_campaign=Product%20Management&utm_source=1103)** | Houston, TX, United States | On Site | Dec 02 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Product Management- Card Acquisitions, Mainstreet](https://jobright.ai/jobs/info/692f23d5ef4b48533d142f6f?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 02 |
+| ↳ | **[Senior Associate, Product Management- Card Acquisitions, Mainstreet](https://jobright.ai/jobs/info/692f231cfa28370be26a7a65?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 02 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692f176ffa28370be26a75a4?utm_campaign=Product%20Management&utm_source=1103)** | West Des Moines, IA | On Site | Dec 02 |
+| **[Capital One](http://www.capitalone.com)** | **[Senior Associate,  Product Management - Business Cards & Payments (Card Capabilities)](https://jobright.ai/jobs/info/692f0de3ef4b48533d14271d?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Dec 02 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692f0c43ef4b48533d14265b?utm_campaign=Product%20Management&utm_source=1103)** | St Louis, MO | On Site | Dec 02 |
 | ↳ | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692f0ae64c474121999dbfba?utm_campaign=Product%20Management&utm_source=1103)** | Minneapolis, MN | On Site | Dec 02 |
 | ↳ | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692f08efef4b48533d14251d?utm_campaign=Product%20Management&utm_source=1103)** | Charlotte, NC | On Site | Dec 02 |
@@ -66,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/692ee92a4c474121999db40f?utm_campaign=Product%20Management&utm_source=1103)** | 111 - Sourcing and Product Dev.68 Jonspin Road | On Site | Dec 02 |
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Product Data Analyst, Servicing](https://jobright.ai/jobs/info/69123a89ea9ab01b82bf090f?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 02 |
 | **[Plaid](https://plaid.com)** | **[Product Manager - Fraud](https://jobright.ai/jobs/info/68f70e2e9a65fd34585996a6?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 02 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6624](https://jobright.ai/jobs/info/692f242afa28370be26a7aee?utm_campaign=Product%20Management&utm_source=1103)** | San Bernardino, CA, United States | On Site | Dec 02 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Associate Product Manager, Data – CRM & Personalization](https://jobright.ai/jobs/info/6912b7a1c98948514c47d9bb?utm_campaign=Product%20Management&utm_source=1103)** | Bellevue, WA | On Site | Dec 02 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/692ef17afa28370be26a67fe?utm_campaign=Product%20Management&utm_source=1103)** | United States-Massachusetts | On Site | Dec 02 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[BI Product Analyst - Workers Compensation](https://jobright.ai/jobs/info/692e9bfafa28370be26a5597?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Dec 01 |
@@ -154,5 +161,4 @@ For a complete list, click the following sortable link below:
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Associate, Consumer Research & Insights](https://jobright.ai/jobs/info/69018045f8ce7a040fdc03b6?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Nov 26 |
 | **[Ares Management](http://www.aresmgmt.com)** | **[RFP & DDQ Analyst, Product Management](https://jobright.ai/jobs/info/68d2e336f0d9af73038dc62f?utm_campaign=Product%20Management&utm_source=1103)** | Denver, CO | Hybrid | Nov 26 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Designer - Game UI & Asset System (Short Term)](https://jobright.ai/jobs/info/69268c61d47de4798ecd80f7?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA | Hybrid | Nov 25 |
-| **[Crane Company](http://www.craneco.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69267108d47de4798ecd7566?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
