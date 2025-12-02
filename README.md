@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Associate Product Owner](https://jobright.ai/jobs/info/692e87694c474121999d9f8b?utm_campaign=Product%20Management&utm_source=1103)** | Hunt Valley, MD | On Site | Dec 01 |
 | **[ION](https://iongroup.com)** | **[Product Management Analyst, 2026 Leadership Development Program, Uniondale](https://jobright.ai/jobs/info/692e5c084c474121999d8c78?utm_campaign=Product%20Management&utm_source=1103)** | Uniondale, NY | On Site | Dec 01 |
 | **[Redwood Trust, Inc.](http://www.redwoodtrust.com)** | **[Jr Product Analyst (Mortgage Product Team)](https://jobright.ai/jobs/info/692e591dfa28370be26a3c24?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Dec 01 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692e32904c474121999d7188?utm_campaign=Product%20Management&utm_source=1103)** | SAINT LOUIS, MO | On Site | Dec 01 |
@@ -144,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Crane Company](http://www.craneco.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69267108d47de4798ecd7566?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Nov 25 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Designer - Game UI & Asset System (Short Term)](https://jobright.ai/jobs/info/6926526fd47de4798ecd659c?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | On Site | Nov 25 |
 | **[Crane Company](http://www.craneco.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/692642eed47de4798ecd5f15?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, California | On Site | Nov 25 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8220](https://jobright.ai/jobs/info/69263aead47de4798ecd5be8?utm_campaign=Product%20Management&utm_source=1103)** | Roanoke, VA, United States | On Site | Nov 25 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8220](https://jobright.ai/jobs/info/692637eff0beb0723262331e?utm_campaign=Product%20Management&utm_source=1103)** | Roanoke, VA, United States | On Site | Nov 25 |
 | ↳ | **[Product Demonstrator Part Time - 8185](https://jobright.ai/jobs/info/692637bdf0beb07232623301?utm_campaign=Product%20Management&utm_source=1103)** | Eau Claire, WI, United States | On Site | Nov 25 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/69262b8e27bf2f41a2c43f63?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC | On Site | Nov 25 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/685c56ea674c8f94e8e48890?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 25 |
@@ -160,5 +161,4 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[MES Product Analyst - Whitsett, NC](https://jobright.ai/jobs/info/690971a8d046ab6061cd55c1?utm_campaign=Product%20Management&utm_source=1103)** | North Carolina, United States | On Site | Nov 25 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/6925f64cf0beb07232620b25?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Nov 25 |
 | **[Informa Connect - Global Finance](https://www.icbi-events.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6925ef0ff0beb0723262078c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 25 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6249](https://jobright.ai/jobs/info/69264420d47de4798ecd5feb?utm_campaign=Product%20Management&utm_source=1103)** | Franklin, TN, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
