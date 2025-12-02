@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Farmers Insurance](https://www.farmers.com)** | **[BI Product Analyst - Workers Compensation](https://jobright.ai/jobs/info/692e9bfafa28370be26a5597?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Dec 01 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Associate Product Owner](https://jobright.ai/jobs/info/692e87694c474121999d9f8b?utm_campaign=Product%20Management&utm_source=1103)** | Hunt Valley, MD | On Site | Dec 01 |
 | **[ION](https://iongroup.com)** | **[Product Management Analyst, 2026 Leadership Development Program, Uniondale](https://jobright.ai/jobs/info/692e5c084c474121999d8c78?utm_campaign=Product%20Management&utm_source=1103)** | Uniondale, NY | On Site | Dec 01 |
 | **[Redwood Trust, Inc.](http://www.redwoodtrust.com)** | **[Jr Product Analyst (Mortgage Product Team)](https://jobright.ai/jobs/info/692e591dfa28370be26a3c24?utm_campaign=Product%20Management&utm_source=1103)** | United States | Hybrid | Dec 01 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692e32904c474121999d7188?utm_campaign=Product%20Management&utm_source=1103)** | SAINT LOUIS, MO | On Site | Dec 01 |
 | **[MobilityWare](http://www.mobilityware.com)** | **[UA Analyst](https://jobright.ai/jobs/info/692e2375fa28370be26a1a32?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | Hybrid | Dec 01 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692e3e4a4c474121999d79a5?utm_campaign=Product%20Management&utm_source=1103)** | MINNEAPOLIS, MN | On Site | Dec 01 |
-| ↳ | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692e3a82ef4b48533d13dd45?utm_campaign=Product%20Management&utm_source=1103)** | DES MOINES, IA | On Site | Dec 01 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692e3a82ef4b48533d13dd45?utm_campaign=Product%20Management&utm_source=1103)** | DES MOINES, IA | On Site | Dec 01 |
+| ↳ | **[Associate Product Manager - Client Directed Advisory](https://jobright.ai/jobs/info/692e3e4a4c474121999d79a5?utm_campaign=Product%20Management&utm_source=1103)** | MINNEAPOLIS, MN | On Site | Dec 01 |
 | **[Reformation](http://www.thereformation.com)** | **[Product Development Associate, Handbags and Accessories](https://jobright.ai/jobs/info/692e1e39ef4b48533d13cb83?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6674](https://jobright.ai/jobs/info/692e3514ef4b48533d13d92d?utm_campaign=Product%20Management&utm_source=1103)** | Elmsford, NY, United States | On Site | Dec 01 |
 | **[ION](https://iongroup.com)** | **[Product Management Analyst, 2026 Leadership Development Program, Uniondale](https://jobright.ai/jobs/info/692e39f9ef4b48533d13dcca?utm_campaign=Product%20Management&utm_source=1103)** | Uniondale, New York | On Site | Dec 01 |
@@ -158,7 +159,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Senior Associate, Product Management: Premium Products & Experiences](https://jobright.ai/jobs/info/68cc7b9f16d00d2beeb20615?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 25 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 4875](https://jobright.ai/jobs/info/6926182bd47de4798ecd4771?utm_campaign=Product%20Management&utm_source=1103)** | Wentzville, MO, United States | On Site | Nov 25 |
 | **[Informa](http://www.informa.com)** | **[Product Specialist](https://jobright.ai/jobs/info/692606dc27bf2f41a2c428a0?utm_campaign=Product%20Management&utm_source=1103)** | 300 S Riverside Plaza, Chicago, IL 60606, USA | On Site | Nov 25 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[MES Product Analyst - Whitsett, NC](https://jobright.ai/jobs/info/690971a8d046ab6061cd55c1?utm_campaign=Product%20Management&utm_source=1103)** | North Carolina, United States | On Site | Nov 25 |
-| **[REVOLVE](https://www.revolve.com/)** | **[Product Development Assistant](https://jobright.ai/jobs/info/6925f64cf0beb07232620b25?utm_campaign=Product%20Management&utm_source=1103)** | LA Metro Area | On Site | Nov 25 |
-| **[Informa Connect - Global Finance](https://www.icbi-events.com/)** | **[Product Specialist](https://jobright.ai/jobs/info/6925ef0ff0beb0723262078c?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
