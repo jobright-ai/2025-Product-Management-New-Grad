@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MobilityWare](http://www.mobilityware.com)** | **[UA Analyst](https://jobright.ai/jobs/info/692e2375fa28370be26a1a32?utm_campaign=Product%20Management&utm_source=1103)** | Irvine, CA | Hybrid | Dec 01 |
+| **[Reformation](http://www.thereformation.com)** | **[Product Development Associate, Handbags and Accessories](https://jobright.ai/jobs/info/692e1e39ef4b48533d13cb83?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8243](https://jobright.ai/jobs/info/692e09834c474121999d57ff?utm_campaign=Product%20Management&utm_source=1103)** | Raymore, MO, United States | On Site | Dec 01 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Analyst Inflight Entertainment](https://jobright.ai/jobs/info/692e06acef4b48533d13bc24?utm_campaign=Product%20Management&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | **[Egan-Jones](https://www.egan-jones.com/)** | **[Associate, Product and Business Development](https://jobright.ai/jobs/info/692e05fefa28370be26a0682?utm_campaign=Product%20Management&utm_source=1103)** | United States | Remote | Dec 01 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6359](https://jobright.ai/jobs/info/69278bed91ceeb2e8a5410c1?utm_campaign=Product%20Management&utm_source=1103)** | Comstock Park, MI, United States | On Site | Nov 26 |
 | **[Authorium](https://authorium.com/)** | **[Product Manager](https://jobright.ai/jobs/info/68ffee560ab3b222462b02c9?utm_campaign=Product%20Management&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 26 |
 | **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 6562](https://jobright.ai/jobs/info/692771aaf0beb0723262a4aa?utm_campaign=Product%20Management&utm_source=1103)** | Muskegon, MI, United States | On Site | Nov 26 |
-| **[Veteran Benefits Guide](https://vetbenefitsguide.com)** | **[Product Manager](https://jobright.ai/jobs/info/69276aad91ceeb2e8a53efe9?utm_campaign=Product%20Management&utm_source=1103)** | Las Vegas, NV | On Site | Nov 26 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69276674d47de4798ecdc3c9?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | Hybrid | Nov 26 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69275622f0beb072326292cb?utm_campaign=Product%20Management&utm_source=1103)** | Schaumburg, IL | Hybrid | Nov 26 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Associate Product Manager](https://jobright.ai/jobs/info/690a6a4fbcccf20de59e1f19?utm_campaign=Product%20Management&utm_source=1103)** | Chicago, IL | On Site | Nov 26 |
@@ -136,7 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Crane Company](http://www.craneco.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/69267108d47de4798ecd7566?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, CA | On Site | Nov 25 |
 | **[Roblox](https://corp.roblox.com)** | **[Product Designer - Game UI & Asset System (Short Term)](https://jobright.ai/jobs/info/6926526fd47de4798ecd659c?utm_campaign=Product%20Management&utm_source=1103)** | San Mateo, CA, United States | On Site | Nov 25 |
 | **[Crane Company](http://www.craneco.com/)** | **[Associate Product Manager](https://jobright.ai/jobs/info/692642eed47de4798ecd5f15?utm_campaign=Product%20Management&utm_source=1103)** | Los Angeles, California | On Site | Nov 25 |
-| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8220](https://jobright.ai/jobs/info/69263aead47de4798ecd5be8?utm_campaign=Product%20Management&utm_source=1103)** | Roanoke, VA, United States | On Site | Nov 25 |
+| **[Acosta](https://www.acosta.com)** | **[Product Demonstrator Part Time - 8220](https://jobright.ai/jobs/info/692637eff0beb0723262331e?utm_campaign=Product%20Management&utm_source=1103)** | Roanoke, VA, United States | On Site | Nov 25 |
 | ↳ | **[Product Demonstrator Part Time - 8185](https://jobright.ai/jobs/info/692637bdf0beb07232623301?utm_campaign=Product%20Management&utm_source=1103)** | Eau Claire, WI, United States | On Site | Nov 25 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Product Acceptance Specialist](https://jobright.ai/jobs/info/69262b8e27bf2f41a2c43f63?utm_campaign=Product%20Management&utm_source=1103)** | North Charleston, SC | On Site | Nov 25 |
 | **[Capital One](http://www.capitalone.com)** | **[Product Management Senior Associate, Commercial Banking](https://jobright.ai/jobs/info/685c56ea674c8f94e8e48890?utm_campaign=Product%20Management&utm_source=1103)** | McLean, VA | On Site | Nov 25 |
